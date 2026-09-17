@@ -1,0 +1,347 @@
+[
+  {
+    "category": "dba-degrees",
+    "slug": "doctor-of-business-administration",
+    "title": "Doctor of Business Administration"
+  },
+  {
+    "category": "masters-of-business-administration",
+    "slug": "mba-in-leadership-excellence",
+    "title": "MBA in Leadership Excellence"
+  },
+  {
+    "category": "masters-degrees",
+    "slug": "ma-in-entrepreneurship",
+    "title": "MA in Entrepreneurship"
+  },
+  {
+    "category": "masters-degrees",
+    "slug": "ma-in-leadership-and-business-development",
+    "title": "MA in Leadership and Business Development"
+  },
+  {
+    "category": "masters-degrees",
+    "slug": "msc-in-business-economics",
+    "title": "MSc in Business Economics"
+  },
+  {
+    "category": "masters-degrees",
+    "slug": "ma-in-human-resource-management",
+    "title": "MA in Human Resource Management"
+  },
+  {
+    "category": "masters-degrees",
+    "slug": "msc-in-computer-science",
+    "title": "MSc in Computer Science"
+  },
+  {
+    "category": "masters-degrees",
+    "slug": "msc-in-computer-science-blockchain-and-fintech",
+    "title": "MSc in Computer Science Blockchain and Fintech"
+  },
+  {
+    "category": "masters-degrees",
+    "slug": "msc-in-computer-science-data-science-and-artificial-intelligence",
+    "title": "MSc in Computer Science Data Science and Artificial Intelligence"
+  },
+  {
+    "category": "masters-degrees",
+    "slug": "msc-in-computer-science-information-security-and-cryptography",
+    "title": "MSc in Computer Science Information Security and Cryptography"
+  },
+  {
+    "category": "masters-degrees",
+    "slug": "ma-in-international-management-and-global-business",
+    "title": "MA in International Management and Global Business"
+  },
+  {
+    "category": "postgraduate-diploma-programmes",
+    "slug": "pg-in-business-economics",
+    "title": "Postgraduate Diploma in Business Economics"
+  },
+  {
+    "category": "postgraduate-diploma-programmes",
+    "slug": "pg-in-entrepreneurship",
+    "title": "Postgraduate Diploma in Entrepreneurship"
+  },
+  {
+    "category": "postgraduate-diploma-programmes",
+    "slug": "pg-in-computer-science",
+    "title": "Postgraduate Diploma in Computer Science"
+  },
+  {
+    "category": "postgraduate-diploma-programmes",
+    "slug": "pg-in-computer-science-data-science-and-artificial-intelligence",
+    "title": "Postgraduate Diploma in Computer Science Data Science and Artificial Intelligence"
+  },
+  {
+    "category": "postgraduate-diploma-programmes",
+    "slug": "pg-in-business-administration-in-leadership-excellence",
+    "title": "Postgraduate Diploma in Business Administration in Leadership Excellence"
+  },
+  {
+    "category": "postgraduate-diploma-programmes",
+    "slug": "pg-in-computer-science-information-security-and-cryptography",
+    "title": "Postgraduate Diploma in Computer Science Information Security and Cryptography"
+  },
+  {
+    "category": "postgraduate-diploma-programmes",
+    "slug": "pg-in-leadership-and-business-development",
+    "title": "Postgraduate Diploma in Leadership and Business Development"
+  },
+  {
+    "category": "postgraduate-diploma-programmes",
+    "slug": "pg-in-international-management-and-global-business",
+    "title": "Postgraduate Diploma in International Management and Global Business"
+  },
+  {
+    "category": "postgraduate-diploma-programmes",
+    "slug": "pg-in-computer-science-blockchain-and-fintech",
+    "title": "Postgraduate Diploma in Computer Science Blockchain and Fintech"
+  },
+  {
+    "category": "postgraduate-diploma-programmes",
+    "slug": "pg-in-human-resource-management",
+    "title": "Postgraduate Diploma in Human Resource Management"
+  },
+  {
+    "category": "bachelor-degrees",
+    "slug": "bsc-in-computer-science",
+    "title": "BSc in Computer Science"
+  },
+  {
+    "category": "bachelor-degrees",
+    "slug": "bba-business-administration",
+    "title": "Bachelor of Business Administration"
+  },
+  {
+    "category": "diploma-programmes",
+    "slug": "undergraduate-in-computer-networks-engineering",
+    "title": "Undergraduate Diploma in Computer Networks Engineering"
+  },
+  {
+    "category": "diploma-programmes",
+    "slug": "undergraduate-in-computer-science",
+    "title": "Undergraduate Diploma in Computer Science"
+  },
+  {
+    "category": "diploma-programmes",
+    "slug": "undergraduate-in-business-administration",
+    "title": "Undergraduate Diploma in Business Administration"
+  },
+  {
+    "category": "award-certificates",
+    "slug": "award-in-advanced-microeconomics",
+    "title": "Award in Advanced Microeconomics"
+  },
+  {
+    "category": "award-certificates",
+    "slug": "award-in-introduction-to-databases",
+    "title": "Award in Introduction to Databases"
+  },
+  {
+    "category": "award-certificates",
+    "slug": "award-in-scientific-reading-and-writing-in-computer-science",
+    "title": "Award in Scientific Reading and Writing in Computer Science"
+  },
+  {
+    "category": "award-certificates",
+    "slug": "award-in-computer-architecture-and-operating-systems",
+    "title": "Award in Computer Architecture and Operating Systems"
+  },
+  {
+    "category": "award-certificates",
+    "slug": "award-in-introduction-to-programming-with-python",
+    "title": "Award in Introduction to Programming With Python"
+  },
+  {
+    "category": "award-certificates",
+    "slug": "award-in-introduction-to-formal-logic",
+    "title": "Award in Introduction to Formal Logic"
+  },
+  {
+    "category": "award-certificates",
+    "slug": "award-in-advanced-quantitative-techniques-for-business-research-1",
+    "title": "Award in Advanced Quantitative Techniques for Business Research 1"
+  },
+  {
+    "category": "award-certificates",
+    "slug": "award-in-ethics-and-environmental-social-governance-esg-frameworks",
+    "title": "Award in Ethics and Environmental Social Governance Esg Frameworks"
+  },
+  {
+    "category": "award-certificates",
+    "slug": "award-in-advanced-quantitative-techniques-for-business-research-2",
+    "title": "Award in Advanced Quantitative Techniques for Business Research 2"
+  },
+  {
+    "category": "award-certificates",
+    "slug": "award-in-managerial-accounting-and-financial-analysis",
+    "title": "Award in Managerial Accounting and Financial Analysis"
+  },
+  {
+    "category": "award-certificates",
+    "slug": "award-in-advanced-macroeconomics",
+    "title": "Award in Advanced Macroeconomics"
+  },
+  {
+    "category": "award-certificates",
+    "slug": "award-in-fintech-and-blockchain-computer-science",
+    "title": "Award in Fintech and Blockchain Computer Science"
+  },
+  {
+    "category": "award-certificates",
+    "slug": "award-in-cryptography-computer-science",
+    "title": "Award in Cryptography Computer Science"
+  },
+  {
+    "category": "award-certificates",
+    "slug": "award-in-data-structures-and-algorithms-computer-science",
+    "title": "Award in Data Structures and Algorithms Computer Science"
+  },
+  {
+    "category": "award-certificates",
+    "slug": "award-in-formal-verification-computer-science",
+    "title": "Award in Formal Verification Computer Science"
+  },
+  {
+    "category": "award-certificates",
+    "slug": "award-in-data-visualisation-computer-science",
+    "title": "Award in Data Visualisation Computer Science"
+  },
+  {
+    "category": "award-certificates",
+    "slug": "award-in-data-intensive-systems-computer-science",
+    "title": "Award in Data Intensive Systems Computer Science"
+  },
+  {
+    "category": "award-certificates",
+    "slug": "award-in-software-engineering-computer-science",
+    "title": "Award in Software Engineering Computer Science"
+  },
+  {
+    "category": "award-certificates",
+    "slug": "award-in-natural-language-processing-computer-science",
+    "title": "Award in Natural Language Processing Computer Science"
+  },
+  {
+    "category": "award-certificates",
+    "slug": "award-in-machine-learning-computer-science",
+    "title": "Award in Machine Learning Computer Science"
+  },
+  {
+    "category": "award-certificates",
+    "slug": "award-in-object-oriented-modelling-computer-science",
+    "title": "Award in Object Oriented Modelling Computer Science"
+  },
+  {
+    "category": "award-certificates",
+    "slug": "award-in-principles-of-brand-formation-entrepreneurship",
+    "title": "Award in Principles of Brand Formation Entrepreneurship"
+  },
+  {
+    "category": "award-certificates",
+    "slug": "award-in-principles-of-venture-formation",
+    "title": "Award in Principles of Venture Formation"
+  },
+  {
+    "category": "award-certificates",
+    "slug": "award-in-principles-of-entrepreneurship",
+    "title": "Award in Principles of Entrepreneurship"
+  },
+  {
+    "category": "award-certificates",
+    "slug": "award-in-research-methods-in-computer-science",
+    "title": "Award in Research Methods in Computer Science"
+  },
+  {
+    "category": "award-certificates",
+    "slug": "award-in-introduction-to-artificial-intelligence-computer-science",
+    "title": "Award in Introduction to Artificial Intelligence Computer Science"
+  },
+  {
+    "category": "award-certificates",
+    "slug": "award-in-international-organisational-management-and-development",
+    "title": "Award in International Organisational Management and Development"
+  },
+  {
+    "category": "award-certificates",
+    "slug": "award-in-strategic-leadership",
+    "title": "Award in Strategic Leadership"
+  },
+  {
+    "category": "award-certificates",
+    "slug": "award-in-project-management",
+    "title": "Award in Project Management"
+  },
+  {
+    "category": "award-certificates",
+    "slug": "award-in-international-marketing",
+    "title": "Award in International Marketing"
+  },
+  {
+    "category": "award-certificates",
+    "slug": "award-in-international-business-transactions",
+    "title": "Award in International Business Transactions"
+  },
+  {
+    "category": "award-certificates",
+    "slug": "award-in-international-corporate-finance",
+    "title": "Award in International Corporate Finance"
+  },
+  {
+    "category": "award-certificates",
+    "slug": "award-in-public-speaking-and-presentation-skills",
+    "title": "Award in Public Speaking and Presentation Skills"
+  },
+  {
+    "category": "award-certificates",
+    "slug": "award-in-global-business-strategy",
+    "title": "Award in Global Business Strategy"
+  },
+  {
+    "category": "award-certificates",
+    "slug": "award-in-recruitment-and-employee-selection",
+    "title": "Award in Recruitment and Employee Selection"
+  },
+  {
+    "category": "award-certificates",
+    "slug": "award-in-performance-management-and-compensation",
+    "title": "Award in Performance Management and Compensation"
+  },
+  {
+    "category": "award-certificates",
+    "slug": "award-in-public-policy-analysis",
+    "title": "Award in Public Policy Analysis"
+  },
+  {
+    "category": "award-certificates",
+    "slug": "award-in-cross-media-marketing",
+    "title": "Award in Cross Media Marketing"
+  },
+  {
+    "category": "award-certificates",
+    "slug": "award-in-professional-development-leadership-and-business-development",
+    "title": "Award in Professional Development Leadership and Business Development"
+  },
+  {
+    "category": "award-certificates",
+    "slug": "award-in-introduction-to-computer-security-computer-science",
+    "title": "Award in Introduction to Computer Security Computer Science"
+  },
+  {
+    "category": "award-certificates",
+    "slug": "award-in-database-systems-implementation-computer-science",
+    "title": "Award in Database Systems Implementation Computer Science"
+  },
+  {
+    "category": "award-certificates",
+    "slug": "award-in-employee-and-labour-relations",
+    "title": "Award in Employee and Labour Relations"
+  },
+  {
+    "category": "award-certificates",
+    "slug": "award-in-training-and-development",
+    "title": "Award in Training and Development"
+  }
+]

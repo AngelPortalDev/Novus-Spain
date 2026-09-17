@@ -1,0 +1,23 @@
+const { chromium } = require(process.env.PLAYWRIGHT_MODULE || 'C:/xampp/htdocs/jobs/.runtime/browser/node_modules/playwright');
+const fs = require('fs');
+(async () => {
+  const browser = await chromium.launch({ channel: 'chrome', headless: true });
+  const page = await browser.newPage({ viewport: { width: 1440, height: 1000 } });
+  fs.mkdirSync('storage/app/preview', { recursive: true });
+  await page.goto('http://127.0.0.1:8014', { waitUntil: 'networkidle' });
+  if (await page.locator('link[href*="novus.css"]').count()) throw new Error('Redesigned stylesheet is still loaded');
+  await page.locator('.banner.v__2').waitFor();
+  await page.screenshot({ path: 'storage/app/preview/restored-desktop.png', fullPage: true });
+  await page.goto('http://127.0.0.1:8014/programmes', { waitUntil: 'networkidle' });
+  await page.locator('.rts-breadcrumb').waitFor();
+  await page.getByLabel('Find your programme').fill('entrepreneurship');
+  await page.getByRole('button', { name: 'Search', exact: true }).click();
+  await page.screenshot({ path: 'storage/app/preview/restored-programmes.png', fullPage: true });
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.goto('http://127.0.0.1:8014', { waitUntil: 'networkidle' });
+  await page.locator('#menu-btn').click();
+  await page.locator('#side-bar.show').waitFor();
+  await page.screenshot({ path: 'storage/app/preview/restored-mobile-menu.png' });
+  console.log('Original template homepage, stylesheet, programme search and mobile menu verified.');
+  await browser.close();
+})().catch(error => { console.error(error); process.exit(1); });
