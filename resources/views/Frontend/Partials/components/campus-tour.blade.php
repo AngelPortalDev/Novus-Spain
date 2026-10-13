@@ -1,21 +1,57 @@
-<section class="rts-campus-tour {{ $class ?? '' }}">
-    <div class="container">
-        <div class="row justify-content-center">
-            <h2 class="section-title rt-center mb--50">Our Campus Tour</h2>
-            <div class="col-12">
-                <div class="rts-video-section height-500 mb--50">
-                    <a href="https://www.youtube.com/watch?v=Uwq1uiuM_9w" class="rts-video-section-player popup-video video-btn">
-                        <i class="fa-sharp fa-solid fa-play"></i>
-                    </a>
-                    <img src="{{asset('assets/images/about/video-thumb.jpg')}}" alt="video-bg">
+<section class="rts-application-procedure rts-section-padding rts-campus-tour {{ $class ?? '' }}">
+        <div class="container">
+            <div class="row justify-content-sm-center">
+                <div class="col-lg-12 col-sm-11">
+                    <div class="rts__section--wrapper v__5">
+                        <h2 class="rts-section-title">Student Information</h2>
+                        <!-- <p class="w-520">If you have any questions or need assistance at any step of the application process, our admissions team is here to help. We look forward to welcoming you to Unipix University.</p> -->
+                    </div>
+                    <!-- <div class="rts__section--wrapper v__5">
+                        <h2 class="rts__section--title">DISCOVER OUR PROGRAMMES</h2>
+                       </div> -->
                 </div>
             </div>
-            <div class="col-lg-8">
-                <div class="rts-video-section-text rt-center mx-3">
-                    <p>Embark on a journey of knowledge, discovery, and growth at  Novus Spain University. Our admissions process is designed to identify bright, motivated individuals who are eager to contribute to our dynamic academic community. Whether you're a recent high school graduate or a transfer student seeking a new academic home, we invite you to explore the possibilities that await you.</p>
-                    <a href="{{ route('campus-life') }}" class="mt--15 about-btn rts-nbg-btn btn-arrow">Visit Campus <span><i class="fa-sharp fa-regular fa-arrow-right"></i></span></a>
+            <!-- apply content -->
+            <div class="row justify-content-sm-center justify-content-md-start g-5">
+                <div class="col-lg-4 col-md-6 col-sm-11">
+                    <div class="single-procedure">
+                        <div class="procedure-image">
+                            <img src="assets/images/apply/01.jpg" alt="application-thumb">
+                        </div>
+                        <div class="rt-clip-serial rt-clip-text">01</div>
+                        <div class="icon">
+                            <img src="assets/images/icon/07.svg" alt="">
+                        </div>
+                        <a href="#">Programme Information Sessions</a>
+                        <p>Learn more about available programmes, entry requirements, study formats and the application process.</p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-11">
+                    <div class="single-procedure">
+                        <div class="procedure-image">
+                            <img src="assets/images/apply/01.jpg" alt="application-thumb">
+                        </div>
+                        <div class="rt-clip-serial rt-clip-text">02</div>
+                        <div class="icon">
+                            <img src="assets/images/icon/06.svg" alt="">
+                        </div>
+                        <a href="#">International Student Guidance</a>
+                        <p>Understand the important steps to consider when preparing to study and live in Spain.</p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-11">
+                    <div class="single-procedure">
+                        <div class="procedure-image">
+                            <img src="assets/images/apply/01.jpg" alt="application-thumb">
+                        </div>
+                        <div class="rt-clip-serial rt-clip-text">03</div>
+                        <div class="icon">
+                            <img src="assets/images/icon/06.svg" alt="">
+                        </div>
+                        <a href="#">Getting Ready for Valencia</a>
+                        <p>Prepare for your studies with practical information about your arrival, accommodation and student life.</p>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
-</section>
+    </section>

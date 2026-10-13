@@ -316,4 +316,30 @@ class PageController extends BaseController
             'page_title' => 'Visa Requirements Page Template',
         ]);
     }
+
+          // Diploma Spanish Language
+    public function diplomaSpanishLanguage()
+    {
+        return $this->view('diploma-spanish-language',[
+            'page_title' => 'Diploma Spanish Language Page Template',
+        ]);
+    }
+
+          // Business English Course
+    public function businessEnglishCourse()
+    {
+        return $this->view('business-english-course',[
+            'page_title' => 'Business English Course Page Template',
+        ]);
+    }
+
+          // General English Course
+    public function generalEnglishCourse()
+    {
+        return $this->view('general-english-course',[
+            'page_title' => 'General English Course Page Template',
+        ]);
+    }
+
+
 }

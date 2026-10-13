@@ -43,7 +43,10 @@ Route::get('/faculty-sub-details', [PageController::class, 'facultySubDetails'])
 Route::get('/faculty-sub', [PageController::class, 'facultySub'])->name('faculty-sub');
 Route::get('/faculty', [PageController::class, 'faculty'])->name('faculty');
 Route::get('/tution-fee', [PageController::class, 'tutionFee'])->name('tution-fee');
+Route::get('/business-english-course', [PageController::class, 'businessEnglishCourse'])->name('business-english-course');
 Route::get('/visa-requirement', [PageController::class, 'visaRequirements'])->name('visa-requirement');
+Route::get('/diploma-spanish-language', [PageController::class, 'diplomaSpanishLanguage'])->name('diploma-spanish-language');
+Route::get('/general-english-course', [PageController::class, 'generalEnglishCourse'])->name('general-english-course');
 
 Route::get('/research', [NovusController::class, 'catalogue'])->defaults('category', 'dba-degrees')->name('research');
 Route::get('/programmes', [NovusController::class, 'catalogue'])->name('programmes');

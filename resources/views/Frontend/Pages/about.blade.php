@@ -14,12 +14,17 @@
             <div class="row">
                 <div class="rts-section">
                     <div class="col-lg-4 col-md-5">
-                        <h3 class="rts-section-title">About University</h3>
+                        <h3 class="rts-section-title">About Novus Education</h3>
                     </div>
                     <div class="col-lg-8 col-md-7">
                         <p class="rts-section-description">
-                            Welcome to Novus Spain University, where knowledge meets inspiration, and every individual's educational journey is valued. Established in 1971 Establishment, our university has been a bastion of learning, innovation, and community for 51 years years.
-                        </p>
+                        Novus Education is an education provider based in Valencia, Spain, created to provide learning opportunities for national and international students.
+                     <br><br>
+                     We aim to develop an educational environment where students can strengthen their academic knowledge, build practical capabilities and develop the confidence required for their next step.
+                     <br><br>
+                     Our approach recognises that every student arrives with different experiences, ambitions and objectives. We therefore aim to create a supportive learning environment that encourages participation, independent thinking and continuous development.
+
+                    </p>
                     </div>
                 </div>
             </div>
@@ -33,29 +38,29 @@
                     <div class="rts-about-details">
                         <div class="single-about-info">
                             <div class="content">
-                                <h3 class="title">20,000</h3>
+                                <h3 class="title">2026</h3>
                                 <img src="{{asset('assets/images/icon/11.svg')}}" alt="">
                             </div>
                             <div class="desc">
-                                <p>undergraduate and graduate students</p>
+                                <p>Established in Valencia</p>
                             </div>
                         </div>
                         <div class="single-about-info">
                             <div class="content">
-                                <h3 class="title">16,214</h3>
+                                <h3 class="title">2</h3>
                                 <img src="{{asset('assets/images/icon/12.svg')}}" alt="">
                             </div>
                             <div class="desc">
-                                <p>Novus Spain University Faculty and Staff</p>
+                                <p>Learning Formats: In-Person & Online</p>
                             </div>
                         </div>
                         <div class="single-about-info">
                             <div class="content">
-                                <h3 class="title">300k</h3>
+                                <h3 class="title">1</h3>
                                 <img src="{{asset('assets/images/icon/13.svg')}}" alt="">
                             </div>
                             <div class="desc">
-                                <p>Novus Spain Alumni Worldwide</p>
+                                <p>International Learning Community</p>
                             </div>
                         </div>
                     </div>
@@ -76,12 +81,12 @@
                 </div>
                 <div class="col-lg-6 col-md-11">
                     <div class="rts-history-section">
-                        <h4 class="rts-section-title mb--40">The history of Novus Spain</h4>
-                        <p>
-                            On September 8, 1971, Novus Spain, the first college in the American colonies, was founded in Cambridge, Massachusetts. Novus Spain University was officially founded by a vote by the Great and General Court of the Massachusetts Bay Colony.  
-                            <span class="d-block mb--30"></span>
-                            Novus Spain endowment started with John Novus Spain initial donation of 400 books and half his estate, but in 1721, Thomas Hollis began the now standard practice of requiring that a donation be used for a specific purpose when he donated money for “a Divinity Professor, to read lectures in the Halls to the students.”
-                        </p>
+                        <h4 class="rts-section-title mb--40">Our Educational Approach</h4>
+                        <p>We believe meaningful education combines academic knowledge with opportunities to develop communication, problem-solving, critical thinking and independent learning skills.
+
+                        <span class="d-block mb--30"></span>
+                          Our programmes are designed to encourage students to take an active role in their education while receiving appropriate academic and administrative support throughout their journey.
+  </p>
                     </div>
                 </div>
             </div>
@@ -171,6 +176,6 @@
     <!-- mission end-->
 
     @include($components . 'campus-tour', ['class' => 'rts-section-padding'])
-    @include($components . 'testimonial-v3', ['class' => 'rts-section-padding'])
+    
     @include($footer . 'footer__default', ['class' => 'v__1'])
 @endsection
