@@ -98,7 +98,7 @@
                                         <path id="circle" d="M50,50 m-37,0a37,37 0 1,1 74,0a37,37 0 1,1 -74,0"></path>
                                     </defs>
                                     <text>
-                                        <textPath xlink:href="#circle">Novus Spain University * Estd. 1971 * Explore Future *
+                                        <textPath xlink:href="#circle">Novus Education * Estd. 2026 * Explore Future *
                                         </textPath>
                                     </text>
                                 </svg>
