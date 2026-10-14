@@ -31,7 +31,7 @@
                                                 <h1 class="banner__slides--content--title">
                                                    Build Your Future Through Education
                                                 </h1>
-                                                <a href="{{ route('program-single') }}" class="rts-theme-btn btn-arrow">View Our Program
+                                                <a href="{{ route('business-english-course') }}" class="rts-theme-btn btn-arrow">View Our Program
                                                     <span><i class="fa-regular fa-arrow-right"></i></span>
                                                 </a>
                                             </div>
@@ -56,7 +56,7 @@
                                                 <h1 class="banner__slides--content--title">
                                                    An International Learning Experience in Spain
                                                 </h1>
-                                                <a href="{{ route('program-single') }}" class="rts-theme-btn btn-arrow">View Our Program
+                                                <a href="{{ route('general-english-course') }}" class="rts-theme-btn btn-arrow">View Our Program
                                                     <span><i class="fa-regular fa-arrow-right"></i></span>
                                                 </a>
                                             </div>
@@ -71,13 +71,12 @@
             </div>
             <div class="banner__slides--navigation">
                 <div class="banner__slides--navigation--single">
-                    <h5 class="nav__title">Undergraduate</h5>
-                    <a href="{{ route('academic') }}" class="nav__description">Browse the undergraduate
-                        programs</a>
+                    <h5 class="nav__title">English Language</h5>
+                    <a href="{{ route('business-english-course') }}" class="nav__description">Browse our business English programs</a>
                 </div>
                 <div class="banner__slides--navigation--single">
-                    <h5 class="nav__title">Graduate</h5>
-                    <a href="{{ route('academic') }}" class="nav__description">Browse the graduate programs</a>
+                    <h5 class="nav__title">Spanish Language</h5>
+                    <a href="{{ route('diploma-spanish-language') }}" class="nav__description">Browse our Spanish language programs</a>
                 </div>
             </div>
         </div>
@@ -177,111 +176,81 @@
     </div> -->
     <!-- fun fact end -->
     <!-- academic program -->
-    <section class="program rts-section-padding">
+   <section class="rts__section rts__light pt--120 pb--120">
         <div class="container">
-            <div class="row rt-center">
-                <div class="col-sm-12">
-                    <div class="rts__section--wrapper v__5">
-                        <h2 class="rts__section--title">DISCOVER OUR PROGRAMMES</h2>
-                       </div>
-                       <!-- <p class="about__right--content--description">Explore educational opportunities designed to support different academic, professional and personal development goals.</p> -->
-
+            <div class="row">
+                <div class="rts__section--wrapper rt__lowercase">
+                    <h2 class="rts__section--title">DISCOVER OUR PROGRAMMES</h2>
+                    <!-- <div class="rts__section--link">
+                        <a class="rts-nbg-btn btn-arrow" href="">View All<span><i class="fa-sharp fa-regular fa-arrow-right"></i>
+                        </span></a>
+                    </div> -->
                 </div>
             </div>
-            <div class="row justify-content-md-center g-0">
-                <div class="col-lg-4 col-md-10">
-                    <div class="program__single--item">
-                        <div class="program__single--item--bg">
-                            <img src="{{asset('assets/images/program/program__bg.jpg')}}" alt="">
+            <!-- event content -->
+            <div class="row g-5">
+                <!-- single event item -->
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="rts__single--event v__2">
+                        <div class="rts__single--event--thumb">
+                            <a href="{{ route('business-english-course') }}">
+                                <img src="assets/images/event/01.jpg" alt="event">
+                            </a>
                         </div>
-                        <h5 class="program__single--item--title">Higher Education Programmes</h5>
-                        
-                        <ul class="program__single--item--list">
-                            <li class="program__single--item--list--item">
-                                <a href="{{ route('program-single') }}" class="link__list">Anthropology
-                                    <span><i class="fa-regular fa-arrow-right"></i></span>
-                                </a>
-                            </li>
-                            <li class="program__single--item--list--item">
-                                <a href="{{ route('program-single') }}" class="link__list">Applied Mathematics
-                                    <span><i class="fa-regular fa-arrow-right"></i></span>
-                                </a>
-                            </li>
-                            <li class="program__single--item--list--item">
-                                <a href="{{ route('program-single') }}" class="link__list">Biomedical Engineering
-                                    <span><i class="fa-regular fa-arrow-right"></i></span>
-                                </a>
-                            </li>
-                            <li class="program__single--item--list--item">
-                                <a href="{{ route('program-single') }}" class="link__list">Astrophysics
-                                    <span><i class="fa-regular fa-arrow-right"></i></span>
-                                </a>
-                            </li>
-                        </ul>
+                        <div class="rts__single--event--meta">
+                           
+                            <h5 class="rts__single--event--meta--title">
+                                <a href="{{ route('business-english-course') }}">
+                                    Business English Course</a>
+                            </h5>
+                            <a class="rts__round--btn" href="{{ route('business-english-course') }}">
+                                <i class="fa-light fa-arrow-right"></i>
+                            </a>
+                        </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-10">
-                    <div class="program__single--item v__2">
-                        <div class="program__single--item--bg">
-                            <img src="{{asset('assets/images/program/program__bg.jpg')}}" alt="">
+                <!-- single event item -->
+                <!-- single event item -->
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="rts__single--event v__2">
+                        <div class="rts__single--event--thumb">
+                            <a href="{{ route('general-english-course') }}">
+                                <img src="assets/images/event/02.jpg" alt="event">
+                            </a>
                         </div>
-                        <h5 class="program__single--item--title">Language & Academic Preparation</h5>
-                        
-                        <ul class="program__single--item--list">
-                            <li class="program__single--item--list--item">
-                                <a href="{{ route('program-single') }}" class="link__list">Applied Computation
-                                    <span><i class="fa-regular fa-arrow-right"></i></span>
-                                </a>
-                            </li>
-                            <li class="program__single--item--list--item">
-                                <a href="{{ route('program-single') }}" class="link__list">Applied Mathematics
-                                    <span><i class="fa-regular fa-arrow-right"></i></span>
-                                </a>
-                            </li>
-                            <li class="program__single--item--list--item">
-                                <a href="{{ route('program-single') }}" class="link__list">Applied Computation
-                                    <span><i class="fa-regular fa-arrow-right"></i></span>
-                                </a>
-                            </li>
-                            <li class="program__single--item--list--item">
-                                <a href="{{ route('program-single') }}" class="link__list">Architecture 
-                                    <span><i class="fa-regular fa-arrow-right"></i></span>
-                                </a>
-                            </li>
-                        </ul>
+                        <div class="rts__single--event--meta">
+                            
+                            <h5 class="rts__single--event--meta--title">
+                                <a href="{{ route('general-english-course') }}">
+                                   General English Course</a>
+                            </h5>
+                            <a class="rts__round--btn" href="{{ route('general-english-course') }}">
+                                <i class="fa-light fa-arrow-right"></i>
+                            </a>
+                        </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-10">
-                    <div class="program__single--item">
-                        <div class="program__single--item--bg">
-                            <img src="{{asset('assets/images/program/program__bg.jpg')}}" alt="">
+                <!-- single event item -->
+                <!-- single event item -->
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="rts__single--event v__2">
+                        <div class="rts__single--event--thumb">
+                            <a href="{{ route('diploma-spanish-language') }}">
+                                <img src="assets/images/event/03.jpg" alt="event">
+                            </a>
                         </div>
-                        <h5 class="program__single--item--title">Professional & Continuing Education</h5>
-                        
-                        <ul class="program__single--item--list">
-                            <li class="program__single--item--list--item">
-                                <a href="{{ route('program-single') }}" class="link__list">Personal Development
-                                    <span><i class="fa-regular fa-arrow-right"></i></span>
-                                </a>
-                            </li>
-                            <li class="program__single--item--list--item">
-                                <a href="{{ route('program-single') }}" class="link__list">Arts and Humanities
-                                    <span><i class="fa-regular fa-arrow-right"></i></span>
-                                </a>
-                            </li>
-                            <li class="program__single--item--list--item">
-                                <a href="{{ route('program-single') }}" class="link__list">Health and Wellness
-                                    <span><i class="fa-regular fa-arrow-right"></i></span>
-                                </a>
-                            </li>
-                            <li class="program__single--item--list--item">
-                                <a href="{{ route('program-single') }}" class="link__list">Social Sciences
-                                    <span><i class="fa-regular fa-arrow-right"></i></span>
-                                </a>
-                            </li>
-                        </ul>
+                        <div class="rts__single--event--meta">
+                           
+                            <h5 class="rts__single--event--meta--title">
+                                <a href="{{ route('diploma-spanish-language') }}">Diploma in Spanish Language</a>
+                            </h5>
+                            <a class="rts__round--btn" href="{{ route('diploma-spanish-language') }}">
+                                <i class="fa-light fa-arrow-right"></i>
+                            </a>
+                        </div>
                     </div>
                 </div>
+                <!-- single event item -->
             </div>
         </div>
     </section>

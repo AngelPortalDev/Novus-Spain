@@ -4,7 +4,7 @@
     @include($elements . 'breadcrumb', [
         'class' => 'breadcrumb-height breadcumb-bg',
         'image' => 'breadcrumb.jpg',
-        'title' => 'About Novus Spain University',
+        'title' => 'About Novus Education',
         'page' => 'about'    
     ])
 
@@ -14,7 +14,7 @@
             <div class="row">
                 <div class="rts-section">
                     <div class="col-lg-4 col-md-5">
-                        <h3 class="rts-section-title">About Novus Education</h3>
+                        <h3 class="rts-section-title">Novus Education Spain</h3>
                     </div>
                     <div class="col-lg-8 col-md-7">
                         <p class="rts-section-description">
@@ -95,7 +95,7 @@
     <!-- history end-->
 
     <!-- funfact -->
-   <div class="rts-funfact rts-section-padding">
+   <!-- <div class="rts-funfact rts-section-padding">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-10 ">
@@ -116,12 +116,12 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- funfact end -->
 
 
     <!-- mission -->
-    <section class="rts-mission">
+    <section class="rts-mission pt--100">
         <div class="container">
             <div class="row justify-content-center rt-center">
                 <div class="rts-section mb--50">
