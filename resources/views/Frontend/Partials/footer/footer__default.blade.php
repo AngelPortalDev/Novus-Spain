@@ -13,9 +13,9 @@
                
                     <div class="footer__widget--social">
                         <ul class="social">
-                            <li class="social__link"><a href="#"><i class="fa-brands fa-facebook"></i></a></li>
-                            <li class="social__link"><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
-                            <li class="social__link"><a href="#"><i class="fa-brands fa-linkedin"></i></a></li>
+                            <li class="social__link"><a href="https://www.facebook.com/novuseducations"><i class="fa-brands fa-facebook"></i></a></li>
+                            <li class="social__link"><a href="https://www.instagram.com/novus_education_spain"><i class="fa-brands fa-instagram"></i></a></li>
+                            <li class="social__link"><a href="https://www.linkedin.com/company/novus-education-spain"><i class="fa-brands fa-linkedin"></i></a></li>
                             <!-- <li class="social__link"><a href="#"><i class="fa-brands fa-youtube"></i></a></li> -->
                         </ul>
                     </div>
@@ -26,12 +26,10 @@
                     <h6 class="footer__widget--title">Programmes</h6>
                     <div class="footer__widget--menu">
                         <ul>
-                                <li><a href="{{ route('academic-area') }}">Doctoral Degrees</a></li>
-                    <li><a href="{{ route('academic-area') }}">MBA Degrees</a></li>
-                    <li><a href="{{ route('academic-area') }}">Masters Degrees</a></li>
-                    <li><a href="{{ route('academic-area') }}">Postgraduate Programmes</a></li>
-                    <li><a href="{{ route('academic-area') }}">Bachelor Degrees</a></li>
-                    <li><a href="{{ route('academic-area') }}">Diploma Programmes</a></li>
+                    <li><a href="{{ route('business-english-course') }}">Business English Course</a></li>
+                    <li><a href="{{ route('general-english-course') }}">General English Course</a></li>
+                    <li><a href="{{ route('diploma-spanish-language') }}">Diploma in Spanish Language</a></li>
+       
                         </ul>
                     </div>
                 </div>
@@ -41,12 +39,11 @@
                     <h6 class="footer__widget--title">Quick Links</h6>
                     <div class="footer__widget--menu">
                         <ul>
-                            <li><a href="{{ route('about') }}">About </a></li>
-                            <li> <a href="#">Digital Campus</a></li>
-                            <li><a href="#">English School</a></li>
-                            <li><a href="{{ route('faculty') }}">Our Faculty</a></li>
-                            <li><a href="#" >Student Life</a></li>
-                             <li><a href="{{ route('campus-life') }}">Study in Spain</a></li>
+                            <!-- <li><a href="{{ route('about') }}">About </a></li>
+                            <li> <a href="{{ route('contact') }}">Contact</a></li> -->
+                            <li><a href="{{ route('visa-requirements') }}">Visa Requirements</a></li>
+                            <li><a href="{{ route('faculty') }}">Our Team</a></li>
+                            <li><a href="{{ route('campus-life') }}" >Student Life</a></li>
                         </ul>
                     </div>
                 </div>
@@ -55,8 +52,8 @@
                 <div class="footer__widget">
                     <h6 class="footer__widget--title">Quick Button</h6>
                     <div class="footer__widget--button">
-                        <a href="{{ route('admission') }}" class="cta__button active">Applying</a>
-                        <a href="{{ route('scholarship') }}" class="cta__button">scholarship</a>
+                        <a href="{{ route('contact') }}" class="cta__button active">Applying</a>
+                        <a href="{{ route('contact') }}" class="cta__button">scholarship</a>
                     </div>
                 </div>
             </div>
@@ -71,7 +68,7 @@
         <div class="row">
             <div class="col-sm-12">
                 <div class="copyright__wrapper">
-                    <p>Copyright &copy; {{ date('Y') }} All Rights Reserved by <a href="#">Novus Spain</a></p>
+                    <p>Copyright &copy; {{ date('Y') }} All Rights Reserved by <a href="#">Novus Education</a></p>
                 </div>
             </div>
         </div>
