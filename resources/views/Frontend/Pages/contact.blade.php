@@ -24,8 +24,7 @@
                                     <i class="fa-thin fa-map-location-dot"></i>
                                 </div>
                                 <p class="--p-m">
-                                    19 Menorca Street, 7, Valencia 
-                                    46023-Valencia,Spain<br>
+                                    Carrer Enric Valor, 1, 46980 Paterna, Valencia, Spain<br>
                                 </p>
                             </div>
                         </div>
