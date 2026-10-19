@@ -20,7 +20,7 @@
             <div class="offcanvase__info">
                 <div class="offcanvase__info--content">
                     <a href="callto:+34123456789"><span><i class="fa-sharp fa-light fa-phone"></i></span>+(34) 123-456-789</a>
-                    <a href="#"><span><i class="fa-sharp fa-light fa-location-dot"></i></span>19 Menorca Street, 7, Valencia 46023-Valencia,Spain</a>
+                    <a href="#"><span><i class="fa-sharp fa-light fa-location-dot"></i></span>Carrer Enric Valor, 1, 46980 Paterna, Valencia, Spain</a>
                     <div class="offcanvase__info--content--social">
                         <p class="title">Follow Us:</p>
                         <div class="social__links">
@@ -105,7 +105,7 @@
 
         <div class="offcanvase__info--content mt--30">
             <a href="callto:+34123456789"><span><i class="fa-sharp fa-light fa-phone"></i></span>+(34) 123-456-789</a>
-            <a href="#"><span><i class="fa-sharp fa-light fa-location-dot"></i></span>19 Menorca Street, 7, Valencia 46023-Valencia,Spain</a>
+            <a href="#"><span><i class="fa-sharp fa-light fa-location-dot"></i></span>Carrer Enric Valor, 1, 46980 Paterna, Valencia, Spain</a>
             <div class="offcanvase__info--content--social">
                 <p class="title">Follow Us:</p>
                 <div class="social__links">

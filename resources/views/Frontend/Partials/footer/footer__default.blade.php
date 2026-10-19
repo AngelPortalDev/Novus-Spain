@@ -7,7 +7,7 @@
                 <div class="footer__widget">
                     <div class="footer__widget--logo">
                          <h6 class="footer__widget--title">Novus Spain</h6>
-                         <p><b>Campus</b> : 19 Menorca Street, 7, Valencia 46023-Valencia,Spain</p>
+                         <p><b>Campus</b> : Carrer Enric Valor, 1, 46980 Paterna, Valencia, Spain</p>
                         <!-- <a href="index"><img src="{{asset('assets/images/logo/logo__white.svg')}}" alt="logo"></a> -->
                     </div>
                
