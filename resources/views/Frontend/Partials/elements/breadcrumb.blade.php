@@ -11,6 +11,9 @@
                         <li class="breadcrumb-item active" aria-current="page">{{ $page ?? '' }}</li>
                     </ul>
                     <h2 class="section-title">{{ $title ?? '' }}</h2>
+                    <p class="about__right--content--description" style="color: #fff;">
+                        {{ $description ?? '' }}
+                    </p>
                 </div>
             </div>
         </div>

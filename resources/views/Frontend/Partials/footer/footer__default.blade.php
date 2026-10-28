@@ -8,7 +8,7 @@
                     <div class="footer__widget--logo">
                          <h6 class="footer__widget--title">Novus Spain</h6>
                          <p><b>Campus</b> : Carrer Enric Valor, 1, 46980 Paterna, Valencia, Spain</p>
-                        <!-- <a href="index"><img src="{{asset('assets/images/logo/logo__white.svg')}}" alt="logo"></a> -->
+                         
                     </div>
                
                     <div class="footer__widget--social">
@@ -39,9 +39,8 @@
                     <h6 class="footer__widget--title">Quick Links</h6>
                     <div class="footer__widget--menu">
                         <ul>
-                            <!-- <li><a href="{{ route('about') }}">About </a></li>
-                            <li> <a href="{{ route('contact') }}">Contact</a></li> -->
-                            <li><a href="{{ route('visa-requirements') }}">Visa Requirements</a></li>
+
+                            <li><a href="{{ route('visa-requirement') }}">Visa Requirements</a></li>
                             <li><a href="{{ route('faculty') }}">Our Team</a></li>
                             <li><a href="{{ route('campus-life') }}" >Student Life</a></li>
                         </ul>

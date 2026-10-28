@@ -16008,7 +16008,7 @@ body.index-sc h1, body.index-sc h2, body.index-sc h3, body.index-sc h4, body.ind
 
 /*========== ALUMNI STORIES =========*/
 .alumni-banner .rts__section--description {
-  max-width: 470px;
+  /* max-width: 470px; */
   color: var(--rt-heading);
   text-align: center;
 }
