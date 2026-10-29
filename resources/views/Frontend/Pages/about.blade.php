@@ -4,7 +4,7 @@
     @include($elements . 'breadcrumb', [
         'class' => 'breadcrumb-height breadcumb-bg',
         'image' => 'breadcrumb.jpg',
-        'title' => 'About Novus Education',
+        'title' => 'Study in valencia - Spain',
         'page' => 'about'    
     ])
 
