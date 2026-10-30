@@ -23,10 +23,10 @@ class NovusController extends Controller
             'footer' => 'Frontend.Partials.footer.',
             'elements' => 'Frontend.Partials.elements.',
             'components' => 'Frontend.Partials.components.',
-            'page_title' => $data['title'] ?? 'Novus Spain',
+            'page_title' => $data['title'] ?? 'Novus Education',
             'categories' => config('novus.categories'), 'english' => config('novus.english'),
             'programmes' => self::programmes(), 'title' => 'Study in Spain',
-            'description' => 'Explore Novus Spain, programme information, admissions and student life in Spain.',
+            'description' => 'Explore Novus Education, programme information, admissions and student life in Spain.',
         ], $data));
     }
 

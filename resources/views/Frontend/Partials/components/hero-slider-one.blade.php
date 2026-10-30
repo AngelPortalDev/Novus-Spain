@@ -35,7 +35,7 @@
                                             <span>Est - 1971</span>
                                         </div>
                                         <h1 class="rts-slider-title">
-                                            Become a <span>Novus Spain</span> 
+                                            Become a <span>Novus Education</span> 
                                             University Students
                                         </h1>
                                         <p class="rts-slider-desc w-560">
@@ -68,7 +68,7 @@
                                             <span>Est - 1971</span>
                                         </div>
                                         <h1 class="rts-slider-title">
-                                            Become a <span>Novus Spain</span> 
+                                            Become a <span>Novus Education</span> 
                                             University Scholar
                                         </h1>
                                         <p class="rts-slider-desc w-560">
@@ -101,7 +101,7 @@
                                             <span>Est - 1971</span>
                                         </div>
                                         <h1 class="rts-slider-title">
-                                            Become a <span>Novus Spain</span> 
+                                            Become a <span>Novus Education</span> 
                                             University Scholar
                                         </h1>
                                         <p class="rts-slider-desc w-560">

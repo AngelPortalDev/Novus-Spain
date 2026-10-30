@@ -5,7 +5,7 @@
             <div class="col-lg-4 col-md-6 col-sm-6">
                 <div class="rts-footer-widget w-320">
                     <a href="{{ route('index') }}" class="d-block rts-footer-logo mb--40">
-                        <img src="{{asset('assets/images/logo/logo__white.svg')}}" alt="Novus Spain">
+                        <img src="{{asset('assets/images/logo/logo__white.svg')}}" alt="Novus Education">
                     </a>
                     <!-- <p>
                         We are passionate education dedicated to providing high-quality 
@@ -83,7 +83,7 @@
     <div class="container">
         <div class="row">
             <div class="rt-center">
-                <p class="--p-xs">Copyright &copy; {{date ('Y')}} All Rights Reserved by <a href="#">Novus Spain</a></p>
+                <p class="--p-xs">Copyright &copy; {{date ('Y')}} All Rights Reserved by <a href="#">Novus Education</a></p>
             </div>
         </div>
     </div>

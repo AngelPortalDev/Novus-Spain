@@ -5,7 +5,7 @@
     @include($elements . 'breadcrumb-sc', [
         'class' => 'sc__version sc__breadcrumb',
         'image' => 'breadcrumb-3.webp',
-        'title' => 'Apply to Novus Spain School',
+        'title' => 'Apply to Novus Education School',
         'page' => 'Program'
     ])
     <!-- breadcrumb area end -->
@@ -15,7 +15,7 @@
             <div class="container">
                 <div class="row">
                     <h3 class="rts-section-title">About Tuition & Fees</h3>
-                    <p class="desc">At Novus Spain School, we are committed to providing high-quality education at an affordable cost. Our tuition fee structure is designed to be transparent and accessible to all families. The fees cover academic instruction, access to school facilities, and essential learning resources.
+                    <p class="desc">At Novus Education School, we are committed to providing high-quality education at an affordable cost. Our tuition fee structure is designed to be transparent and accessible to all families. The fees cover academic instruction, access to school facilities, and essential learning resources.
                     </p>
                 </div>
             </div>

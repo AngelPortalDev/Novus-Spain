@@ -25,17 +25,17 @@
                             <a href="#"><span><i class="fa-sharp fa-light fa-tags"></i></span>Study Aboard</a>
                         </div>
                         <h3 class="blog-title">10 Effective Study Tips for College Success</h3>
-                        <p>Welcome to Novus Spain! As a student, navigating through college can sometimes feel overwhelming. However, with the right strategies and study techniques, you can enhance your learning experience and achieve academic success. In this blog post, we'll explore 10 effective study tips to help you thrive in college.</p>
+                        <p>Welcome to Novus Education! As a student, navigating through college can sometimes feel overwhelming. However, with the right strategies and study techniques, you can enhance your learning experience and achieve academic success. In this blog post, we'll explore 10 effective study tips to help you thrive in college.</p>
                         <h5>Create a Study Schedule:</h5>
                         <p>Establishing a study schedule can help you manage your time effectively and ensure that you allocate sufficient time for studying each subject. Determine your most productive hours and dedicate them to focused study sessions.</p>
                         <h5>Set Specific Goals:</h5>
                         <p>Set clear and achievable goals for each study session. Whether it's completing a set of practice problems or reviewing lecture notes, having specific objectives will keep you motivated and on track.</p>
                         <blockquote class="rts-blockquote">
-                            <h4>The Novus Spain Advantage</h4>
-                            <p>At Novus Spain, we understand the transformative power of education, and we're committed to making learning accessible, engaging, and impactful for everyone. Here's how Novus Spain can help you on your education journey:</p>
+                            <h4>The Novus Education Advantage</h4>
+                            <p>At Novus Education, we understand the transformative power of education, and we're committed to making learning accessible, engaging, and impactful for everyone. Here's how Novus Education can help you on your education journey:</p>
                             <span>Maria Sarapoba</span>
                         </blockquote>
-                        <p>Whether you're looking to advance your career, pursue your passions, or simply expand your horizons, Novus Spain is here to help you unlock your full potential. Embrace the journey of lifelong learning with Novus Spain as your trusted partner and embark on a transformative educational experience that will shape your future success.</p>
+                        <p>Whether you're looking to advance your career, pursue your passions, or simply expand your horizons, Novus Education is here to help you unlock your full potential. Embrace the journey of lifelong learning with Novus Education as your trusted partner and embark on a transformative educational experience that will shape your future success.</p>
                         <div class="row mb-5">
                             <div class="col-md-6">
                                 <div class="post-image">
@@ -82,7 +82,7 @@
                                 </div>
                             </div>
                         </div>
-                        <p>At Novus Spain, we believe that education has the power to change lives, inspire innovation, and create positive impact in the world. Join us on this exciting journey of lifelong learning and discover the endless possibilities that await you. Visit Novus Spain today and take the first step towards realizing your dreams and aspirations. Remember, your education journey starts here!</p>
+                        <p>At Novus Education, we believe that education has the power to change lives, inspire innovation, and create positive impact in the world. Join us on this exciting journey of lifelong learning and discover the endless possibilities that await you. Visit Novus Education today and take the first step towards realizing your dreams and aspirations. Remember, your education journey starts here!</p>
                     </article>
                     <div class="blog-info">
                         <div class="blog-tags">
@@ -112,7 +112,7 @@
                             </div>
                             <div class="author-content">
                                 <a href="#">Maria Sara Khan</a>
-                                <p>Novus Spain University brings expertise, passion, and dedication to shaping future minds.</p>
+                                <p>Novus Education University brings expertise, passion, and dedication to shaping future minds.</p>
                                 <div class="social__media--list">
                                     <a href="#" class="media"><i class="fa-brands fa-facebook-f"></i></a>
                                     <a href="#" class="media"><i class="fa-brands fa-instagram"></i></a>
@@ -162,7 +162,7 @@
                             <p>B.A. in Africana Studies</p>
                             <div class="contact-info">
                                 <h5>Contact:</h5>
-                                <a href="mailto:barry.Novus Spain@info.com">barry.Novus Spain@info.com</a>
+                                <a href="mailto:barry.Novus Education@info.com">barry.Novus Education@info.com</a>
                                 <a href="callto:121">664-254-251</a>
                             </div>
                             <div class="social-info">

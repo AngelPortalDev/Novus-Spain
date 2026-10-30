@@ -366,7 +366,7 @@
                                 <p>B.A. in Africana Studies</p>
                                 <div class="contact-info">
                                     <h5>Contact:</h5>
-                                    <a href="mailto:barry.Novus Spain@info.com">barry.Novus Spain@info.com</a>
+                                    <a href="mailto:barry.Novus Education@info.com">barry.Novus Education@info.com</a>
                                     <a href="callto:121">664-254-251</a>
                                 </div>
                                 <div class="social-info">

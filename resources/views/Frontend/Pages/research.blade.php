@@ -17,7 +17,7 @@
                     <div class="campus-life__content">
                         <h1 class="rts-section-title">Research Centers</h1>
                         <p class="description w-680">
-                            From Nobel Prize winners to undergraduates, all members of the Novus Spain
+                            From Nobel Prize winners to undergraduates, all members of the Novus Education
                             community are engaged in the creation of knowledge.
                         </p>
                         <div class="campus-video">

@@ -41,12 +41,12 @@
                         </h6>
                         <h2 class="rts__section--title">
                             Learning Primary 
-                            Education at Novus Spain 
+                            Education at Novus Education 
                         </h2>
                     </div>
                     <div class="rts__section--details">
                         <p class="rts__description">
-                            At Novus Spain, our Primary School curriculum (Grades 7-11) is designed to build a strong academic foundation while keeping learning engaging and interactive.
+                            At Novus Education, our Primary School curriculum (Grades 7-11) is designed to build a strong academic foundation while keeping learning engaging and interactive.
                         </p>
                     </div>
                 </div>
@@ -113,7 +113,7 @@
                 <div class="what__we__offer__wrapper">
                     <div class="content__section">
                         <h2 class="content__title">What We Offer:</h2>
-                        <p class="content__description">At Novus Spain, our Pre-Primary program is designed to provide a safe, nurturing, and engaging environment where young learners develop curiosity, creativity, and confidence. Through interactive play.</p>
+                        <p class="content__description">At Novus Education, our Pre-Primary program is designed to provide a safe, nurturing, and engaging environment where young learners develop curiosity, creativity, and confidence. Through interactive play.</p>
                         <div class="offer__area">
                             <div class="offer__list">
                                 <div class="icon">
@@ -418,7 +418,7 @@
                                 <div class="accordion-item expanded">
                                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne"
                                         aria-expanded="true" aria-controls="collapseOne">
-                                        What are the admission requirements for Novus Spain University?
+                                        What are the admission requirements for Novus Education University?
                                     </button>
                                     <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#rts-accordion">
                                         <div class="accordion-body">
@@ -444,7 +444,7 @@
                                 <div class="accordion-item">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        How do I contact Novus Spain University?
+                                        How do I contact Novus Education University?
                                     </button>
                                     <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#rts-accordion">
                                        <div class="accordion-body">

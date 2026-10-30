@@ -293,7 +293,7 @@
 
                 <!-- Replace # with your enrolment URL. -->
                 <a
-                    href="#"
+                    href="https://one.novuseducation.es/crm/admission-form/"
                     class="rts-theme-btn primary course-enrol-btn"
                 >
                     Click to Enrol

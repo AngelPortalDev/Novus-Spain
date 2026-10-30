@@ -4,7 +4,7 @@
     @include($elements . 'breadcrumb', [
         'class' => 'breadcrumb-height breadcumb-bg',
         'image' => 'breadcrumb.jpg',
-        'title' => 'Novus Spain Alumni',
+        'title' => 'Novus Education Alumni',
         'page' => 'Alumni'    
     ])
     <!-- alumni banner -->
@@ -13,7 +13,7 @@
             <div class="row">
                 <div class="col-sm-12">
                     <div class="rts__section--wrapper v__9">
-                        <h2 class="rts__section--title">Save the date for Novus Spain Reunion Homecoming!</h2>
+                        <h2 class="rts__section--title">Save the date for Novus Education Reunion Homecoming!</h2>
                         <p class="rts__section--description">Calling all ’4s and ’9s! It’s time to reunite with your
                             classmates on November 24–27, 2024.</p>
                     </div>
@@ -100,7 +100,7 @@
                             <h5 class="rts__single--event--meta--title">
                                 <a href="{{ route('event-details') }}">
                                     Sustainability Showcase: Green
-                                    Living at Novus Spain </a>
+                                    Living at Novus Education </a>
                             </h5>
                             <a href="{{ route('event-details') }}" class="rts__round--btn">
                                 <i class="fa-light fa-arrow-right"></i>
@@ -152,12 +152,12 @@
                 <div class="col-xl-5 col-lg-6 col-md-6 col-sm-11">
                     <div class="left__side">
                         <div class="rts__section--wrapper v__7">
-                            <h2 class="rts__section--title">Stories of Novus Spain Student</h2>
-                            <p class="rts__section--description">Embark on a journey of knowledge, discovery, and growth at Novus Spain University. Our admissions process is designed identify bright, motivated individuals who are eager contribute to our dynamic academic community.</p>
+                            <h2 class="rts__section--title">Stories of Novus Education Student</h2>
+                            <p class="rts__section--description">Embark on a journey of knowledge, discovery, and growth at Novus Education University. Our admissions process is designed identify bright, motivated individuals who are eager contribute to our dynamic academic community.</p>
                         </div>
                         <div class="left__side__image">
                             <img src="{{asset('assets/images/alumni/01.jpg')}}" alt="alumni">
-                            <h5 class="left__side__title">Voices of Victory: Novus Spain Student Stories</h5>
+                            <h5 class="left__side__title">Voices of Victory: Novus Education Student Stories</h5>
                             <p class="left__side__description">Through these narratives, readers gain insight into the diverse backgrounds, aspirations, and achievements of individuals.</p>
                         </div>
                     </div>
@@ -168,8 +168,8 @@
                         <div class="right__side__image">
                             <img src="{{asset('assets/images/alumni/02.jpg')}}" alt="alumni">
                         </div>
-                        <h5 class="right__side__title">Unveiling Novus Spain: Inspiring Student Stories</h5>
-                        <p class="right__side__description">Delve into the heartfelt narratives of Novus Spain students, where each story resonates with triumph, resilience, and personal growth. From academic achievements to life-changing experiences, these stories illuminate.</p>
+                        <h5 class="right__side__title">Unveiling Novus Education: Inspiring Student Stories</h5>
+                        <p class="right__side__description">Delve into the heartfelt narratives of Novus Education students, where each story resonates with triumph, resilience, and personal growth. From academic achievements to life-changing experiences, these stories illuminate.</p>
                         <div class="right__side__link">
                             <a href="{{ route('program-single') }}" class="rts-theme-btn btn-arrow">View all story
                                 <span><i class="fa-regular fa-arrow-right"></i></span>

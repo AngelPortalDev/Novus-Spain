@@ -78,8 +78,8 @@
                                         </tbody>
                                     </table>
                                 </div>
-                                <p> Novus Spain reserves the right to evaluate an application and render a final decision even if all pieces of the application have not been received.</p>
-                                <p class="w-95 mx-0">Applicants are limited to a total of three applications for undergraduate admission, whether for first-year admission, transfer admission or a <br>combination of both. If you have submitted fewer than three applications to Novus Spain, you may reapply.
+                                <p> Novus Education reserves the right to evaluate an application and render a final decision even if all pieces of the application have not been received.</p>
+                                <p class="w-95 mx-0">Applicants are limited to a total of three applications for undergraduate admission, whether for first-year admission, transfer admission or a <br>combination of both. If you have submitted fewer than three applications to Novus Education, you may reapply.
                                 </p>
                             </div>
                         </div>
@@ -191,7 +191,7 @@
 
                                     <div class="d-flex align-items-center single-checkbox mt--20">
                                         <input type="checkbox" id="exampleCheck1">
-                                        <label for="exampleCheck1">By submitting this form, you agree to the Novus Spain University Privacy Notice</label>
+                                        <label for="exampleCheck1">By submitting this form, you agree to the Novus Education University Privacy Notice</label>
                                     </div>
                                 </div>
                                 <button type="submit" class="rts-theme-btn primary with-arrow">Submit Application<span><i class="fa-thin fa-arrow-right"></i></span></button>
@@ -221,7 +221,7 @@
                             <p>B.A. in Africana Studies</p>
                             <div class="contact-info">
                                 <h5>Contact:</h5>
-                                <a href="mailto:barry.Novus Spain@info.com">barry.Novus Spain@info.com</a>
+                                <a href="mailto:barry.Novus Education@info.com">barry.Novus Education@info.com</a>
                                 <a href="callto:121">664-254-251</a>
                             </div>
                             <div class="social-info">

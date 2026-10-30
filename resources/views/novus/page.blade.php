@@ -9,6 +9,6 @@
 @if(in_array($page, ['contact', 'study-with-us']))@include('novus.form')@endif
 @if($page === 'admissions')<a href="{{ route('study-with-us') }}" class="rts-theme-btn">Register your interest ↗</a>@endif
 </div>
-<aside class="col-lg-4"><div class="program-sidebar p-4 border"><span class="d-block mb--20">EXPLORE NOVUS SPAIN</span><h2>Useful next steps</h2><nav aria-label="Related pages">@foreach(['programmes' => 'Explore programmes', 'admissions' => 'Admissions', 'study-in-spain' => 'Study in Spain', 'visa-requirements' => 'Visa requirements', 'tuition-fees' => 'Tuition fees', 'contact' => 'Contact us'] as $slug => $label)@if($page !== $slug)<a class="d-flex justify-content-between border-bottom py-4" href="{{ route($slug) }}">{{ $label }} <span aria-hidden="true">→</span></a>@endif @endforeach</nav></div></aside>
+<aside class="col-lg-4"><div class="program-sidebar p-4 border"><span class="d-block mb--20">EXPLORE Novus Education</span><h2>Useful next steps</h2><nav aria-label="Related pages">@foreach(['programmes' => 'Explore programmes', 'admissions' => 'Admissions', 'study-in-spain' => 'Study in Spain', 'visa-requirements' => 'Visa requirements', 'tuition-fees' => 'Tuition fees', 'contact' => 'Contact us'] as $slug => $label)@if($page !== $slug)<a class="d-flex justify-content-between border-bottom py-4" href="{{ route($slug) }}">{{ $label }} <span aria-hidden="true">→</span></a>@endif @endforeach</nav></div></aside>
 </div></div></section>
 @endsection

@@ -69,7 +69,7 @@
                                 <p class="description">University of London, 15 Talbot Square, Tyburnia, London W2 1TT, UK</p>
                                 <div class="contact-link">
                                     <a href="callto:+442078628360">+44 20 7862 8360</a>
-                                    <a href="mailto:Novus Spain.info@edu">Novus Spain.info@edu</a>
+                                    <a href="mailto:Novus Education.info@edu">Novus Education.info@edu</a>
                                 </div>
                             </div>
                         </div>
@@ -84,7 +84,7 @@
                                 <p class="description">80 Washington Square E, New York, NY 10003, USA</p>
                                 <div class="contact-link">
                                     <a href="callto:+442078628360">+44 20 7862 8360</a>
-                                    <a href="mailto:Novus Spain.info@edu">Novus Spain.info@edu</a>
+                                    <a href="mailto:Novus Education.info@edu">Novus Education.info@edu</a>
                                 </div>
                             </div>
                         </div>
@@ -99,7 +99,7 @@
                                 <p class="description">Center for Computing & Data Sciences, 665 Commonwealth Ave, Boston, MA 02215, USA</p>
                                 <div class="contact-link">
                                     <a href="callto:+442078628360">+44 20 7862 8360</a>
-                                    <a href="mailto:Novus Spain.info@edu">Novus Spain.info@edu</a>
+                                    <a href="mailto:Novus Education.info@edu">Novus Education.info@edu</a>
                                 </div>
                             </div>
                         </div>

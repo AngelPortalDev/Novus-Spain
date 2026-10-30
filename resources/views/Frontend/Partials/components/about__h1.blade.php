@@ -15,7 +15,7 @@
                                         <path id="circle-2" d="M50,50 m-37,0a37,37 0 1,1 74,0a37,37 0 1,1 -74,0"></path>
                                     </defs>
                                     <text>
-                                        <textPath xlink:href="#circle-2">Novus Spain University * Estd. 1971 * Explore Future *</textPath>
+                                        <textPath xlink:href="#circle-2">Novus Education University * Estd. 1971 * Explore Future *</textPath>
                                     </text>
                                 </svg>
                                 <div class="rts__circle--icon">
@@ -31,8 +31,8 @@
             </div>
             <div class="col-lg-6 col-md-10">
                 <div class="about__content">
-                    <h2 class="rts__title">About Our University Novus Spain</h2>
-                    <p class="rts__description">At University Novus Spain, we believe in the transformative power of education and the boundless potential within every individual. Established in 1971, we have been dedicated to fostering intellectual curiosity, academic excellence, and a vibrant campus community.</p>
+                    <h2 class="rts__title">About Our University Novus Education</h2>
+                    <p class="rts__description">At University Novus Education, we believe in the transformative power of education and the boundless potential within every individual. Established in 1971, we have been dedicated to fostering intellectual curiosity, academic excellence, and a vibrant campus community.</p>
                     <div class="stroke__text v__1">EST. 1971</div>
                     <a href="{{ route('program-single') }}" class="rts-nbg-btn btn-arrow">University Overview <span><i class="fa-sharp fa-regular fa-arrow-right"></i></span></a>
                 </div>
@@ -51,12 +51,12 @@
                     </div>
                     <div class="single-cta-item">
                         <h2 class="single-cta-item__title">16,214</h2>
-                        <p>Novus Spain University Faculty
+                        <p>Novus Education University Faculty
                             & Staff</p>
                     </div>
                     <div class="single-cta-item">
                         <h2 class="single-cta-item__title">300k</h2>
-                        <p>Novus Spain University alumni
+                        <p>Novus Education University alumni
                             Worldwide</p>
                     </div>
                     <div class="single-cta-item">

@@ -35,7 +35,7 @@
                                 </p>
 
                                 <p><b>1. Program Offerings:</b>
-                                     Novus Spain University offers a diverse range of undergraduate
+                                     Novus Education University offers a diverse range of undergraduate
                                     programs across
                                     various disciplines, including but not limited to Arts, Sciences, Engineering,
                                     Business, and Humanities. Detailed
@@ -84,7 +84,7 @@
                                 </p>
 
                                 <p>
-                                    We look forward to receiving your application and welcoming you to Novus Spain
+                                    We look forward to receiving your application and welcoming you to Novus Education
                                     University as part of our
                                     vibrant academic community.
                                 </p>
@@ -100,7 +100,7 @@
                                     <b>Assistant Professor</b>
                                 </p>
                                 <p>
-                                    <b>Novus Spain University</b>
+                                    <b>Novus Education University</b>
                                     
                                 </p>
                             </div>

@@ -17,7 +17,7 @@
                         <h3 class="rts-section-title">Unleashing Curiosity – Science Resources for Young Minds.</h3>
                     </div>
                     <div class="col-lg-6">
-                        <p class="rts-section-description">At Novus Spain school, our Science Resources are designed to spark curiosity, creativity, and critical thinking among students. Through interactive learning, experiments, and real-world applications, we make science fun and engaging.</p>
+                        <p class="rts-section-description">At Novus Education school, our Science Resources are designed to spark curiosity, creativity, and critical thinking among students. Through interactive learning, experiments, and real-world applications, we make science fun and engaging.</p>
                     </div>
                 </div>
             </div>
@@ -30,7 +30,7 @@
                             </div>
                             <div class="program-about">
                                 <h4 class="title">About The Program</h4>
-                                <p>At Novus Spain School, we believe that science is the key to understanding the world around us. Our Science Resources are designed to ignite curiosity, foster creativity, and develop problem-solving skills in young learners. Through interactive experiments, hands-on projects, and real-world applications, students explore the fundamentals of life sciences, physical sciences, and earth sciences.</p>
+                                <p>At Novus Education School, we believe that science is the key to understanding the world around us. Our Science Resources are designed to ignite curiosity, foster creativity, and develop problem-solving skills in young learners. Through interactive experiments, hands-on projects, and real-world applications, students explore the fundamentals of life sciences, physical sciences, and earth sciences.</p>
                                 <p>We encourage students to think critically, ask questions, and discover answers through guided exploration. Our engaging science lessons help students connect theoretical knowledge with practical experiences, making learning both fun and meaningful.</p>
                             </div>
                             <ul class="program__list">
@@ -166,7 +166,7 @@
                                         <div class="accordion-item expanded">
                                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne"
                                                 aria-expanded="true" aria-controls="collapseOne">
-                                                What are the admission requirements for Novus Spain University?
+                                                What are the admission requirements for Novus Education University?
                                             </button>
                                             <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#rts-accordion">
                                                 <div class="accordion-body">
@@ -192,7 +192,7 @@
                                         <div class="accordion-item">
                                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                                 data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                                How do I contact Novus Spain University?
+                                                How do I contact Novus Education University?
                                             </button>
                                             <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#rts-accordion">
                                                <div class="accordion-body">
@@ -238,7 +238,7 @@
                                 <p>B.A. in Africana Studies</p>
                                 <div class="contact-info">
                                     <h5>Contact:</h5>
-                                    <a href="mailto:barry.Novus Spain@info.com">barry.Novus Spain@info.com</a>
+                                    <a href="mailto:barry.Novus Education@info.com">barry.Novus Education@info.com</a>
                                     <a href="callto:121">664-254-251</a>
                                 </div>
                                 <div class="social-info">

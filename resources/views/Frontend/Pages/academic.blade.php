@@ -70,7 +70,7 @@
                 <div class="col-lg-5 col-md-11">
                     <div class="rts-multi-row-content">
                         <h4 class="row-title">Undergraduate Education</h4>
-                        <p>Novus Spain Undergrad is your guide to undergraduate academics and opportunities run by the Vice Provost for Undergraduate Education.</p>
+                        <p>Novus Education Undergrad is your guide to undergraduate academics and opportunities run by the Vice Provost for Undergraduate Education.</p>
                          <div class="program-list">
                             <a href="{{ route('program-single') }}" class="program-item"><span>Africana Studies <i class="fa-regular fa-chevron-right"></i></span> <span>A.B</span></a>
                             <a href="{{ route('program-single') }}" class="program-item"><span>Accounting, BS <i class="fa-regular fa-chevron-right"></i></span> <span>A.B</span></a>
@@ -113,8 +113,8 @@
                          <div class="program-list">
                             <div class="single-list">
                                 <h4 class="row-title">Lifelong Learning</h4>
-                                <p>Novus Spain offers a wide range of programs, classes, internships, and an entire online high school.</p>
-                                <a href="#" class="about-btn rts-nbg-btn btn-arrow">Novus Spain  Undergraduate <span><i class="fa-sharp fa-regular fa-arrow-right"></i></span></a>
+                                <p>Novus Education offers a wide range of programs, classes, internships, and an entire online high school.</p>
+                                <a href="#" class="about-btn rts-nbg-btn btn-arrow">Novus Education  Undergraduate <span><i class="fa-sharp fa-regular fa-arrow-right"></i></span></a>
                             </div>
                             <div class="single-list">
                                 <h4 class="row-title">Professional Development</h4>

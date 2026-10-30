@@ -4,7 +4,7 @@
     <!-- inner menu area desktop start -->
     <div class="inner-main-wrapper-desk">
         <div class="thumbnail">
-            <img src="{{asset('assets/images/logo/logo__five.svg')}}" alt="Novus Spain-university">
+            <img src="{{asset('assets/images/logo/logo__five.svg')}}" alt="NOVUS Education">
         </div>
         <div class="inner-content">
             <p class="disc">
@@ -14,7 +14,7 @@
             <div class="offcanvase__banner mt--50">
                 <div class="offcanvase__banner--content">
                     <img src="{{asset('assets/images/offcanvase.jpg')}}" alt="offcanvase">
-                    <a href="{{ route('admission') }}" class="rts-theme-btn">Apply Now</a>
+                    <a href="https://one.novuseducation.es/crm/admission-form/" class="rts-theme-btn">Apply Now</a>
                 </div>
             </div>
             <div class="offcanvase__info">

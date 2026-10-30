@@ -1,4 +1,4 @@
-# Novus Spain website
+# Novus Education website
 
 The original template homepage, page URLs, header, footer, slider, stylesheets and scripts are restored. Existing template URLs render directly without redirects. Additional Novus pages use the original shared header, footer, breadcrumb and template styling; the redesigned novus.css and novus.js are not loaded.
 
@@ -17,7 +17,7 @@ Run `php artisan serve --host=127.0.0.1 --port=8014` and visit http://127.0.0.1:
 
 Structure and programme URL inventory reviewed against https://www.ascenciamalta.edu.mt/ and https://www.ascenciamalta.edu.mt/programmes on 9 September 2026. Duplicate whitespace URLs and a duplicate artificial-intelligence link were consolidated. Descriptive text is newly written for this preview.
 
-Ascencia's historical news articles, staff biographies, testimonials, accreditations, fees, Maltese immigration rules and third-party admissions platform have not been presented as Novus Spain facts. The news and newsletter sections have honest empty states until school content is supplied. Individual programme specifications also await confirmed Novus information; these are indicative pages, not approved course offers.
+Ascencia's historical news articles, staff biographies, testimonials, accreditations, fees, Maltese immigration rules and third-party admissions platform have not been presented as Novus Education facts. The news and newsletter sections have honest empty states until school content is supplied. Individual programme specifications also await confirmed Novus information; these are indicative pages, not approved course offers.
 
 ## Content editing
 

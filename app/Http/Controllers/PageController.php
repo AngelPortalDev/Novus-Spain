@@ -129,7 +129,7 @@ class PageController extends BaseController
     public function about()
     {
         return $this->view('about', [
-            'page_title' => 'About Page Template',
+            'page_title' => 'About ',
         ]);
     }
 
@@ -145,7 +145,7 @@ class PageController extends BaseController
     public function academic()
     {
         return $this->view('academic', [
-            'page_title' => 'Academic Page Template',
+            'page_title' => 'Academic ',
         ]);
     }
 
@@ -153,7 +153,7 @@ class PageController extends BaseController
     public function admission()
     {
         return $this->view('admission', [
-            'page_title' => 'Admission Page Template',
+            'page_title' => 'Admission ',
         ]);
     }
 
@@ -161,7 +161,7 @@ class PageController extends BaseController
     public function alumni()
     {
         return $this->view('alumni', [
-            'page_title' => 'Alumni Page Template',
+            'page_title' => 'Alumni ',
         ]);
     }
 
@@ -169,7 +169,7 @@ class PageController extends BaseController
     public function athletics()
     {
         return $this->view('athletics', [
-            'page_title' => 'Athletics Page Template',
+            'page_title' => 'Athletics ',
         ]);
     }
 
@@ -177,7 +177,7 @@ class PageController extends BaseController
     public function blogDetails()
     {
         return $this->view('blog-details', [
-            'page_title' => 'Blog Details Page Template',
+            'page_title' => 'Blog Details ',
         ]);
     }
 
@@ -185,7 +185,7 @@ class PageController extends BaseController
     public function blogGrid()
     {
         return $this->view('blog-grid', [
-            'page_title' => 'Blog Grid Page Template',
+            'page_title' => 'Blog Grid ',
         ]);
     }
 
@@ -193,7 +193,7 @@ class PageController extends BaseController
     public function blogList()
     {
         return $this->view('blog-list', [
-            'page_title' => 'Blog List Page Template',
+            'page_title' => 'Blog List ',
         ]);
     }
 
@@ -201,7 +201,7 @@ class PageController extends BaseController
     public function blog()
     {
         return $this->view('blog', [
-            'page_title' => 'Blog Standard Page Template',
+            'page_title' => 'Blog Standard ',
         ]);
     }
 
@@ -209,7 +209,7 @@ class PageController extends BaseController
     public function scholarship()
     {
         return $this->view('scholarship', [
-            'page_title' => 'Scholarship Page Template',
+            'page_title' => 'Scholarship ',
         ]);
     }
 
@@ -217,7 +217,7 @@ class PageController extends BaseController
     public function programSingle()
     {
         return $this->view('program-single', [
-            'page_title' => 'Program Single Page Template',
+            'page_title' => 'Program Single ',
         ]);
     }
 
@@ -225,7 +225,7 @@ class PageController extends BaseController
     public function noticeDetails()
     {
         return $this->view('notice-details', [
-            'page_title' => 'Notice Details Page Template',
+            'page_title' => 'Notice Details ',
         ]);
     }
 
@@ -233,7 +233,7 @@ class PageController extends BaseController
     public function campusLife()
     {
         return $this->view('campus-life', [
-            'page_title' => 'Campus Life Page Template',
+            'page_title' => 'Campus Life ',
         ]);
     }
 
@@ -241,7 +241,7 @@ class PageController extends BaseController
     public function contact()
     {
         return $this->view('contact', [
-            'page_title' => 'Contact us page template',
+            'page_title' => 'Contact us ',
         ]);
     }
 
@@ -249,7 +249,7 @@ class PageController extends BaseController
     public function departmentDetails()
     {
         return $this->view('department-details', [
-            'page_title' => 'Department Details Page Template',
+            'page_title' => 'Department Details ',
         ]);
     }
 
@@ -257,7 +257,7 @@ class PageController extends BaseController
     public function eventDetails()
     {
         return $this->view('event-details', [
-            'page_title' => 'Event Details Page Template',
+            'page_title' => 'Event Details ',
         ]);
     }
 
@@ -265,7 +265,7 @@ class PageController extends BaseController
     public function event()
     {
         return $this->view('event', [
-            'page_title' => 'Event Page Template',
+            'page_title' => 'Event ',
         ]);
     }
 
@@ -273,7 +273,7 @@ class PageController extends BaseController
     public function facultyDetails()
     {
         return $this->view('faculty-details', [
-            'page_title' => 'Faculty Details Page Template',
+            'page_title' => 'Faculty Details ',
         ]);
     }
 
@@ -281,7 +281,7 @@ class PageController extends BaseController
     public function facultySubDetails()
     {
         return $this->view('faculty-sub-details', [
-            'page_title' => 'Faculty Sub Details Page Template',
+            'page_title' => 'Faculty Sub Details ',
         ]);
     }
 
@@ -289,7 +289,7 @@ class PageController extends BaseController
     public function facultySub()
     {
         return $this->view('faculty-sub', [
-            'page_title' => 'Faculty Sub Page Template',
+            'page_title' => 'Faculty Sub ',
         ]);
     }
 
@@ -297,7 +297,7 @@ class PageController extends BaseController
     public function faculty()
     {
         return $this->view('faculty', [
-            'page_title' => 'Faculty Page Template',
+            'page_title' => 'Our Team',
         ]);
     }
 
@@ -305,7 +305,7 @@ class PageController extends BaseController
     public function tutionFee()
     {
         return $this->view('tution-fee',[
-            'page_title' => 'Tution Fee Page Template',
+            'page_title' => 'Tution Fee ',
         ]);
     }
 
@@ -313,7 +313,7 @@ class PageController extends BaseController
     public function visaRequirements()
     {
         return $this->view('visa-requirement',[
-            'page_title' => 'Visa Requirements Page Template',
+            'page_title' => 'Visa Requirements ',
         ]);
     }
 
@@ -321,7 +321,7 @@ class PageController extends BaseController
     public function diplomaSpanishLanguage()
     {
         return $this->view('diploma-spanish-language',[
-            'page_title' => 'Diploma Spanish Language Page Template',
+            'page_title' => 'Diploma Spanish Language ',
         ]);
     }
 
@@ -329,7 +329,7 @@ class PageController extends BaseController
     public function businessEnglishCourse()
     {
         return $this->view('business-english-course',[
-            'page_title' => 'Business English Course Page Template',
+            'page_title' => 'Business English Course ',
         ]);
     }
 
@@ -337,7 +337,7 @@ class PageController extends BaseController
     public function generalEnglishCourse()
     {
         return $this->view('general-english-course',[
-            'page_title' => 'General English Course Page Template',
+            'page_title' => 'General English Course ',
         ]);
     }
 

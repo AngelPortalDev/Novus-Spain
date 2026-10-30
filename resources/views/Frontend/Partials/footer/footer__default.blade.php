@@ -6,7 +6,7 @@
             <div class="col-lg-4 col-md-6 col-sm-6">
                 <div class="footer__widget">
                     <div class="footer__widget--logo">
-                         <h6 class="footer__widget--title">Novus Spain</h6>
+                         <h6 class="footer__widget--title">Novus Education</h6>
                          <p><b>Campus</b> : Carrer Enric Valor, 1, 46980 Paterna, Valencia, Spain</p>
                          
                     </div>
@@ -21,7 +21,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 col-sm-6">
+            <div class="col-lg-4 col-md-6 col-sm-6">
                 <div class="footer__widget">
                     <h6 class="footer__widget--title">Programmes</h6>
                     <div class="footer__widget--menu">
@@ -34,7 +34,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-2 col-md-6 col-sm-6">
+            <div class="col-lg-4 col-md-6 col-sm-6">
                 <div class="footer__widget">
                     <h6 class="footer__widget--title">Quick Links</h6>
                     <div class="footer__widget--menu">
@@ -47,7 +47,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 col-sm-6">
+            <!-- <div class="col-lg-3 col-md-6 col-sm-6">
                 <div class="footer__widget">
                     <h6 class="footer__widget--title">Quick Button</h6>
                     <div class="footer__widget--button">
@@ -55,7 +55,7 @@
                         <a href="{{ route('contact') }}" class="cta__button">scholarship</a>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
 </footer>

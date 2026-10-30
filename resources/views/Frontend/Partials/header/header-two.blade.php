@@ -6,7 +6,7 @@
                 <div class="header__wrapper">
                     <div class="header__logo">
                         <a href="{{ route('index') }}" class="header__logo--link">
-                            <img src="{{asset('assets/images/logo/logo__two.svg')}}" alt="Novus Spain">
+                            <img src="{{asset('assets/images/logo/logo__two.svg')}}" alt="Novus Education">
                         </a>
                     </div>
                     <div class="header__menu">

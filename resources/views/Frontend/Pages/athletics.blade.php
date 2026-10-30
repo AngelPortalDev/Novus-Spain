@@ -30,7 +30,7 @@
                     <div class="col-lg-6">
                         <div class="right-content">
                             <div class="right-content__section">
-                                <h2 class="rts-section-title mb--15">Novus Spain Athletics opens
+                                <h2 class="rts-section-title mb--15">Novus Education Athletics opens
                                     the vault to sports
                                 </h2>
                                 <p class="description">

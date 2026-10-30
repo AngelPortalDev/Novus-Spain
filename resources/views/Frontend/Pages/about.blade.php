@@ -11,15 +11,15 @@
   <div class="about rts-section-padding v__5">
         <div class="container">
             <div class="row ">
-                <div class="col-lg-4">
+                <div class="col-lg-5">
                     <div class="rts__section--wrapper v__7">
                      
-                        <h2 class="rts__section--title mb-0">
-                            Business education, built around people
-                        </h2>
+                        <h3 class="rts__section--title mb-0">
+                            Learn with purpose. <br>Build your future in Valencia
+                        </h3>
                     </div>
                 </div>
-                <div class="col-lg-8">
+                <div class="col-lg-7">
                     <p class="about__description__text">
 NOVUS Education is a new business school in the heart of Valencia, offering English-taught programmes for students who want to build careers where people and experiences matter most.
                     </p>
@@ -67,13 +67,9 @@ our graduates will join.
                     <div class="col-lg-6 col-md-11">
                         <div class="faculty-content-text me-5">
                             <h4 class="font-32 mb-4">Our mission:</h4>
-                            <p>We educate the professionals who make experiences happen. NOVUS Education
-combines business fundamentals with hands-on learning in hospitality, events, tourism, people
-management and customer experience, connecting students with the real work of one of Europe's
-most vibrant cities.</p>
+                            <p>NOVUS Education helps international students learn with purpose, building the language, professional skills and confidence to study, work and live in a global world. Our practical, people-focused courses connect learning with real life in Valencia, one of Europe's most vibrant cities.</p>
                             <h4 class="font-32 mb-4 mt-5">Our vision</h4>
-                            <p>A world where every organisation understands that its people and the experiences they
-create are its greatest asset, and where NOVUS graduates lead that change</p>
+                            <p>A world where every learner has the language, skills and confidence to build their future wherever they choose.</p>
 
  <h4 class="font-32 mb-4 mt-5">Our values:</h4>
                             <p>Human-centred · Career-ready · International</p>
@@ -253,7 +249,7 @@ industries, in a city that gives you the perfect setting to grow, both personall
                     <div class="faculty-content-text ms-lg-5 mt-5 mt-lg-0">
                         <p class="h6 mb-
                         4">Mireille Morejon Marín</p>
-                        <p class="mb-5">Head of Academics and Campus Manager</p>
+                        <p class="mb-5">Head of Academics and Head of Academics and Campus Manager</p>
                         
                         <p class="mb-5">Students thrive when they feel seen, supported and challenged. That's what we're building at
 NOVUS.”</p>

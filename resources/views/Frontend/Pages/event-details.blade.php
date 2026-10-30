@@ -43,7 +43,7 @@
                                 <!-- single feature -->
                                 <div class="single-feature">
                                     <p class="feature-heading">Registration:</p>
-                                    <p class="feature-description">Secure your spot today and be part of the Future Minds Symposium. Early bird registration is now open at www.Novus Spain Don't miss this opportunity to gain valuable insights.</p>
+                                    <p class="feature-description">Secure your spot today and be part of the Future Minds Symposium. Early bird registration is now open at www.Novus Education Don't miss this opportunity to gain valuable insights.</p>
                                 </div>
                             </div>
                         </div>
@@ -140,7 +140,7 @@
                                         <div class="left-side bold">Web Site:</div>
                                         <div class="right-side">
                                             <span class="desc">
-                                                <a href="#">www.Novus Spain.com</a>
+                                                <a href="#">www.Novus Education.com</a>
                                                 <!-- social item -->
                                                 <span class="social-links">
                                                     <a href="#"><i class="fa-brands fa-facebook"></i></a>

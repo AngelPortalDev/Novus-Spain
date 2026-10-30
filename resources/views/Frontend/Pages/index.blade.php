@@ -142,7 +142,7 @@
                                 </div>
                             </div>
                         </div>
-                        <a href="{{ route('program-single') }}" class="rts-theme-btn btn-arrow">About Novus Education
+                        <a href="{{ route('about') }}" class="rts-theme-btn btn-arrow">About Novus Education
                             <span><i class="fa-regular fa-arrow-right"></i></span>
                         </a>
                     </div>
@@ -351,7 +351,7 @@
                         <div class="icon">
                             <img src="assets/images/icon/07.svg" alt="">
                         </div>
-                        <a href="#">Choose Your Programme</a>
+                        <a href="https://one.novuseducation.es/crm/admission-form/">Choose Your Programme</a>
                         <p>Explore our programmes and review the entry requirements, study format, duration and available intake.</p>
                     </div>
                 </div>
@@ -364,7 +364,7 @@
                         <div class="icon">
                             <img src="assets/images/icon/06.svg" alt="">
                         </div>
-                        <a href="#">Submit Your Application</a>
+                        <a href="https://one.novuseducation.es/crm/admission-form/">Submit Your Application</a>
                         <p>Complete the online application form with your personal, contact and academic information.</p>
                     </div>
                 </div>
@@ -377,7 +377,7 @@
                         <div class="icon">
                             <img src="assets/images/icon/06.svg" alt="">
                         </div>
-                        <a href="#">Application Review</a>
+                        <a href="https://one.novuseducation.es/crm/admission-form/">Application Review</a>
                         <p>Our admissions team will review your application and contact you regarding the next stage.</p>
                     </div>
                 </div>

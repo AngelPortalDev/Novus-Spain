@@ -5,7 +5,7 @@
                     <div class="rts__header__wrapper">
                          <div class="rts__logo">
                               <a href="{{ route('index-sc') }}" class="rts__logo--link">
-                                   <img src="{{asset('assets/images/logo/logo-sc.svg')}}" alt="Novus Spain School">
+                                   <img src="{{asset('assets/images/logo/logo-sc.svg')}}" alt="Novus Education School">
                               </a>
                          </div>
                          <div class="header__content">

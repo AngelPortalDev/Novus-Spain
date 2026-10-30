@@ -293,7 +293,7 @@
 
                 <!-- Replace # with your enrolment URL. -->
                 <a
-                    href="#"
+                    href="https://one.novuseducation.es/crm/admission-form/"
                     class="rts-theme-btn primary course-enrol-btn"
                 >
                     Click to Enrol
@@ -314,7 +314,7 @@
                 Course Overview
             </h2>
 
-            <p>The Official Spanish Program in Spain is designed for international students who want to learn and improve their Spanish while enjoying a unique experience in Valencia, one of the best cities in Spain to study, live, and experience Mediterranean culture.</p>
+            <p>The Diploma in Spanish Language is designed for international students who want to learn and improve their Spanish while enjoying a unique experience in Valencia, one of the best cities in Spain to study, live, and experience Mediterranean culture.</p>
 
             <p>Study Spanish in Spain, immerse yourself in an authentic Spanish-speaking environment, and develop the language skills needed to achieve your academic, professional, and personal goals.</p>
 
@@ -353,27 +353,43 @@
                                             </div>
                                         </div>
                                         <div class="accordion-item">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                             SPANISH COURSE B1-B2
+                                            <button class="accordion-button collapsed" 
+                                                    type="button" 
+                                                    data-bs-toggle="collapse" 
+                                                    data-bs-target="#collapseTwo" 
+                                                    aria-expanded="false" 
+                                                    aria-controls="collapseTwo">
+                                                SPANISH COURSE B1-B2
                                             </button>
-                                            <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#rts-accordion">
+
+                                            <div id="collapseTwo" 
+                                                class="accordion-collapse collapse" 
+                                                data-bs-parent="#rts-accordion">
+
                                                 <div class="accordion-body-content">
-                                                        <br>
-                                                  <p>Continue developing your Spanish proficiency through more advanced grammar structures and real-world communication scenarios.</p>
-                                                  <strong>ELE B1 & B2 LEVELS (220H)</strong>
-                                                  <p>The second stage focuses on:</p>
-                                                  <ul>
-                                                        <li>Social uses of the Spanish language</li>
-                                                        <li>Alphabet and pronunciation</li>
-                                                        <li>Essential vocabulary development</li>
-                                                        <li>Nouns, articles, pronouns, and adjectives</li>
-                                                        <li>Basic sentence construction</li>
-                                                        <li>Present tense and simple grammatical structures</li>
-                                                        <li>Everyday communication skills</li>
+                                                    <br>
+
+                                                    <p>
+                                                        Continue developing your Spanish proficiency through more advanced grammar structures and real-world communication scenarios.
+                                                    </p>
+
+                                                    <strong>ELE B1 & B2 LEVELS (220H)</strong>
+
+                                                    <p>The second stage focuses on:</p>
+
+                                                    <ul>
+                                                        <li>Past, future and conditional tenses in context</li>
+                                                        <li>The subjunctive mood: wishes, opinions, doubts and recommendations</li>
+                                                        <li>Connectors and complex sentence structures</li>
+                                                        <li>Expressing and defending opinions in discussion</li>
+                                                        <li>Reading and understanding articles, reports and longer texts</li>
+                                                        <li>Writing emails, short essays and formal texts</li>
+                                                        <li>Spanish for work, study and dealing with everyday services</li>
                                                     </ul>
 
-                                                    <p>Students strengthen their ability to communicate effectively in a wide range of personal, academic, and professional situations.</p>
-
+                                                    <p>
+                                                        Students strengthen their ability to communicate effectively in a wide range of personal, academic, and professional situations.
+                                                    </p>
 
                                                 </div>
                                             </div>

@@ -4,7 +4,7 @@
     <!-- inner menu area desktop start -->
     <div class="inner-main-wrapper-desk">
         <div class="thumbnail">
-            <img src="{{asset('assets/images/logo/logo__two.svg')}}" alt="Novus Spain-university">
+            <img src="{{asset('assets/images/logo/logo__two.svg')}}" alt="NOVUS Education">
         </div>
         <div class="inner-content">
             <!-- <p class="disc">
@@ -14,19 +14,19 @@
             <div class="offcanvase__banner mt--50">
                 <div class="offcanvase__banner--content">
                     <img src="{{asset('assets/images/offcanvase.jpg')}}" alt="offcanvase">
-                    <a href="{{ route('admission') }}" class="rts-theme-btn">Apply Now</a>
+                    <a href="https://one.novuseducation.es/crm/admission-form/" class="rts-theme-btn">Apply Now</a>
                 </div>
             </div>
             <div class="offcanvase__info">
                 <div class="offcanvase__info--content">
-                    <a href="callto:+34123456789"><span><i class="fa-sharp fa-light fa-phone"></i></span>+(34) 123-456-789</a>
+                    <!-- <a href="callto:+34123456789"><span><i class="fa-sharp fa-light fa-phone"></i></span>+(34) 123-456-789</a> -->
                     <a href="#"><span><i class="fa-sharp fa-light fa-location-dot"></i></span>Carrer Enric Valor, 1, 46980 Paterna, Valencia, Spain</a>
                     <div class="offcanvase__info--content--social">
                         <p class="title">Follow Us:</p>
                         <div class="social__links">
-                            <a href="#"><i class="fa-brands fa-facebook"></i></a>
-                            <a href="#"><i class="fa-brands fa-instagram"></i></a>
-                            <a href="#"><i class="fa-brands fa-linkedin"></i></a>
+                            <a href="https://www.facebook.com/novuseducations"><i class="fa-brands fa-facebook"></i></a>
+                            <a href="https://www.instagram.com/novus_education_spain"><i class="fa-brands fa-instagram"></i></a>
+                            <a href="https://www.linkedin.com/company/novus-education-spain"><i class="fa-brands fa-linkedin"></i></a>
                             <!-- <a href="#"><i class="fa-brands fa-youtube"></i></a> -->
                         </div>
                     </div>
@@ -66,7 +66,7 @@
         </nav>
 
         <div class="offcanvase__info--content mt--30">
-            <a href="callto:+34123456789"><span><i class="fa-sharp fa-light fa-phone"></i></span>+(34) 123-456-789</a>
+            <!-- <a href="callto:+34123456789"><span><i class="fa-sharp fa-light fa-phone"></i></span>+(34) 123-456-789</a> -->
             <a href="#"><span><i class="fa-sharp fa-light fa-location-dot"></i></span>Carrer Enric Valor, 1, 46980 Paterna, Valencia, Spain</a>
             <div class="offcanvase__info--content--social">
                 <p class="title">Follow Us:</p>

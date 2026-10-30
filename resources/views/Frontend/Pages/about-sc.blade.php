@@ -22,7 +22,7 @@
             <div class="row g-5">
                 <div class="col-lg-6">
                     <div class="about-content">
-                        <p>Novus Spain School is a flexible, inclusive online school that empowers every student to succeed in their academic and personal lives. With personalised education in a warm and welcoming environment, we guide each young person to reach their full potential.</p>
+                        <p>Novus Education School is a flexible, inclusive online school that empowers every student to succeed in their academic and personal lives. With personalised education in a warm and welcoming environment, we guide each young person to reach their full potential.</p>
                         <div class="event__link">
                             <a href="#" class="rts-theme-btn btn-arrow v2 full-btn">Join Our Event <span><i class="fa-sharp fa-regular fa-arrow-right"></i></span></a>
                         </div>
@@ -33,12 +33,12 @@
                         <div class="block-element">
                             <img src="{{asset('assets/images/icon/student.svg')}}" alt="">
                             <h3>19 Years</h3>
-                            <p>building Novus Spain School leadership in online education</p>
+                            <p>building Novus Education School leadership in online education</p>
                         </div>
                         <div class="block-element">
                             <img src="{{asset('assets/images/icon/school.svg')}}" alt="">
                             <h3>11500+</h3>
-                            <p>successful Novus Spain School alumni and counting</p>
+                            <p>successful Novus Education School alumni and counting</p>
                         </div>
 
                     </div>
@@ -136,7 +136,7 @@
                 <div class="feature">
                     <div class="feature__left">
                         <h2 class="feature__title">How we teach at our Primary school Students</h2>
-                        <p>At Novus Spain, our Pre-Primary program is designed to provide a safe, nurturing, and engaging environment where young learners develop curiosity, creativity, and confidence. Through interactive play.</p>
+                        <p>At Novus Education, our Pre-Primary program is designed to provide a safe, nurturing, and engaging environment where young learners develop curiosity, creativity, and confidence. Through interactive play.</p>
                         <a href="#" class="rts-theme-btn btn-arrow v2">Enroll Now <span><i class="fa-sharp fa-regular fa-arrow-right"></i></span></a>
                     </div>
                     <div class="feature__right">

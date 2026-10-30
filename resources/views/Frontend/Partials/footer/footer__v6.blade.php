@@ -104,7 +104,7 @@
         <div class="row">
             <div class="col-sm-12">
                 <div class="copyright__wrapper">
-                    <p>Copyright &copy; {{ date('Y') }} All Rights Reserved by <a href="#">Novus Spain</a></p>
+                    <p>Copyright &copy; {{ date('Y') }} All Rights Reserved by <a href="#">Novus Education</a></p>
                 </div>
             </div>
         </div>

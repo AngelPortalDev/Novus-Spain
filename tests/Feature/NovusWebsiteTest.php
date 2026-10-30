@@ -19,7 +19,7 @@ class NovusWebsiteTest extends TestCase
             $paths[] = '/english-school/'.$slug;
         }
         foreach ($paths as $path) {
-            $this->get($path)->assertOk()->assertSee('Novus Spain')->assertDontSee('Unipix')->assertDontSee('info@ascenciamalta')->assertDontSee('MQF');
+            $this->get($path)->assertOk()->assertSee('Novus Education')->assertDontSee('Unipix')->assertDontSee('info@ascenciamalta')->assertDontSee('MQF');
         }
     }
 
