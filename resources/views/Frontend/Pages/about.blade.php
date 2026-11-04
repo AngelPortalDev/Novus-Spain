@@ -225,7 +225,6 @@ from real experience in their sectors.
                         <p class="h6 mb-
                         4">A Welcome from Our Co-Founder & Director</p>
                         <p>Dr Tess Giordmaina | Co-Founder & Director, NOVUS Education</p>
-                        
                         <p>Welcome to NOVUS Education! </p>
                         <p>With over two decades of international experience in education, having worked across different countries and educational environments, I have witnessed first-hand the transformative power of learning. I firmly believe that education is not simply about gaining qualifications, but about opening doors, creating opportunities and empowering individuals to reach their full potential.</p>
                         <p>As Co-Founder and Director of NOVUS Education, I am proud to bring our vision to Valencia, marking an exciting new chapter in our group's international journey. Our ambition is to create an educational environment where academic excellence meets practical experience, personal development and global perspectives.</p>
