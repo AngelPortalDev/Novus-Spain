@@ -216,27 +216,27 @@ from real experience in their sectors.
             <div class="row">
                 <div class="col-lg-4 col-md-8">
                     <div class="faculty-image text-center">
-                        <img class="img-fluid mw-100 " src="assets/images/faculty/01.jpg" alt="faculty image">
+                        <img class="img-fluid mw-100 " src="assets/images/faculty/01.jpeg" alt="faculty image">
   
                     </div>
                 </div>
                 <div class="col-lg-8">
                     <div class="faculty-content-text ms-lg-5 mt-5 mt-lg-0">
                         <p class="h6 mb-
-                        4">A welcome from our Director</p>
-                        <p class="mb-5">Tess Giordmaina, Director</p>
+                        4">A Welcome from Our Co-Founder & Director</p>
+                        <p>Dr Tess Giordmaina | Co-Founder & Director, NOVUS Education</p>
                         
-                        <p class="mb-5">Welcome to NOVUS Education. Bringing NOVUS to Valencia is an exciting new chapter for our
-group. We have seen first-hand how the right education can open doors, and we want every student
-who joins us to leave confident, connected and ready for their next step.</p>
-
- <p class="mb-5">Our programmes are built around what we believe matters most in business today: people, and the
-experiences they create. You'll learn from professionals who share what really works in their
-industries, in a city that gives you the perfect setting to grow, both personally and professionally.</p>
-<p class="mb-5">We look forward to welcoming you to Valencia and to being part of your journey.</p>
-
+                        <p>Welcome to NOVUS Education! </p>
+                        <p>With over two decades of international experience in education, having worked across different countries and educational environments, I have witnessed first-hand the transformative power of learning. I firmly believe that education is not simply about gaining qualifications, but about opening doors, creating opportunities and empowering individuals to reach their full potential.</p>
+                        <p>As Co-Founder and Director of NOVUS Education, I am proud to bring our vision to Valencia, marking an exciting new chapter in our group's international journey. Our ambition is to create an educational environment where academic excellence meets practical experience, personal development and global perspectives.</p>
+                        <p>At NOVUS, we believe that people are at the heart of education. Our programmes are designed to connect knowledge with real-world experience, guided by professionals who bring valuable industry insights into the classroom. We want our students not only to gain knowledge and skills, but also to develop the confidence, independence and international mindset needed to succeed in an ever-changing world.</p>
+                        <p>Valencia, with its vibrant culture, international atmosphere and growing business community, provides the ideal setting for this journey.</p>
+                        <p>I look forward to welcoming you to NOVUS Education and being part of your personal and professional growth.</p>
+             
                     </div>
+                                  
                 </div>
+                 
                  <div class="border-top my-60"></div>
                          <div class="col-lg-4 col-md-8">
                     <div class="faculty-image text-center">
@@ -249,7 +249,7 @@ industries, in a city that gives you the perfect setting to grow, both personall
                     <div class="faculty-content-text ms-lg-5 mt-5 mt-lg-0">
                         <p class="h6 mb-
                         4">Mireille Morejon Marín</p>
-                        <p class="mb-5">Head of Academics and Head of Academics and Campus Manager</p>
+                        <p class="mb-5">Head of Academics and Campus Manager</p>
                         
                         <p class="mb-5">Students thrive when they feel seen, supported and challenged. That's what we're building at
 NOVUS.”</p>
