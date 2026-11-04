@@ -130,10 +130,10 @@ international connections and a network that reaches well beyond Spain.
                         <div class="rts__research--single--meta">
                             <a class="rts__research--single--meta--title" href="">A vibrant international community</a>
                             <p class="rts__research--single--meta--excerpt">
-                                Valencia is home to people from all over the world, so
-you'll feel part of the city from your very first week. Language exchanges, meet-ups and a busy
-social scene make it easy to build friendships and a network that lasts well beyond your studies.
-                            </p>
+                                                            Valencia is home to people from all over the world, so
+                            you'll feel part of the city from your very first week. Language exchanges, meet-ups and a busy
+                            social scene make it easy to build friendships and a network that lasts well beyond your studies.
+                                                        </p>
                         </div>
                     </div>
                 </div>
@@ -149,10 +149,10 @@ social scene make it easy to build friendships and a network that lasts well bey
                         <div class="rts__research--single--meta">
                             <a class="rts__research--single--meta--title" href="">Tradition and culture</a>
                             <p class="rts__research--single--meta--excerpt">
-                           Walk through centuries-old streets in the historic centre, browse one of
-Europe's largest fresh food markets, then cross the city to the striking, futuristic City of Arts and
-Sciences. Few places mix old and new so naturally, and there's always something new to
-discover.
+                                                    Walk through centuries-old streets in the historic centre, browse one of
+                            Europe's largest fresh food markets, then cross the city to the striking, futuristic City of Arts and
+                            Sciences. Few places mix old and new so naturally, and there's always something new to
+                            discover.
                             </p>
                         </div>
                     </div>
@@ -169,10 +169,10 @@ discover.
                         <div class="rts__research--single--meta">
                             <a class="rts__research--single--meta--title" href="">Festivals and events all year round</a>
                             <p class="rts__research--single--meta--excerpt">
-                              Valencia's calendar is packed, from the city's
-world-famous Fallas festival in March to open-air concerts, food and music festivals, international
-sporting events and conferences. Whatever your interests, there's something on every week,
-and much of it is free.
+                                                        Valencia's calendar is packed, from the city's
+                            world-famous Fallas festival in March to open-air concerts, food and music festivals, international
+                            sporting events and conferences. Whatever your interests, there's something on every week,
+                            and much of it is free.
 
                             </p>
                         </div>
@@ -190,10 +190,10 @@ and much of it is free.
                         <div class="rts__research--single--meta">
                             <a class="rts__research--single--meta--title" href="">Beach and nature</a>
                             <p class="rts__research--single--meta--excerpt">
-                              Wide sandy beaches are just a short tram ride from the centre, and the
-Turia Gardens, a nine-kilometre park built in the old riverbed, cut right through the city. Go
-running, cycle to class, or head out to the Albufera Natural Park to see the sun set over the
-lagoon
+                                                            Wide sandy beaches are just a short tram ride from the centre, and the
+                                Turia Gardens, a nine-kilometre park built in the old riverbed, cut right through the city. Go
+                                running, cycle to class, or head out to the Albufera Natural Park to see the sun set over the
+                                lagoon
                             </p>
                         </div>
                     </div>
