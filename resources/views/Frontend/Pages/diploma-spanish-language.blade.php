@@ -4,7 +4,7 @@
     @include($elements . 'breadcrumb', [
         'class' => 'breadcrumb-height breadcumb-bg',
         'image' => 'breadcrumb.jpg',
-        'title' => 'Diploma in Spanish Language',
+        'title' => 'Diploma in Spanish – Awarded by NOVUS Education',
         'page' => 'Course Details'    
     ])
 <style>
@@ -314,7 +314,7 @@
                 Course Overview
             </h2>
 
-            <p>The Diploma in Spanish Language is designed for international students who want to learn and improve their Spanish while enjoying a unique experience in Valencia, one of the best cities in Spain to study, live, and experience Mediterranean culture.</p>
+            <p>The Diploma in Spanish – Awarded by NOVUS Education is designed for international students who want to learn and improve their Spanish while enjoying a unique experience in Valencia, one of the best cities in Spain to study, live, and experience Mediterranean culture.</p>
 
             <p>Study Spanish in Spain, immerse yourself in an authentic Spanish-speaking environment, and develop the language skills needed to achieve your academic, professional, and personal goals.</p>
 
@@ -322,10 +322,10 @@
                     <h2
                 id="course-overview-heading"
                 class="rts-section-title course-overview-title"
-            > SPANISH LANGUAGE PROGRAM</h2>
+            > SPANISH LANGUAGE programme</h2>
                     
-                        <div class="program-credit-area">
-                                <div class="program-accordion">
+                        <div class="programme-credit-area">
+                                <div class="programme-accordion">
                                     <div class="accordion" id="rts-accordion">
                                         <div class="accordion-item">
                                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
@@ -335,7 +335,7 @@
                                                 <div class="accordion-body-content">
                                                     <br>
                                                   <p>Students begin their Spanish learning journey by developing fundamental communication skills, vocabulary, grammar, and everyday language use.</p>
-                                                  <strong>ELE A1 & A2 LEVELS (440H)</strong>
+                                                  <strong>ELE A1 & A2 LEVELS</strong>
                                                   <p>The first stage focuses on building a solid foundation in Spanish through:</p>
                                                   <ul>
                                                         <li>Social uses of the Spanish language</li>
@@ -373,7 +373,7 @@
                                                         Continue developing your Spanish proficiency through more advanced grammar structures and real-world communication scenarios.
                                                     </p>
 
-                                                    <strong>ELE B1 & B2 LEVELS (220H)</strong>
+                                                    <strong>ELE B1 & B2 LEVELS</strong>
 
                                                     <p>The second stage focuses on:</p>
 
@@ -396,16 +396,14 @@
                                         </div>
                                         <div class="accordion-item">
                                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                             PROGRAM HIGHLIGHTS
+                                             programme HIGHLIGHTS
                                             </button>
                                             <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#rts-accordion">
                                                 <div class="accordion-body-content">
                                                     <br>
-                                                 <strong>Official Spanish Language Training</strong>
-                                                  <p>Students strengthen their ability to communicate effectively in a wide range of personal, academic, and professional situations.</p>
-                                                   <strong>University of Valencia Language Centre</strong>
+                                                    
                                                   <p>Receive training from one of Spain’s leading public universities in a professional and international learning environment.</p>
-                                                <strong>660 Hours of Spanish Language Instruction</strong>
+                                                <strong>Spanish Language Instruction</strong>
                                                   <p>Progress from beginner to intermediate-upper levels through comprehensive language training designed for international students.</p>
                       
                                                     <strong>Practical Communication Skills</strong>
@@ -445,18 +443,18 @@
 
                 <div class="course-feature">
                     <h3>What levels are included in the Spanish course?</h3>
-                    <p>The program covers Spanish levels from A1 to B2, helping students progress from beginner to intermediate-upper proficiency through 660 hours of language training.</p>
+                    <p>The programme covers Spanish levels from A1 to B2, helping students progress from beginner to intermediate-upper proficiency through language training.</p>
                 </div>
 
                 <div class="course-feature">
                     <h3>Will I receive a Spanish language certificate?</h3>
-                    <p>Yes. Students receive certification issued through the University of Valencia Language Centre, recognizing the completion of their Spanish language studies.</p>
+                    <p>Yes. Students who meet the attendance and assessment requirements receive the Diploma in Spanish, awarded by NOVUS Education, stating the levels completed.</p>
                 </div>
 
-                <div class="course-feature">
+                <!-- <div class="course-feature">
                     <h3>Can I work in Spain while studying Spanish?</h3>
                     <p>International students may benefit from the work opportunities permitted under current Spanish student visa regulations while completing their studies.</p>
-                </div>
+                </div> -->
 
             </div>
 

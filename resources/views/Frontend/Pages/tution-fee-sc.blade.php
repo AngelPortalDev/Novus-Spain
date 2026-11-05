@@ -6,7 +6,7 @@
         'class' => 'sc__version sc__breadcrumb',
         'image' => 'breadcrumb-3.webp',
         'title' => 'Apply to Novus Education School',
-        'page' => 'Program'
+        'page' => 'programme'
     ])
     <!-- breadcrumb area end -->
 

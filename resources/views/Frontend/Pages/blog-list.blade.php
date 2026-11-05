@@ -121,14 +121,14 @@
                 </div>
                 <div class="col-lg-4  sticky-coloum-item">
                     <div class="rt__sidebar">
-                        <div class="program-sidebar">
+                        <div class="programme-sidebar">
                             <!-- curriculum -->
-                            <div class="program-curriculum">
+                            <div class="programme-curriculum">
                                 <h6 class="heading-title">Category</h6>
-                                <div class="program-menu">
+                                <div class="programme-menu">
                                     <ul class="list-unstyled">
                                         <li><a href="#"><span><i class="fa-light fa-arrow-right"></i></span>Course Curriculum</a></li>
-                                        <li><a href="#"><span><i class="fa-light fa-arrow-right"></i></span>Program Faculty</a></li>
+                                        <li><a href="#"><span><i class="fa-light fa-arrow-right"></i></span>programme Faculty</a></li>
                                         <li><a href="#"><span><i class="fa-light fa-arrow-right"></i></span>Study Aboard</a></li>
                                         <li><a href="#"><span><i class="fa-light fa-arrow-right"></i></span>Scholarship </a></li>
                                         <li><a href="#"><span><i class="fa-light fa-arrow-right"></i></span>Education Expo</a></li>
@@ -136,7 +136,7 @@
                                 </div>
                             </div>
                             <!-- contact info -->
-                            <div class="program-info">
+                            <div class="programme-info">
                                 <h5>Department Contact Info</h5>
                                 <p>B.A. in Africana Studies</p>
                                 <div class="contact-info">
@@ -157,8 +157,8 @@
                             </div>
     
                             <!-- join event -->
-                            <div class="program-event">
-                                <div class="program-event-content">
+                            <div class="programme-event">
+                                <div class="programme-event-content">
                                     <p>Joint New Event About
                                         African History
                                     </p>

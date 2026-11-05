@@ -5,37 +5,37 @@
         'class' => 'breadcrumb-height breadcumb-bg',
         'image' => 'breadcrumb.jpg',
         'title' => 'B.A in African Studies',
-        'page' => 'Program Single'    
+        'page' => 'programme Single'    
     ])
-    <!-- program content -->
-    <div class="rts-program rts-section-padding">
+    <!-- programme content -->
+    <div class="rts-programme rts-section-padding">
         <div class="container">
-            <div class="rts-program-single-header">
+            <div class="rts-programme-single-header">
                 <div class="row align-items-center g-3">
                     <div class="col-lg-6">
-                        <h3 class="rts-section-title">The Accounting program offers a Bachelor of Science in Accounting.</h3>
+                        <h3 class="rts-section-title">The Accounting programme offers a Bachelor of Science in Accounting.</h3>
                     </div>
                     <div class="col-lg-6">
-                        <p class="rts-section-description">The program continues to attract students from all ethnic, racial, and cultural backgrounds as they recognize ways that Africana Studies provides them with a forum to examine the intellectual life, the historical experience, and the cultural understanding of one of this country’s largest racial minority groups.</p>
+                        <p class="rts-section-description">The programme continues to attract students from all ethnic, racial, and cultural backgrounds as they recognize ways that Africana Studies provides them with a forum to examine the intellectual life, the historical experience, and the cultural understanding of one of this country’s largest racial minority groups.</p>
                     </div>
                 </div>
             </div>
-            <div class="rts-program-description">
+            <div class="rts-programme-description">
                 <div class="row sticky-coloum-wrap">
                     <div class="col-lg-8">
-                        <div class="program-description-area" id="curriculum">
-                            <div class="program-big-thumb">
-                                <img src="{{asset('assets/images/course/program-big.jpg')}}" alt="program">
+                        <div class="programme-description-area" id="curriculum">
+                            <div class="programme-big-thumb">
+                                <img src="{{asset('assets/images/course/programme-big.jpg')}}" alt="programme">
                             </div>
-                            <div class="program-about">
-                                <h4 class="title">About The Program</h4>
-                                <p>Students electing to pursue courses in the Africana Studies program are entering into the current intellectual dialogue on multiculturalism in this society as they study with professors who have conducted notable research in African, Caribbean, Africana, and African-American Studies.</p>
-                                <p>The Africana Studies program at Stockton University is affiliated with the National Council for Black Studies, Inc. (NCBS) and students are eligible to apply for membership in Ankh Maat Wedjau, the National Honor Society for majors and minors in Africana Studies. Majors and minors in Africana Studies at Stockton University will also come to appreciate their responsibility to their communities through various projects</p>
+                            <div class="programme-about">
+                                <h4 class="title">About The programme</h4>
+                                <p>Students electing to pursue courses in the Africana Studies programme are entering into the current intellectual dialogue on multiculturalism in this society as they study with professors who have conducted notable research in African, Caribbean, Africana, and African-American Studies.</p>
+                                <p>The Africana Studies programme at Stockton University is affiliated with the National Council for Black Studies, Inc. (NCBS) and students are eligible to apply for membership in Ankh Maat Wedjau, the National Honor Society for majors and minors in Africana Studies. Majors and minors in Africana Studies at Stockton University will also come to appreciate their responsibility to their communities through various projects</p>
                             </div>
-                            <div class="program-credit-area">
-                                <h5 class="title">Program Courses: 40 credits</h5>
+                            <div class="programme-credit-area">
+                                <h5 class="title">programme Courses: 40 credits</h5>
                                 <p>Core Required Courses for all majors:</p>
-                                <div class="program-accordion">
+                                <div class="programme-accordion">
                                     <div class="accordion" id="rts-accordion">
                                         <div class="accordion-item">
                                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
@@ -274,7 +274,7 @@
                                 </div>
                             </div>
                             <!-- single testimonial -->
-                            <div class="program-student-testimonial rt-relative">
+                            <div class="programme-student-testimonial rt-relative">
                                 <h5 class="title">Student Testimonials</h5>
                                 <div class="single-testimonial-box">
                                     <div class="single-testimonial-active">
@@ -346,14 +346,14 @@
                     </div>
                     <!-- sidebar -->
                     <div class="col-lg-4 sticky-coloum-item">
-                        <div class="program-sidebar">
+                        <div class="programme-sidebar">
                             <!-- curriculum -->
-                            <div class="program-curriculum">
+                            <div class="programme-curriculum">
                                 <h6 class="heading-title">B.A In African Studies</h6>
-                                <div class="program-menu">
+                                <div class="programme-menu">
                                     <ul class="list-unstyled">
                                         <li><a href="#curriculum"><span><i class="fa-light fa-arrow-right"></i></span>Course Curriculum</a></li>
-                                        <li><a href="{{ route('faculty-details') }}"><span><i class="fa-light fa-arrow-right"></i></span>Program Faculty</a></li>
+                                        <li><a href="{{ route('faculty-details') }}"><span><i class="fa-light fa-arrow-right"></i></span>programme Faculty</a></li>
                                         <li><a href="{{ route('admission') }}"><span><i class="fa-light fa-arrow-right"></i></span>Apply Admission</a></li>
                                         <li><a href="{{ route('scholarship') }}"><span><i class="fa-light fa-arrow-right"></i></span>Scholarship </a></li>
                                         <li><a href="{{ route('event') }}"><span><i class="fa-light fa-arrow-right"></i></span>Joint Event</a></li>
@@ -361,7 +361,7 @@
                                 </div>
                             </div>
                             <!-- contact info -->
-                            <div class="program-info">
+                            <div class="programme-info">
                                 <h5>Department Contact Info</h5>
                                 <p>B.A. in Africana Studies</p>
                                 <div class="contact-info">
@@ -382,8 +382,8 @@
                             </div>
 
                             <!-- join event -->
-                            <div class="program-event">
-                                <div class="program-event-content">
+                            <div class="programme-event">
+                                <div class="programme-event-content">
                                     <p>Joint New Event About <br>
                                         African History
                                     </p>
@@ -403,7 +403,7 @@
                                             <span>November 28, 2023</span>
                                         </div>
                                     </div>
-                                    <a href="#" class="rts-theme-btn btn-arrow btn-white">View Our Program <span><i class="fa-thin fa-arrow-right"></i></span></a>
+                                    <a href="#" class="rts-theme-btn btn-arrow btn-white">View Our programme <span><i class="fa-thin fa-arrow-right"></i></span></a>
                                 </div>
                             </div>
                         </div>
@@ -412,7 +412,7 @@
             </div>
         </div>
     </div>
-    <!-- program content end -->
+    <!-- programme content end -->
      
     @include($footer . 'footer__default', ['class' => 'v__1'])
 @endsection

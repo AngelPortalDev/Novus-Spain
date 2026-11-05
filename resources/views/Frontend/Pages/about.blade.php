@@ -21,7 +21,7 @@
                 </div>
                 <div class="col-lg-7">
                     <p class="about__description__text">
-NOVUS Education is a new business school in the heart of Valencia, offering English-taught programmes for students who want to build careers where people and experiences matter most.
+NOVUS Education is a new business school in the heart of Valencia, offering English-taught programmemes for students who want to build careers where people and experiences matter most.
                     </p>
                 </div>
             </div>
@@ -45,9 +45,9 @@ NOVUS Education is a new business school in the heart of Valencia, offering Engl
                     <div class="col-lg-8 col-md-7">
                         <p class="rts-section-description">
                         NOVUS Education was founded on a simple idea: the most successful organisations are the ones
-                        that understand people. Our programmes bring together core business knowledge and the specialist
+                        that understand people. Our programmemes bring together core business knowledge and the specialist
                         skills behind great service, from hospitality and events to tourism, human resources and customer
-                        experience.<br><br>We welcome students from Spain and around the world. Every programme is taught in English, so
+                        experience.<br><br>We welcome students from Spain and around the world. Every programmeme is taught in English, so
 our classrooms bring together different cultures, perspectives and ambitions, just as the workplaces
 our graduates will join.
                     </p>
@@ -99,118 +99,21 @@ international connections and a network that reaches well beyond Spain.
                     </div>
                 </div>
             </div>
-            
+             <a href="{{ route('campus-life') }}"  target="_blank" class="rts-theme-btn btn-arrow justify-content-center">Discover Student Life
+                            <span><i class="fa-regular fa-arrow-right"></i></span> </a>
             </div>
         </div>
     </section>
-    
-    <section class="rts__section rts-section-padding">
-        <div class="container">
-            <div class="row">
-                <div class="rts__section--wrapper v__3">
-                    <h2 class="rts__section--title">Why Valencia</h2>
-                    <div class="rts__section--details">
-                        <p class="rts__description" style="max-width: 624px;">
-                       The world's best city to live in, according to expats. Valencia has been voted number one in InterNations' Expat Insider survey year after year. In 2024, it came first out of 53 cities worldwide and topped the quality of life index, with expats praising its safety, leisure options and easy, affordable public transport (Forbes). In the latest edition, Valencia took first place again, ahead of Málaga and Alicante (Lucas Fox, September 2025) </p>
-                        <!-- <a class="rts-nbg-btn btn-arrow" href="/research">Learn More<span><i class="fa-sharp fa-regular fa-arrow-right"></i> -->
-                        </span></a>
-                    </div>
-                </div>
-            </div>
-            <!-- research content -->
-            <div class="row g-5">
-                <!-- single item -->
-                <div class="col-lg-6 col-md-6 col-sm-6">
-                    <div class="rts__research--single">
-                        <div class="rts__research--single--thumb">
-                            <a href="">
-                                <img src="assets/images/research/international-community.jpg" alt="">
-                            </a>
-                        </div>
-                        <div class="rts__research--single--meta">
-                            <a class="rts__research--single--meta--title" href="">A vibrant international community</a>
-                            <p class="rts__research--single--meta--excerpt">
-                                                            Valencia is home to people from all over the world, so
-                            you'll feel part of the city from your very first week. Language exchanges, meet-ups and a busy
-                            social scene make it easy to build friendships and a network that lasts well beyond your studies.
-                                                        </p>
-                        </div>
-                    </div>
-                </div>
-                <!-- single item end -->
-                   <!-- single item -->
-                <div class="col-lg-6 col-md-6 col-sm-6">
-                    <div class="rts__research--single">
-                        <div class="rts__research--single--thumb">
-                            <a href="">
-                                <img src="assets/images/research/tradition-and-culture.jpg" alt="">
-                            </a>
-                        </div>
-                        <div class="rts__research--single--meta">
-                            <a class="rts__research--single--meta--title" href="">Tradition and culture</a>
-                            <p class="rts__research--single--meta--excerpt">
-                                                    Walk through centuries-old streets in the historic centre, browse one of
-                            Europe's largest fresh food markets, then cross the city to the striking, futuristic City of Arts and
-                            Sciences. Few places mix old and new so naturally, and there's always something new to
-                            discover.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <!-- single item end -->
-                <!-- single item -->
-                <div class="col-lg-6 col-md-6 col-sm-6">
-                    <div class="rts__research--single">
-                        <div class="rts__research--single--thumb">
-                            <a href="">
-                                <img src="assets/images/research/festivals-and-events.jpg" alt="">
-                            </a>
-                        </div>
-                        <div class="rts__research--single--meta">
-                            <a class="rts__research--single--meta--title" href="">Festivals and events all year round</a>
-                            <p class="rts__research--single--meta--excerpt">
-                                                        Valencia's calendar is packed, from the city's
-                            world-famous Fallas festival in March to open-air concerts, food and music festivals, international
-                            sporting events and conferences. Whatever your interests, there's something on every week,
-                            and much of it is free.
-
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <!-- single item end -->
-                <!-- single item -->
-                <div class="col-lg-6 col-md-6 col-sm-6">
-                    <div class="rts__research--single">
-                        <div class="rts__research--single--thumb">
-                            <a href="">
-                                <img src="assets/images/research/beach-and-nature.jpg" alt="">
-                            </a>
-                        </div>
-                        <div class="rts__research--single--meta">
-                            <a class="rts__research--single--meta--title" href="">Beach and nature</a>
-                            <p class="rts__research--single--meta--excerpt">
-                                                            Wide sandy beaches are just a short tram ride from the centre, and the
-                                Turia Gardens, a nine-kilometre park built in the old riverbed, cut right through the city. Go
-                                running, cycle to class, or head out to the Albufera Natural Park to see the sun set over the
-                                lagoon
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <!-- single item end -->
-            </div>
-        </div>
-    </section>
-    <div class="rts-faculty-details">
+   
+    <div class="rts-faculty-details" style="padding-top: 50px;">
         <div class="container">
             <div class="row">
                 <div class="rts__section--wrapper v__9">
                         <h2 class="rts__section--title">Meet our team</h2>
                         <p class="rts__section--description text-center">Get to know the people behind NOVUS. Our founding team brings together experience in education,
-international student services and business, and we're building a faculty of professionals who teach
-from real experience in their sectors.
-</p>
+                        international student services and business, and we're building a faculty of professionals who teach
+                        from real experience in their sectors.
+                        </p>
                     </div>
             </div>
             <div class="row">
@@ -228,7 +131,7 @@ from real experience in their sectors.
                         <p>Welcome to NOVUS Education! </p>
                         <p>With over two decades of international experience in education, having worked across different countries and educational environments, I have witnessed first-hand the transformative power of learning. I firmly believe that education is not simply about gaining qualifications, but about opening doors, creating opportunities and empowering individuals to reach their full potential.</p>
                         <p>As Co-Founder and Director of NOVUS Education, I am proud to bring our vision to Valencia, marking an exciting new chapter in our group's international journey. Our ambition is to create an educational environment where academic excellence meets practical experience, personal development and global perspectives.</p>
-                        <p>At NOVUS, we believe that people are at the heart of education. Our programmes are designed to connect knowledge with real-world experience, guided by professionals who bring valuable industry insights into the classroom. We want our students not only to gain knowledge and skills, but also to develop the confidence, independence and international mindset needed to succeed in an ever-changing world.</p>
+                        <p>At NOVUS, we believe that people are at the heart of education. Our programmemes are designed to connect knowledge with real-world experience, guided by professionals who bring valuable industry insights into the classroom. We want our students not only to gain knowledge and skills, but also to develop the confidence, independence and international mindset needed to succeed in an ever-changing world.</p>
                         <p>Valencia, with its vibrant culture, international atmosphere and growing business community, provides the ideal setting for this journey.</p>
                         <p>I look forward to welcoming you to NOVUS Education and being part of your personal and professional growth.</p>
              
@@ -257,7 +160,7 @@ NOVUS.”</p>
 academic and industry partnerships that bring the real world into the classroom, and oversees
 everything that makes the school run day to day.</p>
 <p class="mb-5">An educator with more than a decade of international experience, she has taught at international
-schools abroad, coordinated academic programmes and mentoring for over a hundred students,
+schools abroad, coordinated academic programmemes and mentoring for over a hundred students,
 and designed courses for online and hybrid learning. Her focus has always been on practical,
 engaging learning that prepares students for what comes next.</p>
 
@@ -326,10 +229,10 @@ students make the most of their time with us.</p>
                         <p class="rts-section-description">
                 <h6>Quality you can trust</h6>
                        NOVUS Education is backed by an international education group with campuses in Malta, Italy and
-France and experience of delivering accredited business programmes to students from around the
+France and experience of delivering accredited business programmemes to students from around the
 world. We are building NOVUS on the same foundations: rigorous academic standards, teaching
-grounded in industry experience, and programmes shaped by what employers need.<br><br>We are currently working towards accreditation for our programmes and developing partnerships
-with recognised academic institutions. Each programme page will state its award and awarding
+grounded in industry experience, and programmemes shaped by what employers need.<br><br>We are currently working towards accreditation for our programmemes and developing partnerships
+with recognised academic institutions. Each programmeme page will state its award and awarding
 body as soon as they are confirmed, so you will always know exactly what you are studying for.
                     </p>
                     </div>

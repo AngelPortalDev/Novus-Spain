@@ -6,7 +6,7 @@
         'class' => 'sc__version sc__breadcrumb',
         'image' => 'breadcrumb-3.webp',
         'title' => 'Middle School',
-        'page' => 'Program'
+        'page' => 'programme'
     ])
 
 
@@ -114,7 +114,7 @@
                 <div class="what__we__offer__wrapper">
                     <div class="content__section">
                         <h2 class="content__title">What We Offer:</h2>
-                        <p class="content__description">At Novus Education, our Pre-Primary program is designed to provide a safe, nurturing, and engaging environment where young learners develop curiosity, creativity, and confidence. Through interactive play.</p>
+                        <p class="content__description">At Novus Education, our Pre-Primary programme is designed to provide a safe, nurturing, and engaging environment where young learners develop curiosity, creativity, and confidence. Through interactive play.</p>
                         <div class="offer__area">
                             <div class="offer__list">
                                 <div class="icon">
@@ -413,8 +413,8 @@
             </div>
             <div class="row justify-content-center">
                 <div class="col-lg-8">
-                    <div class="program-credit-area faq sc__accordion mt--50">
-                        <div class="program-accordion">
+                    <div class="programme-credit-area faq sc__accordion mt--50">
+                        <div class="programme-accordion">
                             <div class="accordion" id="rts-accordion">
                                 <div class="accordion-item expanded">
                                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne"
@@ -424,7 +424,7 @@
                                     <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#rts-accordion">
                                         <div class="accordion-body">
                                             <p>
-                                                Admission requirements vary by program. Please refer to the Admissions section on our website for detailed information or contact the Admissions Office for assistance.
+                                                Admission requirements vary by programme. Please refer to the Admissions section on our website for detailed information or contact the Admissions Office for assistance.
                                             </p>
                                         </div>
                                     </div>
@@ -437,7 +437,7 @@
                                     <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#rts-accordion">
                                         <div class="accordion-body">
                                             <p>
-                                                Admission requirements vary by program. Please refer to the Admissions section on our website for detailed information or contact the Admissions Office for assistance.
+                                                Admission requirements vary by programme. Please refer to the Admissions section on our website for detailed information or contact the Admissions Office for assistance.
                                             </p>
                                         </div>
                                     </div>
@@ -449,7 +449,7 @@
                                     </button>
                                     <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#rts-accordion">
                                        <div class="accordion-body">
-                                        <p>Admission requirements vary by program. Please refer to the Admissions section on our website for detailed information or contact the Admissions Office for assistance.</p>
+                                        <p>Admission requirements vary by programme. Please refer to the Admissions section on our website for detailed information or contact the Admissions Office for assistance.</p>
                                        </div>
                                     </div>
                                 </div>
@@ -460,7 +460,7 @@
                                     </button>
                                     <div id="collapsefour" class="accordion-collapse collapse" data-bs-parent="#rts-accordion">
                                        <div class="accordion-body">
-                                        <p>Admission requirements vary by program. Please refer to the Admissions section on our website for detailed information or contact the Admissions Office for assistance.</p>
+                                        <p>Admission requirements vary by programme. Please refer to the Admissions section on our website for detailed information or contact the Admissions Office for assistance.</p>
                                        </div>
                                     </div>
                                 </div>
@@ -493,7 +493,7 @@
                         </p>
                         <p class="fw-medium text-white">20th February 2025 8:00pm (ET) / 20th February 2025 5:00pm (PT)</p>
                         <div class="event__link">
-                            <a href="#" class="rts-theme-btn rts-nbg-btn btn-arrow v2 full-btn">View Our Program <span><i class="fa-sharp fa-regular fa-arrow-right"></i></span></a>
+                            <a href="#" class="rts-theme-btn rts-nbg-btn btn-arrow v2 full-btn">View Our programme <span><i class="fa-sharp fa-regular fa-arrow-right"></i></span></a>
                         </div>
                     </div>
                 </div>

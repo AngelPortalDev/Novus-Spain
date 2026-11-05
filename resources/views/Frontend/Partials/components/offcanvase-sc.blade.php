@@ -43,7 +43,7 @@
                     <a href="{{ route('index-sc') }}" class="main">Homepages</a>
                 </li>
                 <li class="has-droupdown">
-                    <a href="#" class="main">Program</a>
+                    <a href="#" class="main">programme</a>
                     <ul class="submenu mm-collapse">
                         <li><a class="mobile-menu-link" href="{{ route('primary-school') }}">Primary School</a></li>
                         <li><a class="mobile-menu-link" href="{{ route('middle-school') }}">Secondary School</a></li>

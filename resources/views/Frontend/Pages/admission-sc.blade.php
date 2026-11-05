@@ -6,7 +6,7 @@
         'class' => 'sc__version sc__breadcrumb',
         'image' => 'breadcrumb-3.webp',
         'title' => 'Apply to UNipix School',
-        'page' => 'Program'
+        'page' => 'programme'
     ])
     
     <!-- admission page content -->
@@ -201,14 +201,14 @@
                     </div>
                 </div>
                 <div class="col-lg-4 sticky-coloum-item">
-                    <div class="program-sidebar">
+                    <div class="programme-sidebar">
                         <!-- curriculum -->
-                        <div class="program-curriculum">
+                        <div class="programme-curriculum">
                             <h6 class="heading-title">B.A In African Studies</h6>
-                            <div class="program-menu">
+                            <div class="programme-menu">
                                 <ul class="list-unstyled">
                                     <li><a href="#"><span><i class="fa-light fa-arrow-right"></i></span>Course Curriculum</a></li>
-                                    <li><a href="#"><span><i class="fa-light fa-arrow-right"></i></span>Program Faculty</a></li>
+                                    <li><a href="#"><span><i class="fa-light fa-arrow-right"></i></span>programme Faculty</a></li>
                                     <li><a href="#"><span><i class="fa-light fa-arrow-right"></i></span>Apply Admission</a></li>
                                     <li><a href="#"><span><i class="fa-light fa-arrow-right"></i></span>Scholarship </a></li>
                                     <li><a href="#"><span><i class="fa-light fa-arrow-right"></i></span>Joint Event</a></li>
@@ -216,7 +216,7 @@
                             </div>
                         </div>
                         <!-- contact info -->
-                        <div class="program-info rounded-10">
+                        <div class="programme-info rounded-10">
                             <h5>Department Contact Info</h5>
                             <p>B.A. in Africana Studies</p>
                             <div class="contact-info">
@@ -237,8 +237,8 @@
                         </div>
 
                         <!-- join event -->
-                        <div class="program-event rounded-10 overflow-hidden">
-                            <div class="program-event-content">
+                        <div class="programme-event rounded-10 overflow-hidden">
+                            <div class="programme-event-content">
                                 <p>Joint New Event About
                                     African History
                                 </p>

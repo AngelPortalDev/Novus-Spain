@@ -121,33 +121,33 @@
             </div>
             <div class="row justify-content-md-center g-0">
                 <div class="rts-section mb--60 text-center">
-                    <h3 class="rts-section-title">Academics & Program</h3>
+                    <h3 class="rts-section-title">Academics & programme</h3>
                 </div>
                 <div class="col-lg-4 col-md-10">
-                    <div class="program__single--item">
-                        <div class="program__single--item--bg">
-                            <img src="{{asset('assets/images/program/program__bg.jpg')}}" alt="">
+                    <div class="programme__single--item">
+                        <div class="programme__single--item--bg">
+                            <img src="{{asset('assets/images/programme/programme__bg.jpg')}}" alt="">
                         </div>
-                        <h5 class="program__single--item--title">undergraduate</h5>
+                        <h5 class="programme__single--item--title">undergraduate</h5>
 
-                        <ul class="program__single--item--list">
-                            <li class="program__single--item--list--item">
-                                <a href="{{ route('program-single') }}" class="link__list">Anthropology
+                        <ul class="programme__single--item--list">
+                            <li class="programme__single--item--list--item">
+                                <a href="{{ route('programme-single') }}" class="link__list">Anthropology
                                     <span><i class="fa-regular fa-arrow-right"></i></span>
                                 </a>
                             </li>
-                            <li class="program__single--item--list--item">
-                                <a href="{{ route('program-single') }}" class="link__list">Applied Mathematics
+                            <li class="programme__single--item--list--item">
+                                <a href="{{ route('programme-single') }}" class="link__list">Applied Mathematics
                                     <span><i class="fa-regular fa-arrow-right"></i></span>
                                 </a>
                             </li>
-                            <li class="program__single--item--list--item">
-                                <a href="{{ route('program-single') }}" class="link__list">Biomedical Engineering
+                            <li class="programme__single--item--list--item">
+                                <a href="{{ route('programme-single') }}" class="link__list">Biomedical Engineering
                                     <span><i class="fa-regular fa-arrow-right"></i></span>
                                 </a>
                             </li>
-                            <li class="program__single--item--list--item">
-                                <a href="{{ route('program-single') }}" class="link__list">Astrophysics
+                            <li class="programme__single--item--list--item">
+                                <a href="{{ route('programme-single') }}" class="link__list">Astrophysics
                                     <span><i class="fa-regular fa-arrow-right"></i></span>
                                 </a>
                             </li>
@@ -155,30 +155,30 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-10">
-                    <div class="program__single--item v__2">
-                        <div class="program__single--item--bg">
-                            <img src="{{asset('assets/images/program/program__bg.jpg')}}" alt="">
+                    <div class="programme__single--item v__2">
+                        <div class="programme__single--item--bg">
+                            <img src="{{asset('assets/images/programme/programme__bg.jpg')}}" alt="">
                         </div>
-                        <h5 class="program__single--item--title">graduate</h5>
+                        <h5 class="programme__single--item--title">graduate</h5>
 
-                        <ul class="program__single--item--list">
-                            <li class="program__single--item--list--item">
-                                <a href="{{ route('program-single') }}" class="link__list">Applied Computation
+                        <ul class="programme__single--item--list">
+                            <li class="programme__single--item--list--item">
+                                <a href="{{ route('programme-single') }}" class="link__list">Applied Computation
                                     <span><i class="fa-regular fa-arrow-right"></i></span>
                                 </a>
                             </li>
-                            <li class="program__single--item--list--item">
-                                <a href="{{ route('program-single') }}" class="link__list">Applied Mathematics
+                            <li class="programme__single--item--list--item">
+                                <a href="{{ route('programme-single') }}" class="link__list">Applied Mathematics
                                     <span><i class="fa-regular fa-arrow-right"></i></span>
                                 </a>
                             </li>
-                            <li class="program__single--item--list--item">
-                                <a href="{{ route('program-single') }}" class="link__list">Applied Computation
+                            <li class="programme__single--item--list--item">
+                                <a href="{{ route('programme-single') }}" class="link__list">Applied Computation
                                     <span><i class="fa-regular fa-arrow-right"></i></span>
                                 </a>
                             </li>
-                            <li class="program__single--item--list--item">
-                                <a href="{{ route('program-single') }}" class="link__list">Architecture
+                            <li class="programme__single--item--list--item">
+                                <a href="{{ route('programme-single') }}" class="link__list">Architecture
                                     <span><i class="fa-regular fa-arrow-right"></i></span>
                                 </a>
                             </li>
@@ -186,30 +186,30 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-10">
-                    <div class="program__single--item">
-                        <div class="program__single--item--bg">
-                            <img src="{{asset('assets/images/program/program__bg.jpg')}}" alt="">
+                    <div class="programme__single--item">
+                        <div class="programme__single--item--bg">
+                            <img src="{{asset('assets/images/programme/programme__bg.jpg')}}" alt="">
                         </div>
-                        <h5 class="program__single--item--title">Lifelong Learning</h5>
+                        <h5 class="programme__single--item--title">Lifelong Learning</h5>
 
-                        <ul class="program__single--item--list">
-                            <li class="program__single--item--list--item">
-                                <a href="{{ route('program-single') }}" class="link__list">Personal Development
+                        <ul class="programme__single--item--list">
+                            <li class="programme__single--item--list--item">
+                                <a href="{{ route('programme-single') }}" class="link__list">Personal Development
                                     <span><i class="fa-regular fa-arrow-right"></i></span>
                                 </a>
                             </li>
-                            <li class="program__single--item--list--item">
-                                <a href="{{ route('program-single') }}" class="link__list">Arts and Humanities
+                            <li class="programme__single--item--list--item">
+                                <a href="{{ route('programme-single') }}" class="link__list">Arts and Humanities
                                     <span><i class="fa-regular fa-arrow-right"></i></span>
                                 </a>
                             </li>
-                            <li class="program__single--item--list--item">
-                                <a href="{{ route('program-single') }}" class="link__list">Health and Wellness
+                            <li class="programme__single--item--list--item">
+                                <a href="{{ route('programme-single') }}" class="link__list">Health and Wellness
                                     <span><i class="fa-regular fa-arrow-right"></i></span>
                                 </a>
                             </li>
-                            <li class="program__single--item--list--item">
-                                <a href="{{ route('program-single') }}" class="link__list">Social Sciences
+                            <li class="programme__single--item--list--item">
+                                <a href="{{ route('programme-single') }}" class="link__list">Social Sciences
                                     <span><i class="fa-regular fa-arrow-right"></i></span>
                                 </a>
                             </li>

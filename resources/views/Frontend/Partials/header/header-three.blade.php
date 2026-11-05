@@ -57,7 +57,7 @@
                                                 <li><a href="{{ route('scholarship') }}">Scholarship</a></li>
                                                 <li><a href="{{ route('tution-fee') }}">Tution Fee</a></li>
                                                 <li><a href="{{ route('alumni') }}">alumni</a></li>
-                                                <li><a href="{{ route('program-single') }}">Program Single</a></li>
+                                                <li><a href="{{ route('programme-single') }}">programme Single</a></li>
                                                 <li><a href="{{ route('department-details') }}">Department Details</a></li>
                                             </ul>
                                         </li>

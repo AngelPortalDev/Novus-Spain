@@ -6,7 +6,7 @@
             </li>
 
             <li class="navigation__menu--item has-child has-arrow">
-                <a href="javascript:void(0);" class="navigation__menu--item__link">Program</a>
+                <a href="javascript:void(0);" class="navigation__menu--item__link">programme</a>
                 <ul class="submenu sub__style">
                     <li><a href="{{ route('primary-school') }}">Primary School</a></li>
                     <li><a href="{{ route('middle-school') }}">Secondary School</a></li>

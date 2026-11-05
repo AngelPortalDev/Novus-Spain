@@ -31,7 +31,7 @@
                                                 <h1 class="banner__slides--content--title">
                                                    Build Your Future Through Education
                                                 </h1>
-                                                <a href="{{ route('business-english-course') }}" class="rts-theme-btn btn-arrow">View Our Program
+                                                <a href="{{ route('business-english-course') }}" class="rts-theme-btn btn-arrow">View Our programme
                                                     <span><i class="fa-regular fa-arrow-right"></i></span>
                                                 </a>
                                             </div>
@@ -56,7 +56,7 @@
                                                 <h1 class="banner__slides--content--title">
                                                    An International Learning Experience in Spain
                                                 </h1>
-                                                <a href="{{ route('general-english-course') }}" class="rts-theme-btn btn-arrow">View Our Program
+                                                <a href="{{ route('general-english-course') }}" class="rts-theme-btn btn-arrow">View Our programme
                                                     <span><i class="fa-regular fa-arrow-right"></i></span>
                                                 </a>
                                             </div>
@@ -72,11 +72,11 @@
             <div class="banner__slides--navigation">
                 <div class="banner__slides--navigation--single">
                     <h5 class="nav__title">English Language</h5>
-                    <a href="{{ route('business-english-course') }}" class="nav__description">Browse our business English programs</a>
+                    <a href="{{ route('business-english-course') }}" class="nav__description">Browse our business English programmes</a>
                 </div>
                 <div class="banner__slides--navigation--single">
                     <h5 class="nav__title">Spanish Language</h5>
-                    <a href="{{ route('diploma-spanish-language') }}" class="nav__description">Browse our Spanish language programs</a>
+                    <a href="{{ route('diploma-spanish-language') }}" class="nav__description">Browse our Spanish language programmes</a>
                 </div>
             </div>
         </div>
@@ -175,12 +175,12 @@
         </div>
     </div> -->
     <!-- fun fact end -->
-    <!-- academic program -->
+    <!-- academic programme -->
    <section class="rts__section rts__light pt--120 pb--120">
         <div class="container">
             <div class="row">
                 <div class="rts__section--wrapper rt__lowercase">
-                    <h2 class="rts__section--title">DISCOVER OUR PROGRAMMES</h2>
+                    <h2 class="rts__section--title">DISCOVER OUR programmeMES</h2>
                     <!-- <div class="rts__section--link">
                         <a class="rts-nbg-btn btn-arrow" href="">View All<span><i class="fa-sharp fa-regular fa-arrow-right"></i>
                         </span></a>
@@ -254,7 +254,7 @@
             </div>
         </div>
     </section>
-    <!-- academic program end -->
+    <!-- academic programme end -->
      
     @include($components . 'scholarship', ['class' => 'rts-scholarship-bg rts-section-height'])
     <!-- campus life -->
@@ -336,7 +336,7 @@
                         <!-- <p class="w-520">If you have any questions or need assistance at any step of the application process, our admissions team is here to help. We look forward to welcoming you to Unipix University.</p> -->
                     </div>
                     <!-- <div class="rts__section--wrapper v__5">
-                        <h2 class="rts__section--title">DISCOVER OUR PROGRAMMES</h2>
+                        <h2 class="rts__section--title">DISCOVER OUR programmeMES</h2>
                        </div> -->
                 </div>
             </div>
@@ -351,8 +351,8 @@
                         <div class="icon">
                             <img src="assets/images/icon/07.svg" alt="">
                         </div>
-                        <a href="https://one.novuseducation.es/crm/admission-form/">Choose Your Programme</a>
-                        <p>Explore our programmes and review the entry requirements, study format, duration and available intake.</p>
+                        <a href="https://one.novuseducation.es/crm/admission-form/">Choose Your programmeme</a>
+                        <p>Explore our programmemes and review the entry requirements, study format, duration and available intake.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-11">

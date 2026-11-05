@@ -43,7 +43,7 @@
                                             structure of your university website.
                                         </p>
                                         <div class="rts-slider-btn mt--50">
-                                            <a href="#" class="rts-theme-btn btn-arrow">View Our Program <span><i class="fa-thin fa-arrow-right"></i></span></a>
+                                            <a href="#" class="rts-theme-btn btn-arrow">View Our programme <span><i class="fa-thin fa-arrow-right"></i></span></a>
                                         </div>
                                     </div>
                                 </div>
@@ -76,7 +76,7 @@
                                             structure of your university website.
                                         </p>
                                         <div class="rts-slider-btn mt--50">
-                                            <a href="#" class="rts-theme-btn btn-arrow">View Our Program <span><i class="fa-thin fa-arrow-right"></i></span></a>
+                                            <a href="#" class="rts-theme-btn btn-arrow">View Our programme <span><i class="fa-thin fa-arrow-right"></i></span></a>
                                         </div>
                                     </div>
                                 </div>
@@ -109,7 +109,7 @@
                                             structure of your university website.
                                         </p>
                                         <div class="rts-slider-btn mt--50">
-                                            <a href="#" class="rts-theme-btn btn-arrow">View Our Program <span><i class="fa-thin fa-arrow-right"></i></span></a>
+                                            <a href="#" class="rts-theme-btn btn-arrow">View Our programme <span><i class="fa-thin fa-arrow-right"></i></span></a>
                                         </div>
                                     </div>
                                 </div>

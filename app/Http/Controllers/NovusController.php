@@ -10,9 +10,9 @@ use Illuminate\Validation\Rule;
 
 class NovusController extends Controller
 {
-    public static function programmes(): array
+    public static function programmemes(): array
     {
-        return json_decode(file_get_contents(resource_path('data/programmes.json')), true, 512, JSON_THROW_ON_ERROR);
+        return json_decode(file_get_contents(resource_path('data/programmemes.json')), true, 512, JSON_THROW_ON_ERROR);
     }
 
     private function render(string $view, array $data = [])
@@ -25,8 +25,8 @@ class NovusController extends Controller
             'components' => 'Frontend.Partials.components.',
             'page_title' => $data['title'] ?? 'Novus Education',
             'categories' => config('novus.categories'), 'english' => config('novus.english'),
-            'programmes' => self::programmes(), 'title' => 'Study in Spain',
-            'description' => 'Explore Novus Education, programme information, admissions and student life in Spain.',
+            'programmemes' => self::programmemes(), 'title' => 'Study in Spain',
+            'description' => 'Explore Novus Education, programmeme information, admissions and student life in Spain.',
         ], $data));
     }
 
@@ -40,23 +40,23 @@ class NovusController extends Controller
         abort_if($category !== null && ! array_key_exists($category, config('novus.categories')), 404);
         $input = $request->validate(['q' => 'nullable|string|max:120']);
         $query = trim($input['q'] ?? '');
-        $items = array_values(array_filter(self::programmes(), fn ($item) => (! $category || $item['category'] === $category) &&
+        $items = array_values(array_filter(self::programmemes(), fn ($item) => (! $category || $item['category'] === $category) &&
             ($query === '' || str_contains(Str::lower($item['title']), Str::lower($query)))
         ));
 
         return $this->render('catalogue', [
-            'title' => $category ? config('novus.categories')[$category][0] : 'Explore Our Programmes',
+            'title' => $category ? config('novus.categories')[$category][0] : 'Explore Our programmemes',
             'description' => $category ? config('novus.categories')[$category][1] : 'Find a study area that connects with your ambitions.',
             'items' => $items, 'category' => $category, 'query' => $query,
         ]);
     }
 
-    public function programme(string $slug, string $category)
+    public function programmeme(string $slug, string $category)
     {
-        $item = collect(self::programmes())->first(fn ($item) => $item['category'] === $category && $item['slug'] === $slug);
+        $item = collect(self::programmemes())->first(fn ($item) => $item['category'] === $category && $item['slug'] === $slug);
         abort_unless($item, 404);
 
-        return $this->render('programme', ['title' => $item['title'], 'description' => config('novus.categories')[$category][1], 'item' => $item]);
+        return $this->render('programmeme', ['title' => $item['title'], 'description' => config('novus.categories')[$category][1], 'item' => $item]);
     }
 
     public function english(?string $slug = null)
@@ -73,8 +73,8 @@ class NovusController extends Controller
     {
         $content = config('novus.pages')[$page] ?? null;
         abort_unless($content, 404);
-        $selection = $request->query('programme', '');
-        $choices = array_merge(array_column(self::programmes(), 'title'), array_column(config('novus.english'), 0));
+        $selection = $request->query('programmeme', '');
+        $choices = array_merge(array_column(self::programmemes(), 'title'), array_column(config('novus.english'), 0));
 
         return $this->render('page', ['title' => $content[0], 'description' => $content[1], 'content' => $content,
             'page' => $page, 'selection' => is_string($selection) && in_array($selection, $choices, true) ? $selection : '',
@@ -83,10 +83,10 @@ class NovusController extends Controller
 
     public function enquire(Request $request)
     {
-        $choices = array_merge(array_column(self::programmes(), 'title'), array_column(config('novus.english'), 0));
+        $choices = array_merge(array_column(self::programmemes(), 'title'), array_column(config('novus.english'), 0));
         $data = $request->validate([
             'name' => 'required|string|max:120', 'email' => 'required|email|max:254',
-            'phone' => 'nullable|string|max:40', 'programme' => ['nullable', 'string', Rule::in($choices)],
+            'phone' => 'nullable|string|max:40', 'programmeme' => ['nullable', 'string', Rule::in($choices)],
             'message' => 'required|string|min:10|max:4000', 'consent' => 'accepted', 'website' => 'nullable|prohibited',
         ]);
         unset($data['website']);

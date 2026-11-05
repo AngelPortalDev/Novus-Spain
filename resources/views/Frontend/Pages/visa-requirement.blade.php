@@ -14,18 +14,19 @@
             <div class="rts-scholarship-description">
                 <div class="row sticky-coloum-wrap justify-content-md-center justify-content-start">
                     <div class="col-lg-12 col-md-11">
-                        <div class="program-description-area">
-                            <div class="program-about">
+                        <div class="programme-description-area">
+                            <div class="programme-about">
                                 <h4 class="title">Student Visa & Study Authorisation</h4>
-                                <p>This guide provides general information for international students planning to study in Spain.
-Visa and immigration requirements depend on your nationality, the type and duration of your programme and your individual circumstances.
-You should always check the latest requirements issued by the competent Spanish authorities and the Spanish Consulate responsible for your place of residence.
-</p>
-                            </div>
+                                                    <p>This guide provides general information for international students planning to study in Spain.
+                    Visa and immigration requirements depend on your nationality, the type and duration of your programmeme and your individual circumstances.
+                    You should always check the latest requirements issued by the competent Spanish authorities and the Spanish Consulate responsible for your place of residence.
+                    </p>
+                    <p>We provide the documents and guidance you need for your study visa application. Visa decisions rest entirely with the Spanish authorities and cannot be guaranteed.</p>
+                                                </div>
                             <!-- faq -->
-                            <div class="program-credit-area faq mt--50">
+                            <div class="programme-credit-area faq mt--50">
                                 <!-- <h4 class="title">Frequently Asked Questions (FAQ)</h4> -->
-                                <div class="program-accordion">
+                                <div class="programme-accordion">
                                     <div class="accordion" id="rts-accordion">
                                         <div class="accordion-item">
                                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne"
@@ -118,7 +119,7 @@ You should always check the latest requirements issued by the competent Spanish 
                                                   <p>Once you receive your visa or study authorisation:</p>
                                                   <ul>
                                                     <li>Check that your personal information is correct.</li>
-                                                    <li>Confirm your programme start date.</li>
+                                                    <li>Confirm your programmeme start date.</li>
                                                     <li>Arrange suitable accommodation.</li>
                                                     <li>Prepare your original documents for travel.</li>
                                                     <li>Confirm your travel arrangements.</li>
@@ -167,7 +168,7 @@ You should always check the latest requirements issued by the competent Spanish 
                                             <div id="collapseNine" class="accordion-collapse collapse" data-bs-parent="#rts-accordion">
                                                 <div class="accordion-body">
                                                     <p>Contact Novus Education as soon as possible.</p>
-                                                    <p>Depending on your programme, available intake and applicable academic policies, it may be possible to discuss alternative arrangements or a later intake.</p>
+                                                    <p>Depending on your programmeme, available intake and applicable academic policies, it may be possible to discuss alternative arrangements or a later intake.</p>
                                                     <p>A deferral should not be considered automatic unless it has been confirmed in writing by Novus Education.</p>
                                                 </div>
                                             </div>
@@ -201,7 +202,7 @@ You should always check the latest requirements issued by the competent Spanish 
             </div>
         </div>
     </div>
-    <!-- program content end -->
+    <!-- programme content end -->
      
     @include($footer . 'footer__default', ['class' => 'v__1'])
 @endsection

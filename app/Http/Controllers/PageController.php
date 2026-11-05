@@ -213,11 +213,11 @@ class PageController extends BaseController
         ]);
     }
 
-    // Program single
-    public function programSingle()
+    // programme single
+    public function programmeSingle()
     {
-        return $this->view('program-single', [
-            'page_title' => 'Program Single ',
+        return $this->view('programme-single', [
+            'page_title' => 'programme Single ',
         ]);
     }
 

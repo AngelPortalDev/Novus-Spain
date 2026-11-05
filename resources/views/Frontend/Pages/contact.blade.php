@@ -107,7 +107,8 @@
                 </div>
             </div> -->
             <div class="contact-map">
-                <iframe class="contact-map" src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d6160.669667968647!2d-0.35678395280162095!3d39.461763769640584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1s19%20Menorca%20Street%2C%207%2C%20Valencia%2046023-Valencia%2CSpain!5e0!3m2!1sen!2sin!4v1791366411328!5m2!1sen!2sin" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe class="contact-map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3078.23820779009!2d-0.45163102352613466!3d39.509113110378266!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd604534de15b5c5%3A0xe0d99e4209549bd3!2sCarrer%20Enric%20Valor%2C%201%2C%2046980%20Paterna%2C%20Val%C3%A8ncia%2C%20Spain!5e0!3m2!1sen!2sin!4v1793862617218!5m2!1sen!2sin" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <!-- <iframe class="contact-map" src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d6160.669667968647!2d-0.35678395280162095!3d39.461763769640584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1s19%20Menorca%20Street%2C%207%2C%20Valencia%2046023-Valencia%2CSpain!5e0!3m2!1sen!2sin!4v1791366411328!5m2!1sen!2sin" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
             </div>
         </div>
     </div>

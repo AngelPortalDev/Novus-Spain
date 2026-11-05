@@ -315,7 +315,7 @@
             </h2>
 
             <p>
-                Our Business English programme develops the practical language skills professionals need for meetings, presentations, negotiations, email communication and other workplace situations.
+                Our Business English programmeme develops the practical language skills professionals need for meetings, presentations, negotiations, email communication and other workplace situations.
             </p>
 
             <p>The course combines language development with realistic workplace tasks. Students build accuracy, fluency and confidence while learning to communicate appropriately in formal and professional contexts.</p>
@@ -359,8 +359,8 @@
                     <strong>A minimum of 3 students is required per class; otherwise, reduced teaching hours may be applied.</strong>
                  <br> <br>
                     
-                        <div class="program-credit-area">
-                                <div class="program-accordion">
+                        <div class="programme-credit-area">
+                                <div class="programme-accordion">
                                     <div class="accordion" id="rts-accordion">
                                         <div class="accordion-item">
                                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
@@ -451,7 +451,7 @@
 
                 <div class="course-feature">
                     <h3>Do I need to know my English level before enrolling?</h3>
-                    <p>No. A placement assessment can be used to identify the most suitable level.</p>
+                    <p>No. A placement assessment is required to identify the most suitable level.</p>
                 </div>
 
                 <div class="course-feature">
@@ -462,6 +462,12 @@
                 <div class="course-feature">
                     <h3>Start Your Learning Journey</h3>
                     <p>Choose the study duration that suits your goals and start developing stronger communication skills.</p>
+                     <a
+                    href="https://one.novuseducation.es/crm/admission-form/"
+                    class="rts-theme-btn primary course-enrol-btn"
+                >
+                     Apply Now
+                </a>
                 </div>
 
                 <div class="course-feature">

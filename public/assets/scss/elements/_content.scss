@@ -305,8 +305,8 @@
 }
 
 
-// program
-.program{
+// programme
+.programme{
     .rts__section--wrapper{
         .rts__section--title{
             margin-bottom: 10px;
@@ -336,7 +336,7 @@
         }
     }
 }
-.program__content{
+.programme__content{
     &.mt--85{
         @include mq($sm){
             margin-top: 0 !important;
@@ -344,7 +344,7 @@
         }
     }
 }
-.rts__program--item {
+.rts__programme--item {
     max-width: 300px;
     max-height: 360px;
     @include mq($md){
@@ -382,7 +382,7 @@
         &::before{
             opacity: 0;
         }
-        .rts__program--item--description{
+        .rts__programme--item--description{
             opacity: 1;
         }
     }
@@ -416,28 +416,28 @@
         &:not(:last-child){
             margin-bottom: 30px;
         }
-        .rts__program--item--title{
+        .rts__programme--item--title{
             opacity: 0;
             transition: var(--transition);
         }
         .rts-nbg-btn{
             opacity: 0;
         }
-        .rts__program--item--title--show{
+        .rts__programme--item--title--show{
             color: var(--rt-white);
             margin-bottom: 0;
             position: absolute;
             bottom: 40px;
         }
         &:hover{
-            .rts__program--item--title{
+            .rts__programme--item--title{
                opacity: 1;
             }
             .rts-nbg-btn{
                 opacity: 1;
                 z-index: 99;
             }
-            .rts__program--item--title--show{
+            .rts__programme--item--title--show{
                 opacity: 0;
             } 
         }

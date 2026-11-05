@@ -3,7 +3,7 @@
 <footer class="footer {{ $class ?? ''}}">
     <div class="container">
         <div class="row g-5">
-            <div class="col-lg-4 col-md-6 col-sm-6">
+            <div class="col-lg-3 col-md-6 col-sm-6">
                 <div class="footer__widget">
                     <div class="footer__widget--logo">
                          <h6 class="footer__widget--title">Novus Education</h6>
@@ -21,9 +21,9 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 col-sm-6">
+            <div class="col-lg-3 col-md-6 col-sm-6">
                 <div class="footer__widget">
-                    <h6 class="footer__widget--title">Programmes</h6>
+                    <h6 class="footer__widget--title">programmemes</h6>
                     <div class="footer__widget--menu">
                         <ul>
                     <li><a href="{{ route('business-english-course') }}">Business English Course</a></li>
@@ -34,7 +34,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 col-sm-6">
+            <div class="col-lg-3 col-md-6 col-sm-6">
                 <div class="footer__widget">
                     <h6 class="footer__widget--title">Quick Links</h6>
                     <div class="footer__widget--menu">
@@ -47,15 +47,15 @@
                     </div>
                 </div>
             </div>
-            <!-- <div class="col-lg-3 col-md-6 col-sm-6">
+             <div class="col-lg-3 col-md-6 col-sm-6">
                 <div class="footer__widget">
                     <h6 class="footer__widget--title">Quick Button</h6>
                     <div class="footer__widget--button">
-                        <a href="{{ route('contact') }}" class="cta__button active">Applying</a>
-                        <a href="{{ route('contact') }}" class="cta__button">scholarship</a>
+                        <a href="https://one.novuseducation.es/crm/admission-form/" target="_blank" class="cta__button active">Applying</a>
+                        <a href="https://one.novuseducation.es/crm/admission-form/" target="_blank" class="cta__button">scholarship</a>
                     </div>
                 </div>
-            </div> -->
+            </div> 
         </div>
     </div>
 </footer>
@@ -67,7 +67,7 @@
         <div class="row">
             <div class="col-sm-12">
                 <div class="copyright__wrapper">
-                    <p>Copyright &copy; {{ date('Y') }} All Rights Reserved by <a href="#">Novus Education</a></p>
+                    <p>Copyright &copy; {{ date('Y') }} All Rights Reserved by <a href="https://www.novuseducation.es/">Novus Education</a></p>
                 </div>
             </div>
         </div>

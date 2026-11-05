@@ -171,7 +171,7 @@
                         <h5 class="right__side__title">Unveiling Novus Education: Inspiring Student Stories</h5>
                         <p class="right__side__description">Delve into the heartfelt narratives of Novus Education students, where each story resonates with triumph, resilience, and personal growth. From academic achievements to life-changing experiences, these stories illuminate.</p>
                         <div class="right__side__link">
-                            <a href="{{ route('program-single') }}" class="rts-theme-btn btn-arrow">View all story
+                            <a href="{{ route('programme-single') }}" class="rts-theme-btn btn-arrow">View all story
                                 <span><i class="fa-regular fa-arrow-right"></i></span>
                             </a>
                         </div>

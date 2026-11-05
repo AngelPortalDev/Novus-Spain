@@ -6,7 +6,7 @@
         <div class="row">
             <div class="rts__section--wrapper v__4 align-items-center mx-auto text-center sc__version mb-0">
                 <h6 class="rts__section--subheading justify-content-center">
-                    <img src="{{asset('assets/images/icon/about-sc.svg')}}" alt=""> Programs
+                    <img src="{{asset('assets/images/icon/about-sc.svg')}}" alt=""> programmes
                 </h6>
                 <h2 class="rts__section--title mb-0">Our School</h2>
             </div>
@@ -136,7 +136,7 @@
                 <div class="feature">
                     <div class="feature__left">
                         <h2 class="feature__title">How we teach at our Primary school Students</h2>
-                        <p>At Novus Education, our Pre-Primary program is designed to provide a safe, nurturing, and engaging environment where young learners develop curiosity, creativity, and confidence. Through interactive play.</p>
+                        <p>At Novus Education, our Pre-Primary programme is designed to provide a safe, nurturing, and engaging environment where young learners develop curiosity, creativity, and confidence. Through interactive play.</p>
                         <a href="#" class="rts-theme-btn btn-arrow v2">Enroll Now <span><i class="fa-sharp fa-regular fa-arrow-right"></i></span></a>
                     </div>
                     <div class="feature__right">

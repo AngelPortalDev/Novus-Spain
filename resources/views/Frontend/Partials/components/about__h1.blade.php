@@ -34,7 +34,7 @@
                     <h2 class="rts__title">About Our University Novus Education</h2>
                     <p class="rts__description">At University Novus Education, we believe in the transformative power of education and the boundless potential within every individual. Established in 1971, we have been dedicated to fostering intellectual curiosity, academic excellence, and a vibrant campus community.</p>
                     <div class="stroke__text v__1">EST. 1971</div>
-                    <a href="{{ route('program-single') }}" class="rts-nbg-btn btn-arrow">University Overview <span><i class="fa-sharp fa-regular fa-arrow-right"></i></span></a>
+                    <a href="{{ route('programme-single') }}" class="rts-nbg-btn btn-arrow">University Overview <span><i class="fa-sharp fa-regular fa-arrow-right"></i></span></a>
                 </div>
             </div>
         </div>
