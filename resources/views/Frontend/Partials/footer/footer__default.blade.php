@@ -28,7 +28,7 @@
                         <ul>
                     <li><a href="{{ route('business-english-course') }}">Business English Course</a></li>
                     <li><a href="{{ route('general-english-course') }}">General English Course</a></li>
-                    <li><a href="{{ route('diploma-spanish-language') }}">Diploma in Spanish Language</a></li>
+                    <li><a href="{{ route('diploma-spanish-language') }}">Diploma in Spanish</a></li>
        
                         </ul>
                     </div>

@@ -321,7 +321,7 @@ class PageController extends BaseController
     public function diplomaSpanishLanguage()
     {
         return $this->view('diploma-spanish-language',[
-            'page_title' => 'Diploma Spanish Language ',
+            'page_title' => 'Diploma in Spanish ',
         ]);
     }
 
