@@ -24,22 +24,22 @@
                                 <p><b>Date:</b> February 14, 2024</p>
                                 <p> Dear Prospective Students,</p>
 
-                                <p><b>Subject: Admission Criteria and Requirements for Undergraduate Programs</b></p>
+                                <p><b>Subject: Admission Criteria and Requirements for Undergraduate programmes</b></p>
 
                                 <p>
                                     We are delighted to announce the commencement of the admissions process for
-                                    undergraduate programs at [Your
+                                    undergraduate programmes at [Your
                                     College/Institution Name]. As you embark on this exciting journey of higher
                                     education, we would like to provide you
                                     with essential information regarding the admission criteria and requirements.
                                 </p>
 
-                                <p><b>1. Program Offerings:</b>
-                                     Novus Spain University offers a diverse range of undergraduate
-                                    programs across
+                                <p><b>1. programme Offerings:</b>
+                                     Novus Education University offers a diverse range of undergraduate
+                                    programmes across
                                     various disciplines, including but not limited to Arts, Sciences, Engineering,
                                     Business, and Humanities. Detailed
-                                    information about each program, including curriculum, specializations, and faculty,
+                                    information about each programme, including curriculum, specializations, and faculty,
                                     can be found on our official
                                     website.</p>
                                 <p> 
@@ -53,7 +53,7 @@
                                     - Supporting Documents: Applicants are required to submit all necessary supporting
                                     documents, including transcripts,
                                     standardized test scores, and any additional requirements specified for the chosen
-                                    program.
+                                    programme.
                                 </p>
 
                                 <p>
@@ -67,7 +67,7 @@
 
                                 <p>
                                     <b>4. Information Session:</b>
-                                    - To learn more about our undergraduate programs, admission process, and campus
+                                    - To learn more about our undergraduate programmes, admission process, and campus
                                     life, we
                                     invite you to attend our
                                     upcoming information session scheduled for [Insert Date and Time]. Details regarding
@@ -84,7 +84,7 @@
                                 </p>
 
                                 <p>
-                                    We look forward to receiving your application and welcoming you to Novus Spain
+                                    We look forward to receiving your application and welcoming you to Novus Education
                                     University as part of our
                                     vibrant academic community.
                                 </p>
@@ -100,7 +100,7 @@
                                     <b>Assistant Professor</b>
                                 </p>
                                 <p>
-                                    <b>Novus Spain University</b>
+                                    <b>Novus Education University</b>
                                     
                                 </p>
                             </div>
@@ -364,7 +364,7 @@
                                                     <p>
                                                         <a href="#">
                                                             Important Notice: Admission Criteria and Requirements for
-                                                            Undergraduate Programs
+                                                            Undergraduate programmes
                                                         </a>
                                                     </p>
                                                 </div>

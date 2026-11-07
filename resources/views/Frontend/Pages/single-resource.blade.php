@@ -6,34 +6,34 @@
         'class' => 'sc__version sc__breadcrumb',
         'image' => 'breadcrumb-3.webp',
         'title' => 'Science Resources',
-        'page' => 'Program'
+        'page' => 'programme'
     ])
-    <!-- program content -->
-    <div class="rts-program rts-section-padding">
+    <!-- programme content -->
+    <div class="rts-programme rts-section-padding">
         <div class="container">
-            <div class="rts-program-single-header">
+            <div class="rts-programme-single-header">
                 <div class="row align-items-center g-3">
                     <div class="col-lg-6">
                         <h3 class="rts-section-title">Unleashing Curiosity – Science Resources for Young Minds.</h3>
                     </div>
                     <div class="col-lg-6">
-                        <p class="rts-section-description">At Novus Spain school, our Science Resources are designed to spark curiosity, creativity, and critical thinking among students. Through interactive learning, experiments, and real-world applications, we make science fun and engaging.</p>
+                        <p class="rts-section-description">At Novus Education school, our Science Resources are designed to spark curiosity, creativity, and critical thinking among students. Through interactive learning, experiments, and real-world applications, we make science fun and engaging.</p>
                     </div>
                 </div>
             </div>
-            <div class="rts-program-description">
+            <div class="rts-programme-description">
                 <div class="row sticky-coloum-wrap">
                     <div class="col-lg-8">
-                        <div class="program-description-area" id="curriculum">
-                            <div class="program-big-thumb">
-                                <img src="{{asset('assets/images/about/resources.webp')}}"  class="rounded-10" alt="program">
+                        <div class="programme-description-area" id="curriculum">
+                            <div class="programme-big-thumb">
+                                <img src="{{asset('assets/images/about/resources.webp')}}"  class="rounded-10" alt="programme">
                             </div>
-                            <div class="program-about">
-                                <h4 class="title">About The Program</h4>
-                                <p>At Novus Spain School, we believe that science is the key to understanding the world around us. Our Science Resources are designed to ignite curiosity, foster creativity, and develop problem-solving skills in young learners. Through interactive experiments, hands-on projects, and real-world applications, students explore the fundamentals of life sciences, physical sciences, and earth sciences.</p>
+                            <div class="programme-about">
+                                <h4 class="title">About The programme</h4>
+                                <p>At Novus Education School, we believe that science is the key to understanding the world around us. Our Science Resources are designed to ignite curiosity, foster creativity, and develop problem-solving skills in young learners. Through interactive experiments, hands-on projects, and real-world applications, students explore the fundamentals of life sciences, physical sciences, and earth sciences.</p>
                                 <p>We encourage students to think critically, ask questions, and discover answers through guided exploration. Our engaging science lessons help students connect theoretical knowledge with practical experiences, making learning both fun and meaningful.</p>
                             </div>
-                            <ul class="program__list">
+                            <ul class="programme__list">
                                 <li><i class="fa-light fa-check"></i> Interactive Learning – Engaging lessons with visual aids, models, and experiments.</li>
                                 <li><i class="fa-light fa-check"></i>  Hands-on Experiments – Practical activities to explore scientific concepts.</li>
                                 <li><i class="fa-light fa-check"></i> Eco-Friendly Projects – Teaching sustainability and environmental awareness.</li>
@@ -91,7 +91,7 @@
                             <!-- resource pricing plan end -->
 
 
-                            <div class="program-student-testimonial rt-relative">
+                            <div class="programme-student-testimonial rt-relative">
                                 <h5 class="title fw-bold">Student Testimonials</h5>
                                 <div class="single-testimonial-box">
                                     <div class="single-testimonial-active">
@@ -159,19 +159,19 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="program-credit-area faq sc__accordion single__resource pt--80 mt-0">
+                            <div class="programme-credit-area faq sc__accordion single__resource pt--80 mt-0">
                                 <h3 class="faq__title">Frequently Asked Questions (FAQ)</h3>
-                                <div class="program-accordion">
+                                <div class="programme-accordion">
                                     <div class="accordion" id="rts-accordion">
                                         <div class="accordion-item expanded">
                                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne"
                                                 aria-expanded="true" aria-controls="collapseOne">
-                                                What are the admission requirements for Novus Spain University?
+                                                What are the admission requirements for Novus Education University?
                                             </button>
                                             <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#rts-accordion">
                                                 <div class="accordion-body">
                                                     <p>
-                                                        Admission requirements vary by program. Please refer to the Admissions section on our website for detailed information or contact the Admissions Office for assistance.
+                                                        Admission requirements vary by programme. Please refer to the Admissions section on our website for detailed information or contact the Admissions Office for assistance.
                                                     </p>
                                                 </div>
                                             </div>
@@ -184,7 +184,7 @@
                                             <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#rts-accordion">
                                                 <div class="accordion-body">
                                                     <p>
-                                                        Admission requirements vary by program. Please refer to the Admissions section on our website for detailed information or contact the Admissions Office for assistance.
+                                                        Admission requirements vary by programme. Please refer to the Admissions section on our website for detailed information or contact the Admissions Office for assistance.
                                                     </p>
                                                 </div>
                                             </div>
@@ -192,11 +192,11 @@
                                         <div class="accordion-item">
                                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                                 data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                                How do I contact Novus Spain University?
+                                                How do I contact Novus Education University?
                                             </button>
                                             <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#rts-accordion">
                                                <div class="accordion-body">
-                                                <p>Admission requirements vary by program. Please refer to the Admissions section on our website for detailed information or contact the Admissions Office for assistance.</p>
+                                                <p>Admission requirements vary by programme. Please refer to the Admissions section on our website for detailed information or contact the Admissions Office for assistance.</p>
                                                </div>
                                             </div>
                                         </div>
@@ -207,7 +207,7 @@
                                             </button>
                                             <div id="collapsefour" class="accordion-collapse collapse" data-bs-parent="#rts-accordion">
                                                <div class="accordion-body">
-                                                <p>Admission requirements vary by program. Please refer to the Admissions section on our website for detailed information or contact the Admissions Office for assistance.</p>
+                                                <p>Admission requirements vary by programme. Please refer to the Admissions section on our website for detailed information or contact the Admissions Office for assistance.</p>
                                                </div>
                                             </div>
                                         </div>
@@ -218,14 +218,14 @@
                     </div>
                     <!-- sidebar -->
                     <div class="col-lg-4 sticky-coloum-item">
-                        <div class="program-sidebar sc__version">
+                        <div class="programme-sidebar sc__version">
                             <!-- curriculum -->
-                            <div class="program-curriculum">
+                            <div class="programme-curriculum">
                                 <h6 class="heading-title">B.A In African Studies</h6>
-                                <div class="program-menu">
+                                <div class="programme-menu">
                                     <ul class="list-unstyled">
                                         <li><a href="#curriculum"><span><i class="fa-light fa-arrow-right"></i></span>Course Curriculum</a></li>
-                                        <li><a href="{{ route('faculty-details') }}"><span><i class="fa-light fa-arrow-right"></i></span>Program Faculty</a></li>
+                                        <li><a href="{{ route('faculty-details') }}"><span><i class="fa-light fa-arrow-right"></i></span>programme Faculty</a></li>
                                         <li><a href="{{ route('admission') }}"><span><i class="fa-light fa-arrow-right"></i></span>Apply Admission</a></li>
                                         <li><a href="{{ route('scholarship') }}"><span><i class="fa-light fa-arrow-right"></i></span>Scholarship </a></li>
                                         <li><a href="{{ route('event') }}"><span><i class="fa-light fa-arrow-right"></i></span>Joint Event</a></li>
@@ -233,12 +233,12 @@
                                 </div>
                             </div>
                             <!-- contact info -->
-                            <div class="program-info">
+                            <div class="programme-info">
                                 <h5>Department Contact Info</h5>
                                 <p>B.A. in Africana Studies</p>
                                 <div class="contact-info">
                                     <h5>Contact:</h5>
-                                    <a href="mailto:barry.Novus Spain@info.com">barry.Novus Spain@info.com</a>
+                                    <a href="mailto:barry.Novus Education@info.com">barry.Novus Education@info.com</a>
                                     <a href="callto:121">664-254-251</a>
                                 </div>
                                 <div class="social-info">
@@ -254,8 +254,8 @@
                             </div>
 
                             <!-- join event -->
-                            <div class="program-event">
-                                <div class="program-event-content">
+                            <div class="programme-event">
+                                <div class="programme-event-content">
                                     <p>Joint New Event About <br>
                                         African History
                                     </p>
@@ -284,7 +284,7 @@
             </div>
         </div>
     </div>
-    <!-- program content end -->
+    <!-- programme content end -->
 
     @include($footer . 'footer__v6', ['class' => 'sc'])
     @include($components . 'offcanvase-sc')

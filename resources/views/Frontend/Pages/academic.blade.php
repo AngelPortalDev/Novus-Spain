@@ -18,7 +18,7 @@
                     </div>
                     <div class="col-lg-8 col-md-9 col-sm-12">
                         <p class="rts-section-description">
-                            This distinguished university of arts, sciences and professional studies is noted for exceptional program offerings and an interdisciplinary approach to learning, while also providing students with a diverse, high-quality student, faculty and staff population.
+                            This distinguished university of arts, sciences and professional studies is noted for exceptional programme offerings and an interdisciplinary approach to learning, while also providing students with a diverse, high-quality student, faculty and staff population.
                         </p>
                     </div>
                 </div>
@@ -70,13 +70,13 @@
                 <div class="col-lg-5 col-md-11">
                     <div class="rts-multi-row-content">
                         <h4 class="row-title">Undergraduate Education</h4>
-                        <p>Novus Spain Undergrad is your guide to undergraduate academics and opportunities run by the Vice Provost for Undergraduate Education.</p>
-                         <div class="program-list">
-                            <a href="{{ route('program-single') }}" class="program-item"><span>Africana Studies <i class="fa-regular fa-chevron-right"></i></span> <span>A.B</span></a>
-                            <a href="{{ route('program-single') }}" class="program-item"><span>Accounting, BS <i class="fa-regular fa-chevron-right"></i></span> <span>A.B</span></a>
-                            <a href="{{ route('program-single') }}" class="program-item"><span>Applied Mathematics <i class="fa-regular fa-chevron-right"></i></span> <span>A.B</span></a>
-                            <a href="{{ route('program-single') }}" class="program-item"><span>Anthropology <i class="fa-regular fa-chevron-right"></i></span> <span>A.B</span></a>
-                            <a href="{{ route('program-single') }}" class="mt--15 about-btn rts-nbg-btn btn-arrow">View All Program <span><i class="fa-sharp fa-regular fa-arrow-right"></i></span></a>
+                        <p>Novus Education Undergrad is your guide to undergraduate academics and opportunities run by the Vice Provost for Undergraduate Education.</p>
+                         <div class="programme-list">
+                            <a href="{{ route('programme-single') }}" class="programme-item"><span>Africana Studies <i class="fa-regular fa-chevron-right"></i></span> <span>A.B</span></a>
+                            <a href="{{ route('programme-single') }}" class="programme-item"><span>Accounting, BS <i class="fa-regular fa-chevron-right"></i></span> <span>A.B</span></a>
+                            <a href="{{ route('programme-single') }}" class="programme-item"><span>Applied Mathematics <i class="fa-regular fa-chevron-right"></i></span> <span>A.B</span></a>
+                            <a href="{{ route('programme-single') }}" class="programme-item"><span>Anthropology <i class="fa-regular fa-chevron-right"></i></span> <span>A.B</span></a>
+                            <a href="{{ route('programme-single') }}" class="mt--15 about-btn rts-nbg-btn btn-arrow">View All programme <span><i class="fa-sharp fa-regular fa-arrow-right"></i></span></a>
                          </div>
                     </div>
                 </div>
@@ -87,11 +87,11 @@
                     <div class="rts-multi-row-content left-side">
                         <h3 class="row-title">Graduate Education</h3>
                         <p>The VPGE office works collaboratively across the University to ensure that every graduate student has the best possible education.</p>
-                         <div class="program-list">
-                            <a href="{{ route('program-single') }}" class="program-item"><span>M.A. in American Studies <i class="fa-regular fa-chevron-right"></i></span> <span>A.B</span></a>
-                            <a href="{{ route('program-single') }}" class="program-item"><span>Biomedical Engineering <i class="fa-regular fa-chevron-right"></i></span> <span>A.B</span></a>
-                            <a href="{{ route('program-single') }}" class="program-item"><span>Master of Public Health <i class="fa-regular fa-chevron-right"></i></span> <span>A.B</span></a>
-                            <a href="{{ route('program-single') }}" class="mt--15 about-btn rts-nbg-btn btn-arrow">View All Program <span><i class="fa-sharp fa-regular fa-arrow-right"></i></span></a>
+                         <div class="programme-list">
+                            <a href="{{ route('programme-single') }}" class="programme-item"><span>M.A. in American Studies <i class="fa-regular fa-chevron-right"></i></span> <span>A.B</span></a>
+                            <a href="{{ route('programme-single') }}" class="programme-item"><span>Biomedical Engineering <i class="fa-regular fa-chevron-right"></i></span> <span>A.B</span></a>
+                            <a href="{{ route('programme-single') }}" class="programme-item"><span>Master of Public Health <i class="fa-regular fa-chevron-right"></i></span> <span>A.B</span></a>
+                            <a href="{{ route('programme-single') }}" class="mt--15 about-btn rts-nbg-btn btn-arrow">View All programme <span><i class="fa-sharp fa-regular fa-arrow-right"></i></span></a>
                          </div>
                     </div>
                 </div>
@@ -110,11 +110,11 @@
                 </div>
                 <div class="col-lg-5 col-md-11">
                     <div class="rts-multi-row-content">
-                         <div class="program-list">
+                         <div class="programme-list">
                             <div class="single-list">
                                 <h4 class="row-title">Lifelong Learning</h4>
-                                <p>Novus Spain offers a wide range of programs, classes, internships, and an entire online high school.</p>
-                                <a href="#" class="about-btn rts-nbg-btn btn-arrow">Novus Spain  Undergraduate <span><i class="fa-sharp fa-regular fa-arrow-right"></i></span></a>
+                                <p>Novus Education offers a wide range of programmes, classes, internships, and an entire online high school.</p>
+                                <a href="#" class="about-btn rts-nbg-btn btn-arrow">Novus Education  Undergraduate <span><i class="fa-sharp fa-regular fa-arrow-right"></i></span></a>
                             </div>
                             <div class="single-list">
                                 <h4 class="row-title">Professional Development</h4>

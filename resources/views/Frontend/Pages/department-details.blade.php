@@ -7,30 +7,30 @@
         'title' => 'Department of English',
         'page' => 'Department Details'    
     ])
-    <!-- program content -->
-    <div class="rts-program rts-section-padding">
+    <!-- programme content -->
+    <div class="rts-programme rts-section-padding">
         <div class="container">
-            <div class="rts-program-single-header">
+            <div class="rts-programme-single-header">
                 <div class="row align-items-center g-3">
                     <div class="col-lg-6">
                         <h3 class="rts-section-title">Introduction Department <br> Of English</h3>
                     </div>
                     <div class="col-lg-6">
-                        <p class="rts-section-description">The program continues to attract students from all ethnic, racial, and cultural backgrounds as they recognize ways that Africana Studies provides them with a forum to examine the intellectual life, the historical experience, and the cultural understanding of one of this country’s largest racial minority groups.</p>
+                        <p class="rts-section-description">The programme continues to attract students from all ethnic, racial, and cultural backgrounds as they recognize ways that Africana Studies provides them with a forum to examine the intellectual life, the historical experience, and the cultural understanding of one of this country’s largest racial minority groups.</p>
                     </div>
                 </div>
             </div>
-            <div class="rts-program-description">
+            <div class="rts-programme-description">
                 <div class="row sticky-coloum-wrap">
                     <div class="col-lg-12">
-                        <div class="program-description-area" id="curriculum">
-                            <div class="program-big-thumb">
-                                <img src="{{asset('assets/images/faculty/10.jpg')}}" alt="program">
+                        <div class="programme-description-area" id="curriculum">
+                            <div class="programme-big-thumb">
+                                <img src="{{asset('assets/images/faculty/10.jpg')}}" alt="programme">
                             </div>
-                            <div class="program-about">
-                                <h4 class="title">About The Program</h4>
+                            <div class="programme-about">
+                                <h4 class="title">About The programme</h4>
                                 <p>The Department of English, under the Faculty of Arts & Social Sciences (FA), started its journey with two predominant visions: first, to enhance and nourish students’ mental, ethical, and creative facets of their personality; secondly, to prepare themselves for efficient professional and technical employment in future. There can be no denying that ethics, values, morality and creativity are the essential ingredients of nation-building.</p>
-                                <p>As a pioneering private university of this country, Novus Spain has always been committed to imparting these ingredients among its students as the larger concerns of society. The Department of English firmly believes that value-education can bring excellence in leadership, and consequently excellence in nation-building.</p>
+                                <p>As a pioneering private university of this country, Novus Education has always been committed to imparting these ingredients among its students as the larger concerns of society. The Department of English firmly believes that value-education can bring excellence in leadership, and consequently excellence in nation-building.</p>
                             </div>
                             <div class="row g-5 faculty-sub-details mt--40">
                                 <div class="rts-section mb-4 text-start">
@@ -44,10 +44,10 @@
                                         </div>
                                         <div class="cat-meta">
                                             <div class="cat-title">
-                                                <a href="{{ route('program-single') }}">Bachelor of arts in English</a>
+                                                <a href="{{ route('programme-single') }}">Bachelor of arts in English</a>
                                             </div>
                                             <div class="cat-link">
-                                                <a href="{{ route('program-single') }}" class="cat-link-arrow"><i class="fa-sharp fa-regular fa-arrow-right"></i></a>
+                                                <a href="{{ route('programme-single') }}" class="cat-link-arrow"><i class="fa-sharp fa-regular fa-arrow-right"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -59,10 +59,10 @@
                                         </div>
                                         <div class="cat-meta">
                                             <div class="cat-title">
-                                                <a href="{{ route('program-single') }}">M.A. English</a>
+                                                <a href="{{ route('programme-single') }}">M.A. English</a>
                                             </div>
                                             <div class="cat-link">
-                                                <a href="{{ route('program-single') }}" class="cat-link-arrow"><i class="fa-sharp fa-regular fa-arrow-right"></i></a>
+                                                <a href="{{ route('programme-single') }}" class="cat-link-arrow"><i class="fa-sharp fa-regular fa-arrow-right"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -74,10 +74,10 @@
                                         </div>
                                         <div class="cat-meta">
                                             <div class="cat-title">
-                                                <a href="{{ route('program-single') }}">M.S. in Nursing</a>
+                                                <a href="{{ route('programme-single') }}">M.S. in Nursing</a>
                                             </div>
                                             <div class="cat-link">
-                                                <a href="{{ route('program-single') }}" class="cat-link-arrow"><i class="fa-sharp fa-regular fa-arrow-right"></i></a>
+                                                <a href="{{ route('programme-single') }}" class="cat-link-arrow"><i class="fa-sharp fa-regular fa-arrow-right"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -89,10 +89,10 @@
                                         </div>
                                         <div class="cat-meta">
                                             <div class="cat-title">
-                                                <a href="{{ route('program-single') }}">Master of Public Health</a>
+                                                <a href="{{ route('programme-single') }}">Master of Public Health</a>
                                             </div>
                                             <div class="cat-link">
-                                                <a href="{{ route('program-single') }}" class="cat-link-arrow"><i class="fa-sharp fa-regular fa-arrow-right"></i></a>
+                                                <a href="{{ route('programme-single') }}" class="cat-link-arrow"><i class="fa-sharp fa-regular fa-arrow-right"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -104,7 +104,7 @@
             </div>
         </div>
     </div>
-    <!-- program content end -->
+    <!-- programme content end -->
     <!-- blog -->
     <div class="rts-blog v_1 rts__light rts-section-padding">
         <div class="container">

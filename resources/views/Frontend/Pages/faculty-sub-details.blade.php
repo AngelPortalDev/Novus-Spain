@@ -27,10 +27,10 @@
                     <div class="faculty-content-text ms-lg-5 mt-5 mt-lg-0">
                         <p class="h6 mb-
                         4">It’s your Time Join to explore</p>
-                        <p class="mb-5">The Faculty of Arts Novus Spain University  warmly welcomes you to a vast, vivid and vigorous academic landscape of relentless pursuits and superb brilliance.</p>
+                        <p class="mb-5">The Faculty of Arts Novus Education University  warmly welcomes you to a vast, vivid and vigorous academic landscape of relentless pursuits and superb brilliance.</p>
                         <p class="h6 mb-
                         4">Learn to lead</p>
-                        <p class="mb-5">In line with the lifelong motto of Novus Spain ‘where leaders are created’, FA is devoted to produce accomplished, as well as skilled, learners who can meet the professional requirements of today’s local and global job market. Be it an academic seminar or an in-house cricket tournament or a debate festival, students and teachers at FA work hand in hand to make it a success. This is how we make sure that each of our students remains engaged in academic and extracurricular rigors to grow to his or her fullest extent. This is how FA of Novus Spain creates local leaders for the global demands.</p>
+                        <p class="mb-5">In line with the lifelong motto of Novus Education ‘where leaders are created’, FA is devoted to produce accomplished, as well as skilled, learners who can meet the professional requirements of today’s local and global job market. Be it an academic seminar or an in-house cricket tournament or a debate festival, students and teachers at FA work hand in hand to make it a success. This is how we make sure that each of our students remains engaged in academic and extracurricular rigors to grow to his or her fullest extent. This is how FA of Novus Education creates local leaders for the global demands.</p>
                         <p class="h6 mb-
                         4">Challenge yourself to change the world</p>
                         <p>Education becomes meaningful only when it can change the world when necessary. This is what my colleagues and I are working for every single day of the week at FA. I hope that you will find whatever information you may need here and if not please feel free to let me know. I warmly welcome your comments and suggestions. Thank you very much for your kind visit.</p>
@@ -121,33 +121,33 @@
             </div>
             <div class="row justify-content-md-center g-0">
                 <div class="rts-section mb--60 text-center">
-                    <h3 class="rts-section-title">Academics & Program</h3>
+                    <h3 class="rts-section-title">Academics & programme</h3>
                 </div>
                 <div class="col-lg-4 col-md-10">
-                    <div class="program__single--item">
-                        <div class="program__single--item--bg">
-                            <img src="{{asset('assets/images/program/program__bg.jpg')}}" alt="">
+                    <div class="programme__single--item">
+                        <div class="programme__single--item--bg">
+                            <img src="{{asset('assets/images/programme/programme__bg.jpg')}}" alt="">
                         </div>
-                        <h5 class="program__single--item--title">undergraduate</h5>
+                        <h5 class="programme__single--item--title">undergraduate</h5>
 
-                        <ul class="program__single--item--list">
-                            <li class="program__single--item--list--item">
-                                <a href="{{ route('program-single') }}" class="link__list">Anthropology
+                        <ul class="programme__single--item--list">
+                            <li class="programme__single--item--list--item">
+                                <a href="{{ route('programme-single') }}" class="link__list">Anthropology
                                     <span><i class="fa-regular fa-arrow-right"></i></span>
                                 </a>
                             </li>
-                            <li class="program__single--item--list--item">
-                                <a href="{{ route('program-single') }}" class="link__list">Applied Mathematics
+                            <li class="programme__single--item--list--item">
+                                <a href="{{ route('programme-single') }}" class="link__list">Applied Mathematics
                                     <span><i class="fa-regular fa-arrow-right"></i></span>
                                 </a>
                             </li>
-                            <li class="program__single--item--list--item">
-                                <a href="{{ route('program-single') }}" class="link__list">Biomedical Engineering
+                            <li class="programme__single--item--list--item">
+                                <a href="{{ route('programme-single') }}" class="link__list">Biomedical Engineering
                                     <span><i class="fa-regular fa-arrow-right"></i></span>
                                 </a>
                             </li>
-                            <li class="program__single--item--list--item">
-                                <a href="{{ route('program-single') }}" class="link__list">Astrophysics
+                            <li class="programme__single--item--list--item">
+                                <a href="{{ route('programme-single') }}" class="link__list">Astrophysics
                                     <span><i class="fa-regular fa-arrow-right"></i></span>
                                 </a>
                             </li>
@@ -155,30 +155,30 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-10">
-                    <div class="program__single--item v__2">
-                        <div class="program__single--item--bg">
-                            <img src="{{asset('assets/images/program/program__bg.jpg')}}" alt="">
+                    <div class="programme__single--item v__2">
+                        <div class="programme__single--item--bg">
+                            <img src="{{asset('assets/images/programme/programme__bg.jpg')}}" alt="">
                         </div>
-                        <h5 class="program__single--item--title">graduate</h5>
+                        <h5 class="programme__single--item--title">graduate</h5>
 
-                        <ul class="program__single--item--list">
-                            <li class="program__single--item--list--item">
-                                <a href="{{ route('program-single') }}" class="link__list">Applied Computation
+                        <ul class="programme__single--item--list">
+                            <li class="programme__single--item--list--item">
+                                <a href="{{ route('programme-single') }}" class="link__list">Applied Computation
                                     <span><i class="fa-regular fa-arrow-right"></i></span>
                                 </a>
                             </li>
-                            <li class="program__single--item--list--item">
-                                <a href="{{ route('program-single') }}" class="link__list">Applied Mathematics
+                            <li class="programme__single--item--list--item">
+                                <a href="{{ route('programme-single') }}" class="link__list">Applied Mathematics
                                     <span><i class="fa-regular fa-arrow-right"></i></span>
                                 </a>
                             </li>
-                            <li class="program__single--item--list--item">
-                                <a href="{{ route('program-single') }}" class="link__list">Applied Computation
+                            <li class="programme__single--item--list--item">
+                                <a href="{{ route('programme-single') }}" class="link__list">Applied Computation
                                     <span><i class="fa-regular fa-arrow-right"></i></span>
                                 </a>
                             </li>
-                            <li class="program__single--item--list--item">
-                                <a href="{{ route('program-single') }}" class="link__list">Architecture
+                            <li class="programme__single--item--list--item">
+                                <a href="{{ route('programme-single') }}" class="link__list">Architecture
                                     <span><i class="fa-regular fa-arrow-right"></i></span>
                                 </a>
                             </li>
@@ -186,30 +186,30 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-10">
-                    <div class="program__single--item">
-                        <div class="program__single--item--bg">
-                            <img src="{{asset('assets/images/program/program__bg.jpg')}}" alt="">
+                    <div class="programme__single--item">
+                        <div class="programme__single--item--bg">
+                            <img src="{{asset('assets/images/programme/programme__bg.jpg')}}" alt="">
                         </div>
-                        <h5 class="program__single--item--title">Lifelong Learning</h5>
+                        <h5 class="programme__single--item--title">Lifelong Learning</h5>
 
-                        <ul class="program__single--item--list">
-                            <li class="program__single--item--list--item">
-                                <a href="{{ route('program-single') }}" class="link__list">Personal Development
+                        <ul class="programme__single--item--list">
+                            <li class="programme__single--item--list--item">
+                                <a href="{{ route('programme-single') }}" class="link__list">Personal Development
                                     <span><i class="fa-regular fa-arrow-right"></i></span>
                                 </a>
                             </li>
-                            <li class="program__single--item--list--item">
-                                <a href="{{ route('program-single') }}" class="link__list">Arts and Humanities
+                            <li class="programme__single--item--list--item">
+                                <a href="{{ route('programme-single') }}" class="link__list">Arts and Humanities
                                     <span><i class="fa-regular fa-arrow-right"></i></span>
                                 </a>
                             </li>
-                            <li class="program__single--item--list--item">
-                                <a href="{{ route('program-single') }}" class="link__list">Health and Wellness
+                            <li class="programme__single--item--list--item">
+                                <a href="{{ route('programme-single') }}" class="link__list">Health and Wellness
                                     <span><i class="fa-regular fa-arrow-right"></i></span>
                                 </a>
                             </li>
-                            <li class="program__single--item--list--item">
-                                <a href="{{ route('program-single') }}" class="link__list">Social Sciences
+                            <li class="programme__single--item--list--item">
+                                <a href="{{ route('programme-single') }}" class="link__list">Social Sciences
                                     <span><i class="fa-regular fa-arrow-right"></i></span>
                                 </a>
                             </li>
@@ -283,7 +283,7 @@
                             <h5 class="rts__single--event--meta--title">
                                 <a href="{{ route('event-details') }}">
                                     Sustainability Showcase: Green
-                                    Living at Novus Spain </a>
+                                    Living at Novus Education </a>
                             </h5>
                             <a href="{{ route('event-details') }}" class="rts__round--btn">
                                 <i class="fa-light fa-arrow-right"></i>

@@ -4,7 +4,7 @@
     <!-- inner menu area desktop start -->
     <div class="inner-main-wrapper-desk">
         <div class="thumbnail">
-            <img src="{{asset('assets/images/logo/logo__two.svg')}}" alt="Novus Spain-university">
+            <img src="{{asset('assets/images/logo/logo__two.svg')}}" alt="NOVUS Education">
         </div>
         <div class="inner-content">
             <!-- <p class="disc">
@@ -14,19 +14,19 @@
             <div class="offcanvase__banner mt--50">
                 <div class="offcanvase__banner--content">
                     <img src="{{asset('assets/images/offcanvase.jpg')}}" alt="offcanvase">
-                    <a href="{{ route('admission') }}" class="rts-theme-btn">Apply Now</a>
+                    <a href="https://one.novuseducation.es/crm/admission-form/" class="rts-theme-btn">Apply Now</a>
                 </div>
             </div>
             <div class="offcanvase__info">
                 <div class="offcanvase__info--content">
-                    <a href="callto:+34123456789"><span><i class="fa-sharp fa-light fa-phone"></i></span>+(34) 123-456-789</a>
-                    <a href="#"><span><i class="fa-sharp fa-light fa-location-dot"></i></span>19 Menorca Street, 7, Valencia 46023-Valencia,Spain</a>
+                    <!-- <a href="callto:+34123456789"><span><i class="fa-sharp fa-light fa-phone"></i></span>+(34) 123-456-789</a> -->
+                    <a href="#"><span><i class="fa-sharp fa-light fa-location-dot"></i></span>Carrer Enric Valor, 1, 46980 Paterna, Valencia, Spain</a>
                     <div class="offcanvase__info--content--social">
                         <p class="title">Follow Us:</p>
                         <div class="social__links">
-                            <a href="#"><i class="fa-brands fa-facebook"></i></a>
-                            <a href="#"><i class="fa-brands fa-instagram"></i></a>
-                            <a href="#"><i class="fa-brands fa-linkedin"></i></a>
+                            <a href="https://www.facebook.com/novuseducations"><i class="fa-brands fa-facebook"></i></a>
+                            <a href="https://www.instagram.com/novus_education_spain"><i class="fa-brands fa-instagram"></i></a>
+                            <a href="https://www.linkedin.com/company/novus-education-spain"><i class="fa-brands fa-linkedin"></i></a>
                             <!-- <a href="#"><i class="fa-brands fa-youtube"></i></a> -->
                         </div>
                     </div>
@@ -38,65 +38,27 @@
     <div class="mobile-menu-main">
         <nav class="nav-main mainmenu-nav mt--30">
             <ul class="mainmenu metismenu" id="mobile-menu-active">
-
-                <li class="has-droupdown">
-                    <a href="#" class="main">Homepages</a>
-                    <ul class="submenu mm-collapse">
-                        <li><a class="mobile-menu-link" href="{{ route('index') }}">Home Style One</a></li>
-                        <li><a class="mobile-menu-link" href="{{ route('index-two') }}">Home Style Two</a></li>
-                        <li><a class="mobile-menu-link" href="{{ route('index-three') }}">Home Style Three</a></li>
-                        <li><a class="mobile-menu-link" href="{{ route('index-four') }}">Home Style Four</a></li>
-                        <li><a class="mobile-menu-link" href="{{ route('index-five') }}">Home Style Five</a></li>
-                    </ul>
+                <li>
+                    <a href="{{ route('about') }}" class="main">About Us</a>
                 </li>
                 <li class="has-droupdown">
-                    <a href="#" class="main">Pages</a>
+                    <a href="#" class="main">Language Courses</a>
                     <ul class="submenu mm-collapse">
-                        <li><a class="mobile-menu-link" href="{{ route('about') }}">About Us</a></li>
-                        <li><a class="mobile-menu-link" href="{{ route('athletics') }}">Athletics</a></li>
-                        <li class="has-dropdown third-lvl">
-                            <a href="javascript:void(0);">Faculty</a>
-                            <ul class="submenu third-lvl base">
-                                <li><a class="mobile-menu-link" href="{{ route('faculty-sub') }}">Faculty</a></li>
-                            <li><a class="mobile-menu-link" href="{{ route('faculty-sub-details') }}">Faculty Details</a></li>
-                                <li><a class="mobile-menu-link" href="{{ route('faculty') }}">Faculty</a></li>
-                                <li><a class="mobile-menu-link" href="{{ route('faculty-details') }}">Faculty Staff details</a></li>
-                            </ul>
-                        </li>
-                        <li><a class="mobile-menu-link" href="{{ route('research') }}">Research</a></li>
+                        <li><a class="mobile-menu-link" href="{{ route('business-english-course') }}">Business English Course</a></li>
+                        <li><a class="mobile-menu-link" href="{{ route('general-english-course') }}">General English Course</a></li>
+                        <li><a class="mobile-menu-link" href="{{ route('diploma-spanish-language') }}">Diploma in Spanish Language</a></li>
                     </ul>
                 </li>
-                <li class="has-droupdown">
-                    <a href="#" class="main">Academics</a>
-                    <ul class="submenu mm-collapse">
-                        <li><a class="mobile-menu-link" href="{{ route('academic') }}">Academic</a></li>
-                        <li><a class="mobile-menu-link" href="{{ route('admission') }}">Admission</a></li>
-                        <li><a class="mobile-menu-link" href="{{ route('academic-area') }}">Academic Area</a></li>
-                        <li><a class="mobile-menu-link" href="{{ route('campus-life') }}">Campus Life</a></li>
-                        <li><a class="mobile-menu-link" href="{{ route('scholarship') }}">Scholarship</a></li>
-                        <li><a class="mobile-menu-link" href="{{ route('tution-fee') }}">Tution Fee</a></li>
-                        <li><a class="mobile-menu-link" href="{{ route('alumni') }}">Alumni</a></li>
-                        <li><a class="mobile-menu-link" href="{{ route('program-single') }}">Program Single</a></li>
-                        <li><a class="mobile-menu-link" href="{{ route('department-details') }}">Department Details</a></li>
-                    </ul>
+                <li>
+                    <a href="{{ route('campus-life') }}" class="main">Student Life</a>
                 </li>
-               
-                <li class="has-droupdown">
-                    <a href="#" class="main">Events</a>
-                    <ul class="submenu mm-collapse">
-                        <li><a class="mobile-menu-link" href="{{ route('event') }}">Event</a></li>
-                        <li><a class="mobile-menu-link" href="{{ route('event-details') }}">Event Details</a></li>
-                    </ul>
+                <li>
+                    <a href="{{ route('visa-requirement') }}" class="main">Visa Requirements</a>
                 </li>
-                <li class="has-droupdown">
-                    <a href="#" class="main">Blog</a>
-                    <ul class="submenu mm-collapse">
-                        <li><a class="mobile-menu-link" href="{{ route('blog') }}">Blog</a></li>
-                        <li><a class="mobile-menu-link" href="{{ route('blog-grid') }}">Blog Grid</a></li>
-                        <li><a class="mobile-menu-link" href="{{ route('blog-list') }}">Blog List</a></li>
-                        <li><a class="mobile-menu-link" href="{{ route('blog-details') }}">Blog Details</a></li>
-                    </ul>
+                 <li>
+                    <a href="{{ route('faculty') }}" class="main">Our Team</a>
                 </li>
+                
                 <li>
                     <a href="{{ route('contact') }}" class="main">Contact Us</a>
                 </li>
@@ -104,15 +66,14 @@
         </nav>
 
         <div class="offcanvase__info--content mt--30">
-            <a href="callto:+34123456789"><span><i class="fa-sharp fa-light fa-phone"></i></span>+(34) 123-456-789</a>
-            <a href="#"><span><i class="fa-sharp fa-light fa-location-dot"></i></span>19 Menorca Street, 7, Valencia 46023-Valencia,Spain</a>
+            <!-- <a href="callto:+34123456789"><span><i class="fa-sharp fa-light fa-phone"></i></span>+(34) 123-456-789</a> -->
+            <a href="#"><span><i class="fa-sharp fa-light fa-location-dot"></i></span>Carrer Enric Valor, 1, 46980 Paterna, Valencia, Spain</a>
             <div class="offcanvase__info--content--social">
                 <p class="title">Follow Us:</p>
                 <div class="social__links">
-                    <a href="#"><i class="fa-brands fa-facebook"></i></a>
-                    <a href="#"><i class="fa-brands fa-instagram"></i></a>
-                    <a href="#"><i class="fa-brands fa-linkedin"></i></a>
-                    <a href="#"><i class="fa-brands fa-youtube"></i></a>
+                    <a href="https://www.facebook.com/novuseducations"><i class="fa-brands fa-facebook"></i></a>
+                    <a href="https://www.instagram.com/novus_education_spain"><i class="fa-brands fa-instagram"></i></a>
+                    <a href="https://www.linkedin.com/company/novus-education-spain"><i class="fa-brands fa-linkedin"></i></a>
                 </div>
             </div>
         </div>

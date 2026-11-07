@@ -1,13 +1,13 @@
 // all feature of 
 
-// program css
-.rts-program {
+// programme css
+.rts-programme {
     &.v_2 {
-        .rts-program-single {
+        .rts-programme-single {
             padding: 0;
             border: unset;
 
-            .rts-program-hover {
+            .rts-programme-hover {
                 background: var(--light-white);
                 position: unset;
                 opacity: 1;
@@ -40,7 +40,7 @@
                 }
             }
 
-            .single-program {
+            .single-programme {
                 display: flex;
                 gap: 15px;
                 border: 1px solid #fff;
@@ -74,7 +74,7 @@
 
 
 
-.rts-program-single {
+.rts-programme-single {
     padding: 20px;
     border: 1px solid var(--rt-line);
 
@@ -85,14 +85,14 @@
     &__content {
         position: relative;
         &:hover{
-            .rts-program-hover{
+            .rts-programme-hover{
                 .icon{
                     border-color: var(--rt-white);
                     img{
                         filter: none !important;
                     }
                 }
-                .program-link{
+                .programme-link{
                     color: var(--rt-white);
                 }
                 p{
@@ -106,7 +106,7 @@
                 }
             }
         }
-        .program-image {
+        .programme-image {
             position: relative;
             overflow: hidden;
 
@@ -163,7 +163,7 @@
             }
         }
 
-        .rts-program-hover {
+        .rts-programme-hover {
             padding: 40px;
             text-align: center;
             @include position;
@@ -183,7 +183,7 @@
                 margin: auto auto 30px;
             }
 
-            .program-link {
+            .programme-link {
                 font-size: 22px;
                 color: var(--rt-heading);
                 font-family: var(--font-secondary);
@@ -203,11 +203,11 @@
         }
 
         &:hover {
-            .rts-program-hover {
+            .rts-programme-hover {
                 opacity: 1;
             }
 
-            .program-image {
+            .programme-image {
                 &::before {
                     opacity: 0;
                 }
@@ -892,8 +892,8 @@
             line-height: 1;
         }
 
-        .program-list {
-            .program-item {
+        .programme-list {
+            .programme-item {
                 display: flex;
                 justify-content: space-between;
                 border-bottom: 1px solid #ECECEC;

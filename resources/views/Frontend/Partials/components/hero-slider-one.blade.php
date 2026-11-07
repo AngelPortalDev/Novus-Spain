@@ -35,7 +35,7 @@
                                             <span>Est - 1971</span>
                                         </div>
                                         <h1 class="rts-slider-title">
-                                            Become a <span>Novus Spain</span> 
+                                            Become a <span>Novus Education</span> 
                                             University Students
                                         </h1>
                                         <p class="rts-slider-desc w-560">
@@ -43,7 +43,7 @@
                                             structure of your university website.
                                         </p>
                                         <div class="rts-slider-btn mt--50">
-                                            <a href="#" class="rts-theme-btn btn-arrow">View Our Program <span><i class="fa-thin fa-arrow-right"></i></span></a>
+                                            <a href="#" class="rts-theme-btn btn-arrow">View Our programme <span><i class="fa-thin fa-arrow-right"></i></span></a>
                                         </div>
                                     </div>
                                 </div>
@@ -68,7 +68,7 @@
                                             <span>Est - 1971</span>
                                         </div>
                                         <h1 class="rts-slider-title">
-                                            Become a <span>Novus Spain</span> 
+                                            Become a <span>Novus Education</span> 
                                             University Scholar
                                         </h1>
                                         <p class="rts-slider-desc w-560">
@@ -76,7 +76,7 @@
                                             structure of your university website.
                                         </p>
                                         <div class="rts-slider-btn mt--50">
-                                            <a href="#" class="rts-theme-btn btn-arrow">View Our Program <span><i class="fa-thin fa-arrow-right"></i></span></a>
+                                            <a href="#" class="rts-theme-btn btn-arrow">View Our programme <span><i class="fa-thin fa-arrow-right"></i></span></a>
                                         </div>
                                     </div>
                                 </div>
@@ -101,7 +101,7 @@
                                             <span>Est - 1971</span>
                                         </div>
                                         <h1 class="rts-slider-title">
-                                            Become a <span>Novus Spain</span> 
+                                            Become a <span>Novus Education</span> 
                                             University Scholar
                                         </h1>
                                         <p class="rts-slider-desc w-560">
@@ -109,7 +109,7 @@
                                             structure of your university website.
                                         </p>
                                         <div class="rts-slider-btn mt--50">
-                                            <a href="#" class="rts-theme-btn btn-arrow">View Our Program <span><i class="fa-thin fa-arrow-right"></i></span></a>
+                                            <a href="#" class="rts-theme-btn btn-arrow">View Our programme <span><i class="fa-thin fa-arrow-right"></i></span></a>
                                         </div>
                                     </div>
                                 </div>

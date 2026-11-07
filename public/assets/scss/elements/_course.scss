@@ -30,7 +30,7 @@
 }
 
 // course single
-.all-program-category {
+.all-programme-category {
     .single-cat-item {
         .cat-thumb {
             position: relative;
@@ -289,9 +289,9 @@
         }
     }
 }
-// program single page
-.rts-program {
-    .rts-program-single-header {
+// programme single page
+.rts-programme {
+    .rts-programme-single-header {
         border-bottom: 1px solid #DDDDDD;
         padding-bottom: 50px;
         margin-bottom: 60px;
@@ -300,14 +300,14 @@
         }
     }
 
-    .program-about {
+    .programme-about {
         margin-top: 50px;
 
         .title {
         }
     }
 
-    .program-credit-area {
+    .programme-credit-area {
         margin-top: 50px;
 
         .title {
@@ -316,7 +316,7 @@
         }
     }
 
-    .program-accordion {
+    .programme-accordion {
         margin-bottom: 60px;
 
         .accordion {
@@ -399,7 +399,7 @@
         }
     }
 
-    .program-student-testimonial {
+    .programme-student-testimonial {
         padding-bottom: 40px;
 
         .title {
@@ -477,7 +477,7 @@
     }
 }
 
-.program-accordion {
+.programme-accordion {
     margin-bottom: 60px;
 
     .accordion {
@@ -568,7 +568,7 @@
 
 // scholarship area
 .rts-scholarship-description {
-    .program-about {
+    .programme-about {
         margin-top: 40px;
         margin-bottom: 50px;
 
@@ -725,7 +725,7 @@
             margin-bottom: 35px;
         }
 
-        .program-accordion {
+        .programme-accordion {
             .accordion-button[aria-expanded="true"] {
                 background: var(--rt-primary);
                 color: var(--rt-white);
@@ -768,7 +768,7 @@
     }
 }
 
-.program-sidebar {
+.programme-sidebar {
     margin-left: 50px;
     display: flex;
     flex-direction: column;
@@ -787,7 +787,7 @@
         margin-top: 50px;
     }
 
-    .program-curriculum {
+    .programme-curriculum {
         h6 {
             color: var(--rt-white);
             background: var(--rt-heading);
@@ -796,7 +796,7 @@
             margin-bottom: 0;
         }
 
-        .program-menu {
+        .programme-menu {
             border: 1px solid var(--rt-line);
 
             ul {
@@ -828,7 +828,7 @@
         }
     }
 
-    .program-info {
+    .programme-info {
         padding: 40px 35px 50px 40px;
         background: var(--rt-primary);
 
@@ -884,7 +884,7 @@
         }
     }
 
-    .program-event {
+    .programme-event {
         padding: 50px 44px 60px;
         text-align: center;
         background-image: url(../images/course/event-bg.jpg);
@@ -1427,26 +1427,26 @@
 
 
 // single resources
-.program-sidebar{
+.programme-sidebar{
     &.sc__version{
-        .program-curriculum{
+        .programme-curriculum{
             .heading-title{
                 border-top-right-radius: 10px;
                 border-top-left-radius: 10px;
                 background: var(--primary-color);
             }
         }
-        .program-info{
+        .programme-info{
             border-radius: 10px;
         }
-        .program-event{
+        .programme-event{
             overflow: hidden;
             border-radius: 10px;
             &::after{
                 border-radius: 10px;
             }
         }
-        .program-event-content{
+        .programme-event-content{
             .rts-theme-btn{
                 border-radius: 6px;
             }
@@ -1566,7 +1566,7 @@
             border-radius: 4px;
         }
     }
-    .program-sidebar .program-curriculum h6{
+    .programme-sidebar .programme-curriculum h6{
         border-top-right-radius: 10px;
         border-top-left-radius: 10px;
         background: var(--primary-color);

@@ -30,7 +30,7 @@
                     <div class="col-lg-6">
                         <div class="right-content">
                             <div class="right-content__section">
-                                <h2 class="rts-section-title mb--15">Novus Spain Athletics opens
+                                <h2 class="rts-section-title mb--15">Novus Education Athletics opens
                                     the vault to sports
                                 </h2>
                                 <p class="description">
@@ -150,7 +150,7 @@
                             </div>
                             <div class="single-item__meta">
                                 <h5 class="item-title"><a href="#">Recreation and Wellness</a></h5>
-                                <p class="item-description">Students, faculty, recreational facilities and wellness programs.</p>
+                                <p class="item-description">Students, faculty, recreational facilities and wellness programmes.</p>
                             </div>
                         </div>
                     </div>
@@ -180,7 +180,7 @@
                             </div>
                             <div class="single-item__meta">
                                 <h5 class="item-title"><a href="#">BeWell</a></h5>
-                                <p class="item-description">Offers incentives, programs, and activities that promote health and wellness.</p>
+                                <p class="item-description">Offers incentives, programmes, and activities that promote health and wellness.</p>
                             </div>
                         </div>
                     </div>

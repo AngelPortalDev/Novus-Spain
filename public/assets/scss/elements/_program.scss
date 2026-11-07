@@ -1,5 +1,5 @@
-/* ======= Program Area CSS ======= */
-.program__single--item{
+/* ======= programme Area CSS ======= */
+.programme__single--item{
     padding: 60px;
     @include mq($lg){
         padding: 38px;
@@ -20,7 +20,7 @@
         &::before{
             opacity: 0;
         }
-        .program__single--item{
+        .programme__single--item{
             &--title{
                 color: var(--rt-white);
             }
@@ -63,7 +63,7 @@
             background: var(--rt-primary-2);
             transition: var(--transition);
         }
-        .program__single--item{
+        .programme__single--item{
             &--title{
                 color: var(--rt-white);
             }
@@ -109,7 +109,7 @@
 
 
 // single resource
-.program__list{
+.programme__list{
     padding: 0;
     margin: 0;
     list-style: none;
@@ -239,7 +239,7 @@
         line-height: 50px;
     }
     &.single__resource{
-        .program-accordion{
+        .programme-accordion{
             margin-bottom: 0;
             .accordion .accordion-item{
                 border-color: var(--primary-color) !important;

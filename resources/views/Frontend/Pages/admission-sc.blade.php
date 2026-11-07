@@ -6,7 +6,7 @@
         'class' => 'sc__version sc__breadcrumb',
         'image' => 'breadcrumb-3.webp',
         'title' => 'Apply to UNipix School',
-        'page' => 'Program'
+        'page' => 'programme'
     ])
     
     <!-- admission page content -->
@@ -78,8 +78,8 @@
                                         </tbody>
                                     </table>
                                 </div>
-                                <p> Novus Spain reserves the right to evaluate an application and render a final decision even if all pieces of the application have not been received.</p>
-                                <p class="w-95 mx-0">Applicants are limited to a total of three applications for undergraduate admission, whether for first-year admission, transfer admission or a <br>combination of both. If you have submitted fewer than three applications to Novus Spain, you may reapply.
+                                <p> Novus Education reserves the right to evaluate an application and render a final decision even if all pieces of the application have not been received.</p>
+                                <p class="w-95 mx-0">Applicants are limited to a total of three applications for undergraduate admission, whether for first-year admission, transfer admission or a <br>combination of both. If you have submitted fewer than three applications to Novus Education, you may reapply.
                                 </p>
                             </div>
                         </div>
@@ -191,7 +191,7 @@
 
                                     <div class="d-flex align-items-center single-checkbox mt--20">
                                         <input type="checkbox" id="exampleCheck1">
-                                        <label for="exampleCheck1">By submitting this form, you agree to the Novus Spain University Privacy Notice</label>
+                                        <label for="exampleCheck1">By submitting this form, you agree to the Novus Education University Privacy Notice</label>
                                     </div>
                                 </div>
                                 <button type="submit" class="rts-theme-btn primary with-arrow">Submit Application<span><i class="fa-thin fa-arrow-right"></i></span></button>
@@ -201,14 +201,14 @@
                     </div>
                 </div>
                 <div class="col-lg-4 sticky-coloum-item">
-                    <div class="program-sidebar">
+                    <div class="programme-sidebar">
                         <!-- curriculum -->
-                        <div class="program-curriculum">
+                        <div class="programme-curriculum">
                             <h6 class="heading-title">B.A In African Studies</h6>
-                            <div class="program-menu">
+                            <div class="programme-menu">
                                 <ul class="list-unstyled">
                                     <li><a href="#"><span><i class="fa-light fa-arrow-right"></i></span>Course Curriculum</a></li>
-                                    <li><a href="#"><span><i class="fa-light fa-arrow-right"></i></span>Program Faculty</a></li>
+                                    <li><a href="#"><span><i class="fa-light fa-arrow-right"></i></span>programme Faculty</a></li>
                                     <li><a href="#"><span><i class="fa-light fa-arrow-right"></i></span>Apply Admission</a></li>
                                     <li><a href="#"><span><i class="fa-light fa-arrow-right"></i></span>Scholarship </a></li>
                                     <li><a href="#"><span><i class="fa-light fa-arrow-right"></i></span>Joint Event</a></li>
@@ -216,12 +216,12 @@
                             </div>
                         </div>
                         <!-- contact info -->
-                        <div class="program-info rounded-10">
+                        <div class="programme-info rounded-10">
                             <h5>Department Contact Info</h5>
                             <p>B.A. in Africana Studies</p>
                             <div class="contact-info">
                                 <h5>Contact:</h5>
-                                <a href="mailto:barry.Novus Spain@info.com">barry.Novus Spain@info.com</a>
+                                <a href="mailto:barry.Novus Education@info.com">barry.Novus Education@info.com</a>
                                 <a href="callto:121">664-254-251</a>
                             </div>
                             <div class="social-info">
@@ -237,8 +237,8 @@
                         </div>
 
                         <!-- join event -->
-                        <div class="program-event rounded-10 overflow-hidden">
-                            <div class="program-event-content">
+                        <div class="programme-event rounded-10 overflow-hidden">
+                            <div class="programme-event-content">
                                 <p>Joint New Event About
                                     African History
                                 </p>

@@ -127,7 +127,7 @@
                                 <img src="{{asset('assets/images/campus/04.jpg')}}" alt="item-image">
                             </div>
                             <div class="single-item__meta">
-                                <h5 class="item-title"><a href="#">The Arts at Novus Spain</a></h5>
+                                <h5 class="item-title"><a href="#">The Arts at Novus Education</a></h5>
                                 <p class="item-description">Stanford has a rich tradition of fostering creativity and the arts, A vibrant campus</p>
                             </div>
                         </div>
@@ -189,7 +189,7 @@
                             </div>
                             <div class="single-item__meta">
                                 <h5 class="item-title"><a href="#">Recreation and Wellness</a></h5>
-                                <p class="item-description">Students, faculty, recreational facilities and wellness programs.</p>
+                                <p class="item-description">Students, faculty, recreational facilities and wellness programmes.</p>
                             </div>
                         </div>
                     </div>
@@ -219,7 +219,7 @@
                             </div>
                             <div class="single-item__meta">
                                 <h5 class="item-title"><a href="#">BeWell</a></h5>
-                                <p class="item-description">Offers incentives, programs, and activities that promote health and wellness.</p>
+                                <p class="item-description">Offers incentives, programmes, and activities that promote health and wellness.</p>
                             </div>
                         </div>
                     </div>

@@ -31,9 +31,10 @@ Route::get('/blog-grid', [PageController::class, 'blogGrid'])->name('blog-grid')
 Route::get('/blog-list', [PageController::class, 'blogList'])->name('blog-list');
 Route::get('/blog', [PageController::class, 'blog'])->name('blog');
 Route::get('/scholarship', [PageController::class, 'scholarship'])->name('scholarship');
-Route::get('/program-single', [PageController::class, 'programSingle'])->name('program-single');
+Route::get('/programme-single', [PageController::class, 'programmeSingle'])->name('programme-single');
 Route::get('/notice-details', [PageController::class, 'noticeDetails'])->name('notice-details');
 Route::get('/campus-life', [PageController::class, 'campusLife'])->name('campus-life');
+Route::get('/living-in-valencia', [PageController::class, 'livingInValencia'])->name('living-in-valencia');
 Route::get('/contact', [PageController::class, 'contact'])->name('contact');
 Route::get('/department-details', [PageController::class, 'departmentDetails'])->name('department-details');
 Route::get('/event-details', [PageController::class, 'eventDetails'])->name('event-details');
@@ -43,10 +44,13 @@ Route::get('/faculty-sub-details', [PageController::class, 'facultySubDetails'])
 Route::get('/faculty-sub', [PageController::class, 'facultySub'])->name('faculty-sub');
 Route::get('/faculty', [PageController::class, 'faculty'])->name('faculty');
 Route::get('/tution-fee', [PageController::class, 'tutionFee'])->name('tution-fee');
+Route::get('/business-english-course', [PageController::class, 'businessEnglishCourse'])->name('business-english-course');
 Route::get('/visa-requirement', [PageController::class, 'visaRequirements'])->name('visa-requirement');
+Route::get('/diploma-spanish-language', [PageController::class, 'diplomaSpanishLanguage'])->name('diploma-spanish-language');
+Route::get('/general-english-course', [PageController::class, 'generalEnglishCourse'])->name('general-english-course');
 
 Route::get('/research', [NovusController::class, 'catalogue'])->defaults('category', 'dba-degrees')->name('research');
-Route::get('/programmes', [NovusController::class, 'catalogue'])->name('programmes');
+Route::get('/programmemes', [NovusController::class, 'catalogue'])->name('programmemes');
 Route::get('/english-school/{slug?}', [NovusController::class, 'english'])->name('english');
 Route::post('/enquiries', [NovusController::class, 'enquire'])->middleware('throttle:5,1')->name('enquiries');
 foreach (array_keys(config('novus.pages')) as $page) {
@@ -57,6 +61,6 @@ foreach (array_keys(config('novus.pages')) as $page) {
 }
 foreach (array_keys(config('novus.categories')) as $category) {
     Route::get('/'.$category, [NovusController::class, 'catalogue'])->defaults('category', $category)->name($category);
-    Route::get('/'.$category.'/{slug}', [NovusController::class, 'programme'])->defaults('category', $category);
+    Route::get('/'.$category.'/{slug}', [NovusController::class, 'programmeme'])->defaults('category', $category);
 }
 Route::get('/enrol-form', [NovusController::class, 'page'])->defaults('page', 'study-with-us');
