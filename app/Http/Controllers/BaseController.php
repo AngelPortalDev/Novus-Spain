@@ -7,7 +7,7 @@ class BaseController extends Controller
     // view pages
     protected $layout = 'Frontend.Layouts.app';
 
-    protected $page = 'Frontend.pages.';
+    protected $page = 'Frontend.Pages.';
 
     protected $header = 'Frontend.Partials.header.';
 
