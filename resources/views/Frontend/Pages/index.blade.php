@@ -29,11 +29,16 @@
                                                     <img src="{{asset('assets/images/icon/e-cap.svg')}}" alt="cap"> NOVUS EDUCATION • VALENCIA • SPAIN
                                                 </div>
                                                 <h1 class="banner__slides--content--title">
-                                                   Build Your Future Through Education
+                                                  Learn with purpose. Build your future in Valencia.
                                                 </h1>
-                                                <a href="{{ route('business-english-course') }}" class="rts-theme-btn btn-arrow">View Our programme
+                                                <div class="hero-buttons">
+                                                <a href="{{ route('business-english-course') }}" class="rts-theme-btn btn-arrow">View Our programmes
                                                     <span><i class="fa-regular fa-arrow-right"></i></span>
                                                 </a>
+                                                <a href="https://one.novuseducation.es/crm/admission-form" class="rts-theme-btn btn-arrow">Apply Now
+                                                    <span><i class="fa-regular fa-arrow-right"></i></span>
+                                                </a>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
@@ -54,9 +59,9 @@
                                                     <img src="{{asset('assets/images/icon/e-cap.svg')}}" alt="cap">STUDY IN VALENCIA
                                                 </div>
                                                 <h1 class="banner__slides--content--title">
-                                                   An International Learning Experience in Spain
+                                                   An international learning experience in the heart of the Mediterranean.
                                                 </h1>
-                                                <a href="{{ route('general-english-course') }}" class="rts-theme-btn btn-arrow">View Our programme
+                                                <a href="{{ route('general-english-course') }}" class="rts-theme-btn btn-arrow">View Our programmes
                                                     <span><i class="fa-regular fa-arrow-right"></i></span>
                                                 </a>
                                             </div>
@@ -98,7 +103,7 @@
                                         <path id="circle" d="M50,50 m-37,0a37,37 0 1,1 74,0a37,37 0 1,1 -74,0"></path>
                                     </defs>
                                     <text>
-                                        <textPath xlink:href="#circle">Novus Education * Estd. 2026 * Explore Future *
+                                        <textPath xlink:href="#circle">NOVUS Education * Valencia * Est. 2026 *
                                         </textPath>
                                     </text>
                                 </svg>
@@ -118,31 +123,23 @@
                             <img src="{{asset('assets/images/icon/e-cap-pix.svg')}}" alt="cap"> 
                           ABOUT
                         </div>
-                        <h2 class="about__right--content--title">Novus Education</h2>
-                        <p class="about__right--content--description">Novus Education is an education provider based in Valencia, Spain, welcoming national and international students.</p>
-                        <p class="about__right--content--description">We believe education should help you do more than gain knowledge. It should help you think independently, communicate confidently, develop practical capabilities and prepare for future academic and professional opportunities.</p>
-                         <p class="about__right--content--description">Our aim is to provide a supportive, international and student-focused learning environment where every learner has the opportunity to develop and progress.</p>
-                        <div class="about__right--content--vision">
-                            <div class="mision">
-                                <div class="mision__icon">
-                                    <img src="{{asset('assets/images/icon/mission.svg')}}" alt="">
-                                </div>
-                                <div class="mision__title">
-                                    University Mission
-                                    Statement
-                                </div>
+                        <h2 class="about__right--content--title">NOVUS Education</h2>
+                        <p class="about__right--content--description">NOVUS Education is a new school in Valencia welcoming students from Spain
+and around the world. We help you build the language, professional skills and
+confidence to study, work and live in an international world, with practical courses
+and personal support at every step.</p>
+        <div class="about__right--content--vision">
+                          
+                                <div class="faculty-content-text me-5">
+                            <h6 class="font-32 mb-4">Our mission</h6>
+                            <p>NOVUS Education helps international students learn with purpose, building the language, professional skills and confidence to study, work and live in a global world. Our practical, people-focused courses connect learning with real life in Valencia, one of Europe's most vibrant cities.</p>
+                            <h6 class="font-32 mb-4 mt-5">Our vision</h6>
+                            <p>A world where every learner has the language, skills and confidence to build their future wherever they choose.</p>
+                      
                             </div>
-                            <div class="vision">
-                                <div class="vision__icon">
-                                    <img src="{{asset('assets/images/icon/vission.svg')}}" alt="">
-                                </div>
-                                <div class="vision__title">
-                                    University Vision
-                                    Achievement
-                                </div>
-                            </div>
+                         
                         </div>
-                        <a href="{{ route('about') }}" class="rts-theme-btn btn-arrow">About Novus Education
+                        <a href="{{ route('about') }}" class="rts-theme-btn btn-arrow">About NOVUS Education
                             <span><i class="fa-regular fa-arrow-right"></i></span>
                         </a>
                     </div>
@@ -180,7 +177,7 @@
         <div class="container">
             <div class="row">
                 <div class="rts__section--wrapper rt__lowercase">
-                    <h2 class="rts__section--title">DISCOVER OUR programmeMES</h2>
+                    <h2 class="rts__section--title">DISCOVER OUR programmes</h2>
                     <!-- <div class="rts__section--link">
                         <a class="rts-nbg-btn btn-arrow" href="">View All<span><i class="fa-sharp fa-regular fa-arrow-right"></i>
                         </span></a>
@@ -242,7 +239,7 @@
                         <div class="rts__single--event--meta">
                            
                             <h5 class="rts__single--event--meta--title">
-                                <a href="{{ route('diploma-spanish-language') }}">Diploma in Spanish Language</a>
+                                <a href="{{ route('diploma-spanish-language') }}">Diploma in Spanish</a>
                             </h5>
                             <a class="rts__round--btn" href="{{ route('diploma-spanish-language') }}">
                                 <i class="fa-light fa-arrow-right"></i>
@@ -257,75 +254,7 @@
     <!-- academic programme end -->
      
     @include($components . 'scholarship', ['class' => 'rts-scholarship-bg rts-section-height'])
-    <!-- campus life -->
-    <section class="rts__section rts-section-padding">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-5 col-md-6">
-                    <div class="rts__section--wrapper v__2">
-                        <h2 class="rts__section--title">Campus Life</h2>
-                        <p class="rts__section--description">Embark on a journey of knowledge, discovery, and growth at Unipix University. Our admissions process is designed identify bright, motivated individuals who are eager contribute to our dynamic academic community.</p>
-                        <div class="campus__vector">
-                            <img src="assets/images/campus/campus__vector.svg" alt="">
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-7 col-md-6">
-                    <div class="campus__life">
-                        <!-- single campus -->
-                        <div class="campus__life--single">
-                            <div class="campus__life--single--bg">
-                                <img src="assets/images/campus/campus__life__bg__1.jpg" alt="">
-                            </div>
-                            <div class="campus__life--single--flex">
-                                <div class="campus__life--single--content">
-                                    <h4 class="campus__life--single--title"><a href="/campus-life">Student Life</a></h4>
-                                    <p class="campus__life--single--description">Building a vibrant community of creative and accomplished people from around.</p>
-                                </div>
-                                <div class="campus__life--single--button">
-                                    <a href="/campus-life"><i class="fa-sharp fa-regular fa-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- single campus end -->
-                        <!-- single campus -->
-                        <div class="campus__life--single">
-                            <div class="campus__life--single--bg">
-                                <img src="assets/images/campus/campus__life__bg__2.jpg" alt="">
-                            </div>
-                            <div class="campus__life--single--flex">
-                                <div class="campus__life--single--content">
-                                    <h4 class="campus__life--single--title"><a href="/campus-life">Arts &amp; Culture</a></h4>
-                                    <p class="campus__life--single--description">Building a vibrant community of creative and accomplished people from around.</p>
-                                </div>
-                                <div class="campus__life--single--button">
-                                    <a href="/campus-life"><i class="fa-sharp fa-regular fa-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- single campus end -->
-                        <!-- single campus -->
-                        <div class="campus__life--single">
-                            <div class="campus__life--single--bg">
-                                <img src="assets/images/campus/campus__life__bg__3.jpg" alt="">
-                            </div>
-                            <div class="campus__life--single--flex">
-                                <div class="campus__life--single--content">
-                                    <h4 class="campus__life--single--title"><a href="/athletics">Athletics</a></h4>
-                                    <p class="campus__life--single--description">Building a vibrant community of creative and accomplished people from around.</p>
-                                </div>
-                                <div class="campus__life--single--button">
-                                    <a href="/athletics"><i class="fa-sharp fa-regular fa-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- single campus end -->
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- campus life end -->
+
 
     <section class="rts-application-procedure rts-section-padding">
         <div class="container">

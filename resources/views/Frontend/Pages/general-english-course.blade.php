@@ -219,7 +219,7 @@
 
             <div class="course-image">
                 <img
-                    src="{{ asset('assets/images/campus/event/event-details.jpg') }}"
+                    src="{{ asset('assets/images/event/general-english.jpg') }}"
                     alt="Students attending a classroom session"
                 >
             </div>

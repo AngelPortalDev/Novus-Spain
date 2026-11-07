@@ -16970,6 +16970,8 @@ body.index-sc h1, body.index-sc h2, body.index-sc h3, body.index-sc h4, body.ind
   overflow: hidden;
   z-index: 1;
 }
+
+
 .rts-theme-btn::before {
   position: absolute;
   height: 100%;
@@ -22947,7 +22949,7 @@ body.index-sc h1, body.index-sc h2, body.index-sc h3, body.index-sc h4, body.ind
 }
 
 .semister-fee {
-  margin-top: 50px;
+  /* margin-top: 10px; */
 }
 .semister-fee__content h5 {
   margin-bottom: 10px;
@@ -23065,7 +23067,7 @@ body.index-sc h1, body.index-sc h2, body.index-sc h3, body.index-sc h4, body.ind
   padding: 15px 20px;
   font-weight: 400;
   text-align: center;
-  color: var(--rt-secondary);
+  color: #000;
   vertical-align: middle;
   border: 1px solid var(--rt-line);
 }
@@ -26079,4 +26081,33 @@ body.index-sc h1, body.index-sc h2, body.index-sc h3, body.index-sc h4, body.ind
   z-index: 999;
   top: 0;
 }
+
+.hero-buttons {
+    display: flex;
+    align-items: center;
+    gap: 0;
+    flex-wrap: nowrap;
+    gap: 15px;
+}
+
+.hero-buttons a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 18px 28px;
+    background: #c80a1e;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+    white-space: nowrap;
+}
+
+.hero-buttons a:hover {
+    background: #c80a1e;
+}
+
+.hero-buttons span {
+    margin-left: 12px;
+}
 /*# sourceMappingURL=../maps/style.css.map */
+

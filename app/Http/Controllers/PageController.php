@@ -317,6 +317,13 @@ class PageController extends BaseController
         ]);
     }
 
+        public function livingInValencia()
+    {
+        return $this->view('living-in-valencia',[
+            'page_title' => 'Living in Valencia ',
+        ]);
+    }
+    
           // Diploma Spanish Language
     public function diplomaSpanishLanguage()
     {

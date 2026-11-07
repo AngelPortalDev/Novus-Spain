@@ -34,6 +34,7 @@ Route::get('/scholarship', [PageController::class, 'scholarship'])->name('schola
 Route::get('/programme-single', [PageController::class, 'programmeSingle'])->name('programme-single');
 Route::get('/notice-details', [PageController::class, 'noticeDetails'])->name('notice-details');
 Route::get('/campus-life', [PageController::class, 'campusLife'])->name('campus-life');
+Route::get('/living-in-valencia', [PageController::class, 'livingInValencia'])->name('living-in-valencia');
 Route::get('/contact', [PageController::class, 'contact'])->name('contact');
 Route::get('/department-details', [PageController::class, 'departmentDetails'])->name('department-details');
 Route::get('/event-details', [PageController::class, 'eventDetails'])->name('event-details');

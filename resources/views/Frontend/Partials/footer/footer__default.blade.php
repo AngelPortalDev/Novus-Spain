@@ -49,10 +49,10 @@
             </div>
              <div class="col-lg-3 col-md-6 col-sm-6">
                 <div class="footer__widget">
-                    <h6 class="footer__widget--title">Quick Button</h6>
+                    <!-- <h6 class="footer__widget--title">Quick Button</h6> -->
                     <div class="footer__widget--button">
-                        <a href="https://one.novuseducation.es/crm/admission-form/" target="_blank" class="cta__button active">Applying</a>
-                        <a href="https://one.novuseducation.es/crm/admission-form/" target="_blank" class="cta__button">scholarship</a>
+                        <a href="https://one.novuseducation.es/crm/admission-form/" target="_blank" class="cta__button active">Apply Now</a>
+
                     </div>
                 </div>
             </div> 
