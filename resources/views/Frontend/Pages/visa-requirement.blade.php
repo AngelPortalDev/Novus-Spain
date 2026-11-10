@@ -21,7 +21,7 @@
                     Visa and immigration requirements depend on your nationality, the type and duration of your programmeme and your individual circumstances.
                     You should always check the latest requirements issued by the competent Spanish authorities and the Spanish Consulate responsible for your place of residence.
                     </p>
-                    <p>We provide the documents and guidance you need for your study visa application. Visa decisions rest entirely with the Spanish authorities and cannot be guaranteed.</p>
+                    <p>We provide the documents and guidance you need for your study visa application. Send the full set of visa documents within two weeks of paying your fees. Visa decisions rest entirely with the Spanish authorities and cannot be guaranteed.</p>
                                                 </div>
                             <!-- faq -->
                             <div class="programme-credit-area faq mt--50">
