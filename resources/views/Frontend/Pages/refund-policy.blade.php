@@ -16,7 +16,7 @@
                         <div class="programme-description-area">
                             <section class="programme-about mb--30">
                                 <h5 class="title">Visa refusal and registration fee</h5>
-                                <p>If the competent Spanish authority formally refuses your study visa, tuition fees paid are refundable once we receive and verify the official refusal notice. The registration fee is non-refundable under this policy, subject to mandatory law. It is retained or deducted only once and is not charged again if already retained separately.</p>
+                                <p>If the competent Spanish authority formally refuses your study visa, tuition fees paid are refundable once we receive and verify the official refusal notice. The registration fee €290 is non-refundable and the amount varies by course and nationality. under this policy, subject to mandatory law. It is retained or deducted only once and is not charged again if already retained separately.</p>
                             </section>
                             <section class="programme-about mb--30">
                                 <h5 class="title">Submitting a refund request</h5>
@@ -53,7 +53,7 @@
                             </section>
                             <section class="programme-about mb--30">
                                 <h5 class="title">Mandatory consumer rights</h5>
-                                <p>For a qualifying distance or off-premises service contract, you normally have 14 calendar days from conclusion to withdraw without giving a reason. Any longer statutory period or extension remains available. Send a clear withdrawal notice to <a href="mailto:info@novuseducation.es" class="text-decoration-underline text-primary">info@novuseducation.es</a> or to the School address on this letter. Statutory withdrawal refunds are made without undue delay and within 14 calendar days of notice, using the original payment method unless otherwise expressly agreed at no cost to you. No automatic deduction applies. Only a lawful proportionate charge for services started at your express request may apply. Loss of withdrawal rights after full performance requires the consent and acknowledgement prescribed by law. These rights take priority over every exclusion, charge and timetable above.</p>
+                                <p>For a qualifying distance or off-premises service contract, you normally have 14 calendar days from conclusion to withdraw without giving a reason. Any longer statutory period or extension remains available. Send a clear withdrawal notice to <a href="mailto:info@novuseducation.es" class="text-decoration-underline text-primary">info@novuseducation.es</a> or to <b>Carrer Enric Valor, 1, 46980 Paterna, Valencia, Spain.</b> Statutory withdrawal refunds are made without undue delay and within 14 calendar days of notice, using the original payment method unless otherwise expressly agreed at no cost to you. No automatic deduction applies. Only a lawful proportionate charge for services started at your express request may apply. Loss of withdrawal rights after full performance requires the consent and acknowledgement prescribed by law. These rights take priority over every exclusion, charge and timetable above.</p>
                             </section>
                         </div>
                     </div>
