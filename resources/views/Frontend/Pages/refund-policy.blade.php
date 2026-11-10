@@ -16,7 +16,7 @@
                         <div class="programme-description-area">
                             <section class="programme-about mb--30">
                                 <h5 class="title">Visa refusal and registration fee</h5>
-                                <p>If the competent Spanish authority formally refuses your study visa, tuition fees paid are refundable once we receive and verify the official refusal notice. The EUR 290 registration fee is non-refundable under this policy, subject to mandatory law. It is retained or deducted only once and is not charged again if already retained separately.</p>
+                                <p>If the competent Spanish authority formally refuses your study visa, tuition fees paid are refundable once we receive and verify the official refusal notice. The registration fee is non-refundable under this policy, subject to mandatory law. It is retained or deducted only once and is not charged again if already retained separately.</p>
                             </section>
                             <section class="programme-about mb--30">
                                 <h5 class="title">Submitting a refund request</h5>
@@ -28,11 +28,11 @@
                             </section>
                             <section class="programme-about mb--30">
                                 <h5 class="title">Deferral of an intake</h5>
-                                <p>An approved student-requested deferral carries a EUR 290 deferral fee, which is non-refundable and non-transferable except where mandatory law requires otherwise. This is separate from the registration fee. Any difference in tuition or other agreed charges for the new intake must be paid before studies recommence.</p>
+                                <p>An approved student-requested deferral carries a deferral fee, which is non-refundable and non-transferable except where mandatory law requires otherwise. This is separate from the registration fee. Any difference in tuition or other agreed charges for the new intake must be paid before studies recommence.</p>
                             </section>
                             <section class="programme-about mb--30">
                                 <h5 class="title">Visa documents within two weeks</h5>
-                                <p>Where a visa is required, provide the complete set of visa documents requested by the School within two weeks of paying your fees. If failure to do so makes a deferral necessary, the School will notify you and apply the EUR 290 deferral fee, subject to mandatory law.</p>
+                                <p>Where a visa is required, provide the complete set of visa documents requested by the School within two weeks of paying your fees. If failure to do so makes a deferral necessary, the School will notify you and apply the deferral fee, subject to mandatory law.</p>
                             </section>
                             <section class="programme-about mb--30">
                                 <h5 class="title">Voluntary withdrawal after payment</h5>
@@ -53,7 +53,7 @@
                             </section>
                             <section class="programme-about mb--30">
                                 <h5 class="title">Mandatory consumer rights</h5>
-                                <p>For a qualifying distance or off-premises service contract, you normally have 14 calendar days from conclusion to withdraw without giving a reason. Any longer statutory period or extension remains available. Send a clear withdrawal notice to <a href="mailto:info@novuseducation.es" class="text-decoration-underline text-primary">info@novuseducation.es</a> or to the School address on this letter. Statutory withdrawal refunds are made without undue delay and within 14 calendar days of notice, using the original payment method unless otherwise expressly agreed at no cost to you. No automatic EUR 290 deduction applies. Only a lawful proportionate charge for services started at your express request may apply. Loss of withdrawal rights after full performance requires the consent and acknowledgement prescribed by law. These rights take priority over every exclusion, charge and timetable above.</p>
+                                <p>For a qualifying distance or off-premises service contract, you normally have 14 calendar days from conclusion to withdraw without giving a reason. Any longer statutory period or extension remains available. Send a clear withdrawal notice to <a href="mailto:info@novuseducation.es" class="text-decoration-underline text-primary">info@novuseducation.es</a> or to the School address on this letter. Statutory withdrawal refunds are made without undue delay and within 14 calendar days of notice, using the original payment method unless otherwise expressly agreed at no cost to you. No automatic deduction applies. Only a lawful proportionate charge for services started at your express request may apply. Loss of withdrawal rights after full performance requires the consent and acknowledgement prescribed by law. These rights take priority over every exclusion, charge and timetable above.</p>
                             </section>
                         </div>
                     </div>

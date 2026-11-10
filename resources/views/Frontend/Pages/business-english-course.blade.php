@@ -315,7 +315,7 @@
             </h2>
 
             <p>
-                Our Business English programmeme develops the practical language skills professionals need for meetings, presentations, negotiations, email communication and other workplace situations.
+                Our Business English programme develops the practical language skills professionals need for meetings, presentations, negotiations, email communication and other workplace situations.
             </p>
 
             <p>The course combines language development with realistic workplace tasks. Students build accuracy, fluency and confidence while learning to communicate appropriately in formal and professional contexts.</p>

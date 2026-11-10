@@ -7,7 +7,7 @@
                         <p style="max-width: 542px;">We believe business is learned best by doing. At NOVUS, you won't just study how great experiences are created: you'll practise creating them.</p>
                     </div>
                     <!-- <div class="rts__section--wrapper v__5">
-                        <h2 class="rts__section--title">DISCOVER OUR programmeMES</h2>
+                        <h2 class="rts__section--title">DISCOVER OUR PROGRAMMES</h2>
                        </div> -->
                 </div>
             </div>
@@ -39,7 +39,7 @@ future employers.</p>
                         </div>
                         <a style="color: #fff;"> The city as your classroom</a>
                         <p>Valencia's hotels, venues, events and international businesses
-are right on our doorstep. Our programmemes are designed to connect what you learn in class with
+are right on our doorstep. Our programmes are designed to connect what you learn in class with
 how these industries really work.
 </p>
                     </div>

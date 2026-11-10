@@ -315,7 +315,7 @@
             </h2>
 
             <p>
-                Our General English programmeme develops speaking, listening,
+                Our General English programme develops speaking, listening,
                 reading and writing through practical, structured and
                 engaging lessons.
             </p>

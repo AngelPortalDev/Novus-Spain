@@ -5,9 +5,9 @@ return [
         'dba-degrees' => ['Doctoral Degrees', 'Explore research-led approaches to complex business questions.'],
         'masters-of-business-administration' => ['MBA Degrees', 'Connect management thinking with leadership and organisational challenges.'],
         'masters-degrees' => ['Masters Degrees', 'Explore specialist study across business, leadership and computing.'],
-        'postgraduate-diploma-programmemes' => ['Postgraduate programmemes', 'Explore focused postgraduate study in your chosen field.'],
+        'postgraduate-diploma-programmemes' => ['Postgraduate programmes', 'Explore focused postgraduate study in your chosen field.'],
         'bachelor-degrees' => ['Bachelor Degrees', 'Build a foundation for your academic and professional journey.'],
-        'diploma-programmemes' => ['Diploma programmemes', 'Explore practical foundations in business and technology.'],
+        'diploma-programmemes' => ['Diploma programmes', 'Explore practical foundations in business and technology.'],
         'award-certificates' => ['Award Certificates', 'Discover focused topics for continued professional development.'],
     ],
     'english' => [
@@ -22,11 +22,11 @@ return [
         'about' => ['About Novus Education', 'A new perspective. A world of possibility.', 'Novus Education is a school in Spain with an international outlook. Explore your interests, consider your next step and discover what you want to achieve through education.', [
             'Our direction' => 'Our ambition is to bring learning, curiosity and personal development together in an open and welcoming environment.',
             'Your next chapter' => 'Choosing a school is a personal decision. Explore the study areas on this website and prepare questions about teaching, support and progression.',
-            'Get to know us' => 'Details of our campus, academic team and confirmed programmemes will be published as they become available.',
+            'Get to know us' => 'Details of our campus, academic team and confirmed programmes will be published as they become available.',
         ]],
         'our-team' => ['Our Team', 'The people behind your next chapter.', 'Meet the academic and student support community of Novus Education. Confirmed staff profiles will be published here.', [
             'Academic team' => 'Faculty names, subject expertise and biographies are awaiting confirmation.',
-            'Admissions enquiries' => 'Use the contact form to record your questions about programmeme availability and the admissions process.',
+            'Admissions enquiries' => 'Use the contact form to record your questions about programme availability and the admissions process.',
             'Student support' => 'Details of support services and the relevant contacts will be added once confirmed.',
         ]],
         'work-with-us' => ['Work with Us', 'Help shape the future of learning.', 'Explore future opportunities to contribute to Novus Education in teaching, administration and student support.', [
@@ -48,7 +48,7 @@ return [
             'Prepare for arrival' => 'Review accommodation, transport and personal budgeting before you travel. Confirm the campus location before booking accommodation.',
         ]],
         'study-in-spain' => ['Study in Spain', 'Your studies. A Spanish setting.', 'Prepare for a new chapter in Spain with a practical plan for everyday life and study.', [
-            'Language and culture' => 'Learning some everyday Spanish can help you navigate local life. Confirm the teaching language and language requirements of your programmeme separately.',
+            'Language and culture' => 'Learning some everyday Spanish can help you navigate local life. Confirm the teaching language and language requirements of your programme separately.',
             'Living arrangements' => 'Compare accommodation, commuting options and contract terms after the campus address is confirmed. Avoid making commitments based on an assumed location.',
             'Plan your budget' => 'Allow for tuition, accommodation, food, transport, insurance and personal expenses. Request a confirmed fee schedule before accepting a place.',
         ]],
@@ -59,13 +59,13 @@ return [
         ]],
         'digital-campus' => ['Digital Campus', 'Explore a more flexible way to learn.', 'Find information about future online study options at Novus Education. Availability and platform access are awaiting confirmation.', [
             'Learning online' => 'Before choosing an online course, ask about live teaching, independent study, assessment and access to academic support.',
-            'Technical preparation' => 'Confirm the equipment, software and connection requirements for your chosen programmeme.',
+            'Technical preparation' => 'Confirm the equipment, software and connection requirements for your chosen programme.',
             'Student access' => 'A verified student portal link will appear here when available. There is no active digital campus login on this website yet.',
         ]],
-        'admissions' => ['Admissions', 'Take the next step, with clarity.', 'Start by exploring your study interests and checking which Novus Education programmemes are available.', [
-            '01 — Explore your options' => 'Browse study areas and make a shortlist. programmeme names on this preview are indicative and await confirmation for Novus Education.',
+        'admissions' => ['Admissions', 'Take the next step, with clarity.', 'Start by exploring your study interests and checking which Novus Education programmes are available.', [
+            '01 — Explore your options' => 'Browse study areas and make a shortlist. programme names on this preview are indicative and await confirmation for Novus Education.',
             '02 — Check the details' => 'Request confirmed entry requirements, teaching language, fees, dates and qualification recognition.',
-            '03 — Register your interest' => 'Use the study enquiry form to record your preferred programmeme and questions. This is an expression of interest, not an enrolment or an offer of a place.',
+            '03 — Register your interest' => 'Use the study enquiry form to record your preferred programme and questions. This is an expression of interest, not an enrolment or an offer of a place.',
             '04 — Review before accepting' => 'Read the official offer, payment terms and cancellation policy before making a commitment.',
         ]],
         'tuition-fees' => ['Tuition Fees', 'Plan your education with confidence.', 'Confirmed tuition fees and payment arrangements for Novus Education will be published here.', [
@@ -78,20 +78,20 @@ return [
             'Upcoming events' => 'Open days, information sessions and campus events will be added once their dates and locations are confirmed.',
         ]],
         'newsletters' => ['Newsletters', 'A closer look at life and learning.', 'Read future editions of the Novus Education newsletter here.', [
-            'Newsletter archive' => 'The first edition has not yet been published. Future editions will include school updates and links to programmeme information.',
+            'Newsletter archive' => 'The first edition has not yet been published. Future editions will include school updates and links to programme information.',
         ]],
         'contact' => ['Contact Us', 'Let’s talk about your next step.', 'Record your question for Novus Education using the enquiry form below.', [
             'Our location' => 'Spain. The campus city and street address are awaiting confirmation.',
             'Email and telephone' => 'Verified email, phone number and office hours will be published here when available.',
         ]],
-        'study-with-us' => ['Study with Us', 'Your journey starts with a conversation.', 'Register your interest in studying at Novus Education. programmeme availability and admission requirements must be confirmed before enrolment.', []],
+        'study-with-us' => ['Study with Us', 'Your journey starts with a conversation.', 'Register your interest in studying at Novus Education. programme availability and admission requirements must be confirmed before enrolment.', []],
         'privacy-policy' => ['Privacy Policy', 'How this preview handles your enquiry.', 'This local website preview saves enquiry details for review. It does not send your enquiry by email or connect to an external admissions platform.', [
-            'Information collected' => 'The form collects your name, email, optional telephone number, programmeme interest, message and your consent. Do not submit passports, financial records or other sensitive documents.',
+            'Information collected' => 'The form collects your name, email, optional telephone number, programme interest, message and your consent. Do not submit passports, financial records or other sensitive documents.',
             'Storage and purpose' => 'Submitted details are stored encrypted in the application’s private storage and are used to review the website enquiry flow. No marketing subscription is created.',
             'Before public launch' => 'The school’s legal identity, privacy contact, retention period and full privacy notice are awaiting confirmation. Use sample details when trying this local preview.',
         ]],
         'terms-and-conditions' => ['Terms & Conditions', 'Understand the next steps.', 'This website is a preview of Novus Education information pages. It is not an offer of admission or a contract for educational services.', [
-            'programmeme information' => 'programmeme titles are indicative. Availability, recognition, fees, dates and entry requirements must be confirmed in writing by Novus Education.',
+            'programmeme information' => 'programme titles are indicative. Availability, recognition, fees, dates and entry requirements must be confirmed in writing by Novus Education.',
             'Enquiries' => 'Submitting an enquiry does not reserve a place, create an enrolment or require payment. This preview does not process payments.',
             'Enrolment terms' => 'Approved enrolment, cancellation, refund and complaints policies will be made available before applications and payments are accepted.',
         ]],

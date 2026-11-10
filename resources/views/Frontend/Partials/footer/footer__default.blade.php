@@ -23,7 +23,7 @@
             </div>
             <div class="col-lg-3 col-md-6 col-sm-6">
                 <div class="footer__widget">
-                    <h6 class="footer__widget--title">programmemes</h6>
+                    <h6 class="footer__widget--title">programmes</h6>
                     <div class="footer__widget--menu">
                         <ul>
                     <li><a href="{{ route('business-english-course') }}">Business English Course</a></li>

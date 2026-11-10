@@ -26,7 +26,7 @@ class NovusController extends Controller
             'page_title' => $data['title'] ?? 'Novus Education',
             'categories' => config('novus.categories'), 'english' => config('novus.english'),
             'programmemes' => self::programmemes(), 'title' => 'Study in Spain',
-            'description' => 'Explore Novus Education, programmeme information, admissions and student life in Spain.',
+            'description' => 'Explore Novus Education, programme information, admissions and student life in Spain.',
         ], $data));
     }
 
@@ -45,7 +45,7 @@ class NovusController extends Controller
         ));
 
         return $this->render('catalogue', [
-            'title' => $category ? config('novus.categories')[$category][0] : 'Explore Our programmemes',
+            'title' => $category ? config('novus.categories')[$category][0] : 'Explore Our programmes',
             'description' => $category ? config('novus.categories')[$category][1] : 'Find a study area that connects with your ambitions.',
             'items' => $items, 'category' => $category, 'query' => $query,
         ]);
