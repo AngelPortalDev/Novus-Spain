@@ -181,11 +181,11 @@
                                             <div id="collapseTen" class="accordion-collapse collapse" data-bs-parent="#rts-accordion">
                                                 <div class="accordion-body">
                                                     <p>Visa refusals are issued by the competent Spanish authority.</p>
-                                                    <p>If your application is refused, carefully review the written decision and the reasons provided.</p>
+                                                    <p>If your visa application is refused by the Spanish authorities, <b>your tuition fees will be refunded</b> upon submission of an <b>official visa refusal notice.</b> However, the <b>EUR 290 registration fee is non-refundable.</b></p>
                                                     <p>Depending on the circumstances and applicable rules, you may have options to appeal the decision or submit a new application.</p>
                                                     <p>Any tuition refund, cancellation or deferral will be handled according to the applicable Novus Education policy and your enrolment terms.</p>
                                                     <p>Novus Education cannot guarantee the success of a visa application, appeal or reapplication.</p>
-                                                    
+                                                    <p>For complete details, please refer to our <a href="/refund-policy" target="_blank" class="text-decoration-underline">Refund Policy</a>.</p>
                                                 </div>
                                             </div>
                                         </div>

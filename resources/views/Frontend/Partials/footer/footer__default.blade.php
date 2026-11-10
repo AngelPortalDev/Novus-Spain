@@ -67,7 +67,7 @@
         <div class="row">
             <div class="col-sm-12">
                 <div class="copyright__wrapper">
-                    <p>Copyright &copy; {{ date('Y') }} All Rights Reserved by <a href="https://www.novuseducation.es/">Novus Education</a></p>
+                    <p>Copyright &copy; {{ date('Y') }} All Rights Reserved by <a href="https://www.novuseducation.es/">Novus Education</a> | <a href="{{ route('refund-policy') }}">Refund Policy</a> | <a href="{{ route('terms-and-conditions') }}">Terms & Conditions</a></p>
                 </div>
             </div>
         </div>

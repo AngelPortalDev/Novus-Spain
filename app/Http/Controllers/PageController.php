@@ -4,6 +4,16 @@ namespace App\Http\Controllers;
 
 class PageController extends BaseController
 {
+    public function refundPolicy()
+    {
+        return $this->view('refund-policy', ['page_title' => 'Refund Policy']);
+    }
+    
+    public function termsAndConditions()
+    {
+        return $this->view('terms-and-conditions', ['page_title' => 'Terms and Conditions']);
+    }
+
     // homepage one
     public function index()
     {

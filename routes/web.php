@@ -48,13 +48,15 @@ Route::get('/business-english-course', [PageController::class, 'businessEnglishC
 Route::get('/visa-requirement', [PageController::class, 'visaRequirements'])->name('visa-requirement');
 Route::get('/diploma-spanish-language', [PageController::class, 'diplomaSpanishLanguage'])->name('diploma-spanish-language');
 Route::get('/general-english-course', [PageController::class, 'generalEnglishCourse'])->name('general-english-course');
+Route::get('/refund-policy', [PageController::class, 'refundPolicy'])->name('refund-policy');
+Route::get('/terms-and-conditions', [PageController::class, 'termsAndConditions'])->name('terms-and-conditions');
 
 Route::get('/research', [NovusController::class, 'catalogue'])->defaults('category', 'dba-degrees')->name('research');
 Route::get('/programmemes', [NovusController::class, 'catalogue'])->name('programmemes');
 Route::get('/english-school/{slug?}', [NovusController::class, 'english'])->name('english');
 Route::post('/enquiries', [NovusController::class, 'enquire'])->middleware('throttle:5,1')->name('enquiries');
 foreach (array_keys(config('novus.pages')) as $page) {
-    if (in_array($page, ['about', 'contact'], true)) {
+    if (in_array($page, ['about', 'contact', 'terms-and-conditions', 'refund-policy'], true)) {
         continue;
     }
     Route::get('/'.$page, [NovusController::class, 'page'])->defaults('page', $page)->name($page);
