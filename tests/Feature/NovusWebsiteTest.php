@@ -26,7 +26,7 @@ class NovusWebsiteTest extends TestCase
     public function test_search_and_category_filters_work_together(): void
     {
         $this->get('/masters-degrees?q=entrepreneurship')->assertOk()->assertSee('1 programmeme')->assertSee('MA in Entrepreneurship')->assertDontSee('MBA in Leadership Excellence');
-        $this->get('/programmemes?q=zzzzzz')->assertOk()->assertSee('No programmemes found');
+        $this->get('/programmemes?q=zzzzzz')->assertOk()->assertSee('No programmes found');
         $this->get('/masters-degrees/not-a-course')->assertNotFound();
         $this->get('/english-school/not-a-course')->assertNotFound();
         $this->get('/not-a-page')->assertNotFound();
@@ -39,7 +39,7 @@ class NovusWebsiteTest extends TestCase
         Storage::fake('local');
         $this->post('/enquiries', [])->assertSessionHasErrors(['name', 'email', 'message', 'consent']);
         $this->assertSame([], Storage::disk('local')->allFiles('novus-enquiries'));
-        $payload = ['name' => 'Test Student', 'email' => 'student@example.test', 'message' => 'Please tell me about programmeme availability.', 'consent' => '1', 'programmeme' => NovusController::programmemes()[0]['title']];
+        $payload = ['name' => 'Test Student', 'email' => 'student@example.test', 'message' => 'Please tell me about programme availability.', 'consent' => '1', 'programmeme' => NovusController::programmemes()[0]['title']];
         $this->from('/study-with-us')->post('/enquiries', $payload)->assertRedirect('/study-with-us')->assertSessionHas('enquiry_reference');
         $files = Storage::disk('local')->allFiles('novus-enquiries');
         $this->assertCount(1, $files);

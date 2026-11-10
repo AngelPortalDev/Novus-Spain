@@ -265,7 +265,7 @@ and personal support at every step.</p>
                         <!-- <p class="w-520">If you have any questions or need assistance at any step of the application process, our admissions team is here to help. We look forward to welcoming you to Unipix University.</p> -->
                     </div>
                     <!-- <div class="rts__section--wrapper v__5">
-                        <h2 class="rts__section--title">DISCOVER OUR programmeMES</h2>
+                        <h2 class="rts__section--title">DISCOVER OUR PROGRAMMES</h2>
                        </div> -->
                 </div>
             </div>
@@ -280,8 +280,8 @@ and personal support at every step.</p>
                         <div class="icon">
                             <img src="assets/images/icon/07.svg" alt="">
                         </div>
-                        <a href="https://one.novuseducation.es/crm/admission-form/">Choose Your programmeme</a>
-                        <p>Explore our programmemes and review the entry requirements, study format, duration and available intake.</p>
+                        <a href="https://one.novuseducation.es/crm/admission-form/">Choose Your programme</a>
+                        <p>Explore our programmes and review the entry requirements, study format, duration and available intake.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-11">

@@ -18,10 +18,10 @@
                             <div class="programme-about">
                                 <h4 class="title">Student Visa & Study Authorisation</h4>
                                                     <p>This guide provides general information for international students planning to study in Spain.
-                    Visa and immigration requirements depend on your nationality, the type and duration of your programmeme and your individual circumstances.
+                    Visa and immigration requirements depend on your nationality, the type and duration of your programme and your individual circumstances.
                     You should always check the latest requirements issued by the competent Spanish authorities and the Spanish Consulate responsible for your place of residence.
                     </p>
-                    <p>We provide the documents and guidance you need for your study visa application. Visa decisions rest entirely with the Spanish authorities and cannot be guaranteed.</p>
+                    <p>We provide the documents and guidance you need for your study visa application. Send the full set of visa documents within two weeks of paying your fees. Visa decisions rest entirely with the Spanish authorities and cannot be guaranteed.</p>
                                                 </div>
                             <!-- faq -->
                             <div class="programme-credit-area faq mt--50">
@@ -119,7 +119,7 @@
                                                   <p>Once you receive your visa or study authorisation:</p>
                                                   <ul>
                                                     <li>Check that your personal information is correct.</li>
-                                                    <li>Confirm your programmeme start date.</li>
+                                                    <li>Confirm your programme start date.</li>
                                                     <li>Arrange suitable accommodation.</li>
                                                     <li>Prepare your original documents for travel.</li>
                                                     <li>Confirm your travel arrangements.</li>
@@ -168,7 +168,7 @@
                                             <div id="collapseNine" class="accordion-collapse collapse" data-bs-parent="#rts-accordion">
                                                 <div class="accordion-body">
                                                     <p>Contact Novus Education as soon as possible.</p>
-                                                    <p>Depending on your programmeme, available intake and applicable academic policies, it may be possible to discuss alternative arrangements or a later intake.</p>
+                                                    <p>Depending on your programme, available intake and applicable academic policies, it may be possible to discuss alternative arrangements or a later intake.</p>
                                                     <p>A deferral should not be considered automatic unless it has been confirmed in writing by Novus Education.</p>
                                                 </div>
                                             </div>
@@ -181,7 +181,7 @@
                                             <div id="collapseTen" class="accordion-collapse collapse" data-bs-parent="#rts-accordion">
                                                 <div class="accordion-body">
                                                     <p>Visa refusals are issued by the competent Spanish authority.</p>
-                                                    <p>If your visa application is refused by the Spanish authorities, <b>your tuition fees will be refunded</b> upon submission of an <b>official visa refusal notice.</b> However, the <b>EUR 290 registration fee is non-refundable.</b></p>
+                                                    <p>If your visa application is refused by the Spanish authorities, <b>your tuition fees will be refunded</b> upon submission of an <b>official visa refusal notice.</b> However, the <b>registration fee is non-refundable and the amount varies by course and nationality.</b></p>
                                                     <p>Depending on the circumstances and applicable rules, you may have options to appeal the decision or submit a new application.</p>
                                                     <p>Any tuition refund, cancellation or deferral will be handled according to the applicable Novus Education policy and your enrolment terms.</p>
                                                     <p>Novus Education cannot guarantee the success of a visa application, appeal or reapplication.</p>
