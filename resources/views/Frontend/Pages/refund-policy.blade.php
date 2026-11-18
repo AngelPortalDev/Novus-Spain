@@ -24,7 +24,7 @@
                             </section>
                             <section class="programme-about mb--30">
                                 <h5 class="title">Refund processing time</h5>
-                                <p>Eligible visa-refusal refunds are processed within 35 to 40 working days after the scheduled intake begins. Submit the complete request and supporting documents promptly. This timetable does not delay a refund that must be made earlier under mandatory law, including a statutory withdrawal refund.</p>
+                                <p>Eligible refunds are processed 45 working days after the intake start date. Submit the complete request and supporting documents promptly. This timetable does not delay a refund that must be made earlier under mandatory law, including a statutory withdrawal refund.</p>
                             </section>
                             <section class="programme-about mb--30">
                                 <h5 class="title">Deferral of an intake</h5>
@@ -45,6 +45,10 @@
                             <section class="programme-about mb--30">
                                 <h5 class="title">Withdrawal after entering Spain or the Schengen Area</h5>
                                 <p><a href="{{ route('terms-and-conditions') }}#clause-12" target="_blank" class="text-decoration-underline text-primary">Clause 12 of the Terms and Conditions (non-enrolment or withdrawal after visa entry)</a> applies if you use a visa obtained through admission to Novus Education and then choose not to study. Mandatory consumer rights are not affected.</p>
+                            </section>
+                            <section class="programme-about mb--30">
+                                <h5 class="title">Residence permit refusal after arrival</h5>
+                                <p>No refund is available if your residence permit or its extension is refused after you have arrived in Spain. Novus assists with visa and residence permit procedures but is not responsible for the decision or its outcome. Mandatory consumer rights are not affected.</p>
                             </section>
                             
                             <section class="programme-about mb--30">
