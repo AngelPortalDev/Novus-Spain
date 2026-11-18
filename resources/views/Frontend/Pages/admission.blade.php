@@ -50,8 +50,8 @@
                                     <li class="single-requirement">Passport Size Photo</li>
                                     <li class="single-requirement">Passport Copy (Front & Last Page)</li>
                                     <li class="single-requirement">SOP (Statement of Purpose)</li>
-                                    <li class="single-requirement">MOI (Medium of Instruction/IELTS)</li>
-                                    <li class="single-requirement">Marksheets, Transcripts, Provisional,Consolidated & Degree Certificates for all levels (School, High School, Bachelors) </li>
+                                    
+                                    <li class="single-requirement">Marksheets, Transcripts / Degree Certificates of the highest qualification (School, High School, Bachelors) </li>
                             
                                 </ul>
                             </div>
