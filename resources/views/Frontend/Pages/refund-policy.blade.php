@@ -16,7 +16,7 @@
                         <div class="programme-description-area">
                             <section class="programme-about mb--30">
                                 <h5 class="title">Visa refusal and registration fee</h5>
-                                <p>If the competent Spanish authority formally refuses your study visa, tuition fees paid are refundable once we receive and verify the official refusal notice. The registration fee €290 is non-refundable and the amount varies by course and nationality. under this policy, subject to mandatory law. It is retained or deducted only once and is not charged again if already retained separately.</p>
+                                <p>For students who pay the tuition fee before their visa decision through a partner institution, if the competent Spanish authority formally refuses the study visa, the tuition fee paid will be refunded upon receipt and verification of the official refusal notice, minus any administration or bank charges applied by the partner institution, within the timeframe set by that institution. The registration fee stated in the fee list and offer letter is non-refundable, subject to mandatory applicable law. Students enrolling directly with Novus pay the tuition fee only after their visa has been approved, either in full with a scholarship or, for one-year courses, in monthly instalments. The registration fee varies by course and nationality and is retained or deducted only once if not already retained separately.</p>
                             </section>
                             <section class="programme-about mb--30">
                                 <h5 class="title">Submitting a refund request</h5>

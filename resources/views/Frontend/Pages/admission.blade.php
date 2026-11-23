@@ -34,8 +34,11 @@
                                 <li class="single-requirement">If your visa is granted but you do not come, no refund is due and Novus informs the immigration authorities.</li>
                                 <li class="single-requirement">If you leave early, cancel in writing. Amounts already paid are not refunded. Instalment students owe the current month's instalment only; no further instalments are due.</li>
                                 <li class="single-requirement">Students who paid in full and leave early receive no refund; the scholarship was provided for advance payment.</li>
+                                <li>Refunds are processed 45 working days after the intake start date (except visa refusals, see point 2).</li>
+                                <li>No refund if a residence permit or its extension is refused after the student has arrived in Spain.</li>
                             </ul>
                             <p>These terms are subject to mandatory rights under applicable law.</p>
+                            <br>
                         </div>
 
                         <div class="admission-big-thumb">
