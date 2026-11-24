@@ -23,7 +23,7 @@
 
                         <div class="requirement-deadline">
                             <h3 class="rts-section-title">Tuition Payment</h3>
-                            <p>Within 14 days after visa approval, visa students must either pay the full tuition fee with a 25% scholarship, or, for one-year courses only, the first of 12 equal monthly instalments with no scholarship. The remaining instalments are due monthly from the course start date, and the full tuition must be paid by the end of the course. Courses shorter than one year must be paid in full.</p>
+                            <p>Visa students must comply with the 14-day payment deadline from the date of visa approval by either paying the full tuition fee with a 25% scholarship or, for one-year courses only, paying the first of 12 equal monthly instalments with no scholarship. The remaining instalments are due monthly from the course start date, and the full tuition fee must be paid by the end of the course. Courses shorter than one year must be paid in full within the same 14-day payment deadline.</p>
                             <p>EU and visa-free students follow the same payment options without the visa step. The full tuition fee (with the 25% scholarship) or the first instalment for a one-year course is due by the intake deadline.</p>
                         </div>
 
