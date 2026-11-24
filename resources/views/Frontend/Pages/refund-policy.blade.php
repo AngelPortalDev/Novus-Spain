@@ -16,7 +16,7 @@
                         <div class="programme-description-area">
                             <section class="programme-about mb--30">
                                 <h5 class="title">Visa refusal and registration fee</h5>
-                                <p>For students who pay the tuition fee before their visa decision through a partner institution, if the competent Spanish authority formally refuses the study visa, the tuition fee paid will be refunded upon receipt and verification of the official refusal notice, minus any administration or bank charges applied by the partner institution, within the timeframe set by that institution. The registration fee stated in the fee list and offer letter is non-refundable, subject to mandatory applicable law. Students enrolling directly with Novus pay the tuition fee only after their visa has been approved, either in full with a scholarship or, for one-year courses, in monthly instalments. The registration fee varies by course and nationality and is retained or deducted only once if not already retained separately.</p>
+                                <p>For students who pay the tuition fee before their visa decision through a partner institution, if the competent Spanish authority formally refuses the study visa, the tuition fee paid will be refunded upon receipt and verification of the official refusal notice, minus any administration or bank charges applied by the partner institution, within the timeframe set by that institution. The registration fee stated in the fee list and offer letter is non-refundable, subject to mandatory applicable law. Students enrolling directly with Novus pay the tuition fee only after their visa has been approved, either in full with a scholarship or, for one-year courses, in monthly instalments.</p>
                             </section>
                             <section class="programme-about mb--30">
                                 <h5 class="title">Submitting a refund request</h5>
@@ -44,7 +44,7 @@
                             </section>
                             <section class="programme-about mb--30">
                                 <h5 class="title">Withdrawal after entering Spain or the Schengen Area</h5>
-                                <p><a href="{{ route('terms-and-conditions') }}#clause-12" target="_blank" class="text-decoration-underline text-primary">Clause 12 of the Terms and Conditions (non-enrolment or withdrawal after visa entry)</a> applies if you use a visa obtained through admission to Novus Education and then choose not to study. Mandatory consumer rights are not affected.</p>
+                                <p><a href="{{ route('terms-and-conditions') }}#clause-13" target="_blank" class="text-decoration-underline text-primary">Clause 13 of the Terms and Conditions (non-enrolment or withdrawal after visa entry)</a> applies if you use a visa obtained through admission to Novus Education and then choose not to study. Mandatory consumer rights are not affected.</p>
                             </section>
                             <section class="programme-about mb--30">
                                 <h5 class="title">Residence permit refusal after arrival</h5>
